@@ -2,7 +2,7 @@
 title: "Nouscera Motion Design | A01 | Thought Receipt TR-001"
 version: "0.3"
 date: "2026-11-11"
-status: "Working; conversation-source attribution corrected, editorial meaning approval pending"
+status: "Historical concept study; superseded as Film 001 source by D-012"
 stage: "03"
 brick: "B03.02"
 sources:
@@ -15,6 +15,8 @@ sources:
 ---
 
 # Artifact A01: Thought Receipt TR-001
+
+**ARCHIVAL STATUS:** This receipt concerns the earlier assistant-proposed information/direction sample. The first cinematic experiment now adapts the user-supplied essay _The Human at the Door_. See D-012 and `stories/001-human-at-the-door/SOURCE_MAP_v01.md`. This receipt is kept to document how the idea evolved, not as the approved film source.
 
 **Status: WORKING. The source of the phrase has been identified in the original studio conversation. The user selected an assistant-proposed test concept; this does not constitute approval of every subsequent interpretation.**
 
