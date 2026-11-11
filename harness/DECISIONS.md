@@ -10,14 +10,14 @@
 | D-004 | 2026-11-11 | Research the studio disciplines cartographically before production | Author approval of KIRA-inspired research-first approach | Confirmed approach | Preserve disciplinary scar tissue, evidence and qualifications |
 | D-005 | 2026-11-11 | Recognize 13 provisional research provinces, including Selection, Curation and Creative Judgment | Author endorsement | Approved research scope | Province files are hypotheses, not automatic production rules |
 | D-006 | 2026-11-11 | Use six handoff artifact **types** in Stage 03 | Author: "i agree with the artifacts" | Accepted architecture | Templates and filled instances still require review |
-| D-007 | 2026-11-11 | Develop the first film from "Having more information does not necessarily mean having more direction" | Original proposed test story, reaffirmed by author | Story seed adopted | Protect qualifying words, especially "not necessarily" |
+| D-007 | 2026-11-11 | Develop the first film from "Having more information does not necessarily mean having more direction" | Assistant proposed the line in "Create Motion Explainers"; user selected and reaffirmed it as the sample | Story seed adopted | Protect qualifying words, especially "not necessarily" |
 | D-008 | 2026-11-11 | Make GitHub a versioned harness for research, evolving workflows, decisions and outputs, not a document dump | Author's repository instruction | Accepted direction | Maintain status, change receipts and traceable artifact handoffs |
 | D-009 | 2026-11-11 | Use a dual-track studio method: Meaning and Cinematic Language meet at an explicit selection gate | Stage 02 recommendation | **Working proposal** | Not yet formal operating doctrine |
 | D-010 | 2026-11-11 | Draft Thought Receipt TR-001 to preserve the story's meaning before choosing visuals | Stage 03 proposal | **Author review pending** | Do not select final visual metaphor on its basis yet |
 
 ## Unresolved decisions
 
-- **OQ-001:** What does the author centrally mean by "direction"? The draft proposes orientation toward purpose/relevance/next action, but this is not approved.
+- **OQ-001:** Which interpretation of "direction" should the studio deliberately develop from the assistant-proposed, user-selected sample? None is yet approved.
 - **OQ-002:** Which, if any, visual treatment best carries the protected relationship? No treatment is selected.
 - **OQ-003:** What role should narrative voice, protagonist, and character play? Unselected.
 - **OQ-004:** Whether any candidate force merits formal production status requires a specific test; Stage 02 desk ratings are not empirical proof.
@@ -27,3 +27,13 @@
 **D-### | date | question | alternatives | evidence and author preference | decision-maker | chosen option | scope | trade-offs | status | affected artifact(s) | revision trigger**
 
 If an earlier decision changes, **add a superseding entry**, rather than silently rewriting what was formerly approved.
+
+
+### D-011 | 2026-11-11 | Correct origin of first test premise
+
+**Question:** Where did the selected story line actually come from? 
+**Finding:** The assistant first proposed the exact sentence during the "Create Motion Explainers" conversation. The user subsequently accepted it as a creative sample and later directed the studio to use it as the first test story. 
+**Decision:** Correct the provenance label from implied user-authored original thought to **assistant-proposed, user-selected test concept**. 
+**Approval basis:** Correction requested explicitly by the user; does not approve the yet-to-be-developed semantic interpretation. 
+**Scope:** TR-001, Story 001 readme, STATUS.md, OQ-001. 
+**Consequence:** Future work should derive a fitting meaning and cinematic treatment collaboratively, not demand an invented personal origin. The complete verbatim source transcript has not been uploaded publicly.

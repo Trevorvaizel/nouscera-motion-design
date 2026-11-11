@@ -1,6 +1,6 @@
 # Story 001: Information is not direction
 
-**Exact seed:** "Having more information does not necessarily mean having more direction."
+**Exact seed:** "Having more information does not necessarily mean having more direction."\n\n**Source:** Introduced as a candidate by the assistant in the 11 November 2026 "Create Motion Explainers" conversation, then selected by the user as the first test. Not a verbatim user-authored autobiographical claim.
 
 **Current state:** Pre-treatment. Thought Receipt TR-001 is a working draft requiring the author's interpretive approval. Nothing cinematic has been chosen as the final story.
 
@@ -13,7 +13,7 @@
 
 ## What remains open
 
-- The author's deepest intended meaning of **direction**.
+- The creative interpretation of **direction** we decide this sample should express.
 - The narrative voice, human situation and whether there is any character.
 - The visual metaphor and eventual transformation sequence.
 - Recognition score, finished narration, length, sound design and test criteria.

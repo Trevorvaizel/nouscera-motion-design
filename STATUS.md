@@ -3,8 +3,8 @@
 **As of:** 2026-11-11  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving studio methodology  
-**Current brick:** B03.02, TR-001 substantive content audit  
-**Status:** TR-001 v0.2 audited; author review still required on the meaning of "direction"
+**Current brick:** B03.02, TR-001 source provenance and editorial meaning  
+**Status:** TR-001 v0.3: assistant-origin sample concept correctly attributed; editorial interpretation remains open
 
 ## Confirmed direction
 
@@ -24,7 +24,7 @@
 |---|---|---|
 | 01: Domain cartography | Research draft completed | 13 province dossiers and a source register exist; not approved canon |
 | 02: Critical synthesis | Desk audit drafted | 109 candidate forces adjudicated provisionally; no viewer validation |
-| 03: Studio methodology | In progress | Thought Receipt v0.2 content audit complete, pending author's interpretation |
+| 03: Studio methodology | In progress | Thought Receipt v0.3 source attribution corrected; editorial interpretation remains open |
 | 04: First-film production | Not begun | No approved treatment, storyboard, generated clips or final cut |
 | 05: Repeatable studio capability | Not begun | Depends on actual production and viewer evidence |
 
@@ -32,13 +32,13 @@
 
 Before selecting imagery, narration or the cinematic transformation of Story 001:
 
-**Author decision needed:** what does "direction" most centrally mean in the original statement? Possibilities include purpose, orientation, practical next action, relevance, or a more inclusive distinction. Do not choose on the author's behalf.
+**Editorial decision needed:** compare viable meanings of "direction" for this **assistant-proposed, user-selected sample concept**. The user is not being asked for a personal origin story. Develop interpretations collaboratively, then obtain explicit creative-direction approval for the intended recognition.
 
 Until then, TR-001 remains **working**, and all visual treatments remain candidates.
 
 ## Next permitted brick
 
-B03.02: author review of the sharpened Thought Receipt v0.2. The seven-section content audit is complete; the central meaning is not yet approved. Then derive and compare at least two distinct treatments. No video generation should be presented as approved creative direction before those gates.
+B03.02: develop the central meaning from the verified conversation-source sequence (assistant-proposed sample, user-selected test), compare interpretations, and seek creative-direction approval. The content audit and provenance correction are complete; the interpretation is not yet selected. Then derive and compare at least two distinct treatments. No video generation should be presented as approved creative direction before those gates.
 
 ## Read order
 

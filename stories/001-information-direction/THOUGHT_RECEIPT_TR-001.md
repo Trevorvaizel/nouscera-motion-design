@@ -1,8 +1,8 @@
 ---
 title: "Nouscera Motion Design | A01 | Thought Receipt TR-001"
-version: "0.2"
+version: "0.3"
 date: "2026-11-11"
-status: "Working after content audit; authorial meaning approval pending"
+status: "Working; conversation-source attribution corrected, editorial meaning approval pending"
 stage: "03"
 brick: "B03.02"
 sources:
@@ -16,7 +16,7 @@ sources:
 
 # Artifact A01: Thought Receipt TR-001
 
-**Status: WORKING. This is a critical revision, not a claim that the author's intended meaning has been approved.**
+**Status: WORKING. The source of the phrase has been identified in the original studio conversation. The user selected an assistant-proposed test concept; this does not constitute approval of every subsequent interpretation.**
 
 ## 0. What this instrument is for
 
@@ -46,9 +46,11 @@ Five failures justify it: metaphor imports an unintended claim (P01); narrative 
 
 > Having more information does not necessarily mean having more direction.
 
-**Confirmed:** This sentence was introduced in the studio's exploratory exchange and selected as the working premise for our first explainer (D-007). It was later reaffirmed as the story to test.
+**Conversation provenance, corrected:** In the 11 November 2026 conversation titled **"Create Motion Explainers"**, the **assistant** proposed this exact sentence as an illustrative first concept, connected to the user's interest in black-and-white, illustration-led cinematic explainers. The **user** subsequently accepted it as a sample and reaffirmed it as the story to test. This was a selected creative experiment, not a verbatim user-authored maxim or a claim derived from a documented autobiographical incident.
 
-**Not established:** That the sentence is a verbatim quotation from the human author's prior experience, what prompted it, or which meaning of 'direction' the author prioritizes. Do not fabricate an origin story or transfer authorship of the wording by assumption.
+**Evidence boundary:** A contemporaneous conversation summary establishes the original speaker and adoption sequence, but the complete verbatim transcript surrounding that message has not been imported into this public repository. The exact preceding rationale should not be invented. Selection of a sample is not approval of every assistant-supplied interpretation of the words.
+
+**What is not established:** That the phrase arose directly from a particular personal experience, that it expresses an already settled philosophy of direction, or that the user has endorsed one specific definition of direction. The studio may now *develop* that interpretation collaboratively, without asking the user to recover an origin they did not claim.
 
 ## 02. Smallest protected relationship
 
@@ -58,7 +60,7 @@ An **increase** in information does **not by itself guarantee** an **increase** 
 
 It denies a necessary implication; it does not establish an inverse relationship, a harmful effect of information, or a particular missing cause.
 
-**Competing interpretations of 'direction', pending author choice:**
+**Competing editorial treatments of 'direction', pending collaborative development and selection:**
 
 | Candidate | Distinct concern | Risk if chosen without checking |
 |---|---|---|
@@ -145,8 +147,8 @@ Only **after recording those unprompted responses** can we probe whether the vie
 
 These are small formative tests. They do not establish generalizable comprehension without appropriate study design.
 
-**Authorial decision gate: OPEN.**
-- Human author/director must approve or revise the meaning of 'direction' and the intended recognition.
+**Editorial decision gate: OPEN.**
+- The author/director can compare and approve a developed interpretation of 'direction' and intended recognition. The author is **not** being asked to disclose a personal origin for an assistant-proposed sample concept.
 - No screenplay, visual metaphor, or A02 treatment selected.
 - After approval, record the exact decision and derive **A02 Treatment Comparison** with distinct rival treatments.
 
@@ -167,3 +169,8 @@ These are small formative tests. They do not establish generalizable comprehensi
 **Research status:** The P01/P02/P03/P04/P13 manuscripts justify investigating these classes of failure. They do not prove that a specific audience will reconstruct this particular film's meaning.
 
 **Brick B03.02 outcome:** Source-content audit completed; seven sections sharpened. **Approval gate remains unresolved**, because the author has not yet supplied or selected the deeper meaning of 'direction'.
+
+
+## Conversation-source correction: v0.2 -> v0.3
+
+The previous review repeatedly asked the user to explain where the thought originated in personal experience. This was a provenance error. The phrase was introduced by the **assistant** as an initial example in the source conversation, then **selected by the user as the first sample**. Correction preserves the original sequence and alters the next task from autobiographical excavation to **collaborative editorial development**. The distinction is essential: adopted test premise ≠ user-authored autobiographical proposition ≠ approved final meaning.
