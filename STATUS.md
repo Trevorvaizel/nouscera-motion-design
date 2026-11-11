@@ -3,8 +3,8 @@
 **As of:** 2026-11-11  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.07, Derive A03 Recognition Score and continuity anchor  
-**Status:** Working treatment **The Transforming Room** selected (D-015); A03 Recognition Score is next
+**Current brick:** B03.07, Review A03 Recognition Score and continuity anchor  
+**Status:** The Transforming Room approved as working treatment (D-015); A03 Recognition Score v0.1 drafted, continuity strategy **not yet approved**
 
 ## Confirmed direction
 
@@ -21,7 +21,7 @@
 |---|---|
 | 01, Domain cartography | 13 province working drafts compiled |
 | 02, Critical synthesis | 109 candidate forces provisionally adjudicated |
-| 03, Studio methodology | A01 TR-002 approved; A02 hierarchical A+C treatment selected; A03 not yet developed |
+| 03, Studio methodology | A01 approved; A02 working treatment selected; A03 six-beat score drafted, pending author review |
 | 04, Film experiment | Not started; no approved narrative treatment, clips or viewer tests |
 | 05, Capability system | Not started |
 
@@ -29,7 +29,7 @@
 
 Read `stories/001-human-at-the-door/README.md` and `stories/001-human-at-the-door/SOURCE_MAP_v01.md`.
 
-**B03.05 closed:** TR-002 approved as meaning. **B03.06 closed:** The author selected Option 2, **the room itself becomes the worlds** (D-015). **B03.07 next:** Establish what remains continuous as the environment transforms, then develop A03 Recognition Score before writing camera/prompt specifications.
+**B03.05 closed:** TR-002 approved as meaning. **B03.06 closed:** The author selected Option 2, **the room itself becomes the worlds** (D-015). **B03.07 active:** [A03 Recognition Score v0.1](stories/001-human-at-the-door/A03_RECOGNITION_SCORE_v01.md) proposes a visible-human opening, embodied transformations and a return to the person at the recognition. The source/meaning/treatment are approved; the A03 score and continuity anchor remain working proposals. Do not write camera/prompt specifications as approved until the A03 gate closes.
 
 Do **not** automatically promote the previous information-and-direction TR-001 to the essay's governing statement.
 
