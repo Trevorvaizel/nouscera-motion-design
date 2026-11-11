@@ -14,7 +14,7 @@ This repository is a **creative research harness**, not an invitation to generat
 
 - Be **source-faithful**. Distinguish exact author statements, cited research, inference, unresolved uncertainty, and creative invention.
 - Work on **one meaningful brick** at a time. Show alternatives and why one survives.
-- Never silently replace the user's claim to suit an attractive AI-generated scene. Preserve the exact seed: "Having more information does not necessarily mean having more direction."
+- Never silently replace source meaning to suit an attractive generated scene. Film 001 now draws from the supplied essay **_The Human at the Door_**, not the earlier assistant-proposed information/direction sentence. Begin with the Source Map and the actual selected passage.
 - Keep the engraved monochrome style benchmark separate from the story's subject. An astronaut is **not** prescribed.
 - AI-first image-to-video remains the planned visual workflow. 2.5D/compositing are optional supporting techniques; editable 3D is not a project objective.
 - Do not treat an unopposed draft or impressive output as approval. Record decisions with names, status, scope and revision trigger.
@@ -27,7 +27,7 @@ Never copy private KIRA source materials, personal/private chats, confidential w
 
 ## Next brick
 
-See [Issue #1](https://github.com/Trevorvaizel/nouscera-motion-design/issues/1). TR-001 is pending author interpretation of "direction". Do not approve it by inference.
+See [STATUS.md](STATUS.md) and the [Film 001 Source Map](stories/001-human-at-the-door/SOURCE_MAP_v01.md). The next decision is which movement of the essay to adapt into the first short-film experiment.
 
 ## Definition of progress
 
