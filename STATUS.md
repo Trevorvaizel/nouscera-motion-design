@@ -2,48 +2,37 @@
 
 **As of:** 2026-11-11  
 **Project:** Nouscera Motion Design  
-**Current stage:** 03, Deriving studio methodology  
-**Current brick:** B03.02, TR-001 source provenance and editorial meaning  
-**Status:** TR-001 v0.3: assistant-origin sample concept correctly attributed; editorial interpretation remains open
+**Current stage:** 03, Deriving the studio methodology  
+**Current brick:** B03.03, Anchor Film 001 to its actual essay source  
+**Status:** The Human at the Door source map v0.1 added; adaptation movement not selected
 
 ## Confirmed direction
 
-- Make AI-first, short-form cinematic explainers for social distribution.
-- Start from deliberately composed illustrations and generate motion with AI.
-- Treat the original engraved, monochrome illustration as a **style benchmark**, not a required protagonist or story.
-- Explore emergence from blackness, convincing spatial movement, organic metamorphosis and absorption.
-- Prefer AI-generated motion; 2.5D, compositing and editing are support methods where a tested need arises.
-- First film's authored seed: **"Having more information does not necessarily mean having more direction."**
-- Use the 13 researched provinces, including Selection, as candidate knowledge sources.
-- Use six proposed studio artifacts; their **purposes** were accepted, but templates and instances require review.
-- Maintain the repository as a transparent, versioned research-to-film harness.
+- **Actual first-film source:** _The Human at the Door: You Don't Need to Know What This Becomes Yet_, a 50-page PDF supplied in the conversation. The underlying file is **not** in this public repo.
+- The previous line, "Having more information does not necessarily mean having more direction", was an assistant-proposed illustrative concept. It relates to the essay's "The fog" section but is **not** the full source work or an approved screenplay.
+- AI-first animation from deliberately composed illustrations, with a black void and white engraved imagery. Apparent depth, fluid transformations, emergence and absorption remain visual ambitions.
+- The astronaut remains a style benchmark, not a protagonist.
+- The 13 research provinces and Stage 02 force synthesis are working research, not established laws.
+- The studio's six artifact families remain. For existing source works, a source map precedes A01 Thought Receipt to prevent the long-form argument from being replaced by a slogan.
 
-## Completed versus not completed
+## Stage gates
 
-| Stage | State | Meaning |
-|---|---|---|
-| 01: Domain cartography | Research draft completed | 13 province dossiers and a source register exist; not approved canon |
-| 02: Critical synthesis | Desk audit drafted | 109 candidate forces adjudicated provisionally; no viewer validation |
-| 03: Studio methodology | In progress | Thought Receipt v0.3 source attribution corrected; editorial interpretation remains open |
-| 04: First-film production | Not begun | No approved treatment, storyboard, generated clips or final cut |
-| 05: Repeatable studio capability | Not begun | Depends on actual production and viewer evidence |
+| Stage | Status |
+|---|---|
+| 01, Domain cartography | 13 province working drafts compiled |
+| 02, Critical synthesis | 109 candidate forces provisionally adjudicated |
+| 03, Studio methodology | Actual essay source registered; adaptation passage/recognition not selected |
+| 04, Film experiment | Not started; no approved narrative treatment, clips or viewer tests |
+| 05, Capability system | Not started |
 
-## Current decision gate
+## Current handoff
 
-Before selecting imagery, narration or the cinematic transformation of Story 001:
+Read `stories/001-human-at-the-door/README.md` and `stories/001-human-at-the-door/SOURCE_MAP_v01.md`.
 
-**Editorial decision needed:** compare viable meanings of "direction" for this **assistant-proposed, user-selected sample concept**. The user is not being asked for a personal origin story. Develop interpretations collaboratively, then obtain explicit creative-direction approval for the intended recognition.
+**Next brick B03.04:** Compare possible first short-film movements from the essay (fog, clean AI answer, expert sentence, navigation) and choose one *from the actual source*. Derive a new source-anchored A01 Thought Receipt from it. A02 cinematic treatment comparison comes afterwards.
 
-Until then, TR-001 remains **working**, and all visual treatments remain candidates.
+Do **not** automatically promote the previous information-and-direction TR-001 to the essay's governing statement.
 
-## Next permitted brick
+## Open boundaries
 
-B03.02: develop the central meaning from the verified conversation-source sequence (assistant-proposed sample, user-selected test), compare interpretations, and seek creative-direction approval. The content audit and provenance correction are complete; the interpretation is not yet selected. Then derive and compare at least two distinct treatments. No video generation should be presented as approved creative direction before those gates.
-
-## Read order
-
-1. `harness/BRICK_PROTOCOL.md`
-2. `harness/DECISIONS.md`
-3. `stories/001-information-direction/README.md`
-4. `stories/001-information-direction/THOUGHT_RECEIPT_TR-001.md`
-5. `research/Volume_14_integrative_synthesis_and_studio_constitution.md`
+No source passage, narrator, protagonist, camera, style bible, motion prompt or clip has been approved. PDF publication rights have not been established. The PDF has not been copied to this public repo.
