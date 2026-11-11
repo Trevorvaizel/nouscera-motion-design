@@ -41,3 +41,18 @@ This file records **changes to how the studio works**, not changes to a particul
 **W-### | date | trigger | previous practice | new practice | why | evidence/countercases | author status | affected documents | experiment or review required | retirement condition**
 
 Do not overwrite the previous workflow rationale when a new one supersedes it.
+
+
+## W-005 | 2026-11-11 | Adaptation-source preflight
+
+**Trigger:** The supplied source for the first experiment is a 50-page essay, while the previous Thought Receipt had been built from a one-line assistant-proposed example.
+
+**From:** Begin A01 with an attractive concept line and ask the user for its personal origin.
+
+**To:** For an existing source work, first register the work, map its argument and movements, and choose a self-contained adaptation unit. Only then derive a source-anchored A01 Thought Receipt.
+
+**Why:** A slogan can flatten a longer essay and manufacture a claim the source did not make.
+
+**Status:** Adopted for the Film 001 preparation phase. This conditional **Source Map** is not a seventh compulsory artifact; the six agreed artifact types remain.
+
+**Evidence and limits:** User-uploaded _The Human at the Door_ (50 pages), film source now confirmed. No short-film passage selected. Full text deliberately excluded from public GitHub.
