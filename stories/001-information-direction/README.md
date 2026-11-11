@@ -1,32 +1,11 @@
-# Story 001: Information is not direction
+# Historical concept exploration: Information and direction
 
-**Exact seed:** "Having more information does not necessarily mean having more direction."\n\n**Source:** Introduced as a candidate by the assistant in the 11 November 2026 "Create Motion Explainers" conversation, then selected by the user as the first test. Not a verbatim user-authored autobiographical claim.
+**Status:** Not the canonical Film 001 source. Superseded for film-source selection by D-012.
 
-**Current state:** Pre-treatment. Thought Receipt TR-001 is a working draft requiring the author's interpretive approval. Nothing cinematic has been chosen as the final story.
+The assistant originally proposed **"Having more information does not necessarily mean having more direction"** as a possible short explainer concept. It was used to develop a sample Thought Receipt, now preserved as [TR-001](THOUGHT_RECEIPT_TR-001.md).
 
-## What is fixed
+The user has since supplied the **actual source work for the first experiment**, the 50-page essay **_The Human at the Door: You Don't Need to Know What This Becomes Yet_**.
 
-- Preserve the relationship of **non-equivalence**, especially **"not necessarily"**.
-- Do not presume information is harmful or that one correct route always exists.
-- Film belongs to a monochrome, engraving-inspired moving-image practice, but the prior astronaut illustration is only a visual benchmark.
-- AI-first image-to-video is the intended means of animation.
+The earlier line is thematically related to the essay's **"The fog"** chapter, but is not the complete thesis, a verified verbatim line of the essay, or an approved cinematic adaptation.
 
-## What remains open
-
-- The creative interpretation of **direction** we decide this sample should express.
-- The narrative voice, human situation and whether there is any character.
-- The visual metaphor and eventual transformation sequence.
-- Recognition score, finished narration, length, sound design and test criteria.
-
-## Present artifacts
-
-- [TR-001, working draft](THOUGHT_RECEIPT_TR-001.md)
-- [Current studio status](../../STATUS.md)
-- [Decision register](../../harness/DECISIONS.md)
-- [Open questions](../../harness/OPEN_QUESTIONS.md)
-
-## Next brick
-
-Revisit the protected distinction and have the author decide which formulation captures their thought. Only then derive Treatment Comparison A02.
-
-Do not confuse generating a spectacular scene with making this film.
+Continue at [Film 001: The Human at the Door](../001-human-at-the-door/README.md). Do not discard this history, and do not confuse source correction with approval of a script.
