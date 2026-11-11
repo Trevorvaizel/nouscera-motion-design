@@ -2,7 +2,7 @@
 title: "Film 001 | A04 | Look and Motion Bible | The Transforming Room"
 version: "0.1"
 date: "2026-11-11"
-status: "Working visual constitution and test plan; author review pending"
+status: "Working test baseline authorized for A05 derivation, not approved production canon"
 stage: "03"
 brick: "B03.08"
 source: "The Human at the Door, The fog, PDF pp. 7-11"
@@ -256,3 +256,8 @@ This is a proposed comparative method, **not a claim that any particular model c
 - **P13:** Aesthetic attractiveness, source fit, reliable generation and reception must be judged separately.
 
 This public repository contains this working interpretation and operational plan, **not** the copyrighted underlying PDF or its style-reference image.
+
+
+## A05 continuation note | D-017
+
+The author responded **"Proceed"** after A04's six motion operations and one-morph proof proposal. The studio therefore advanced to a **working A05 micro-test**, not a claim that A04's visual physics are independently proven. [EX-001 contract](A05_EX001_SHOT_TRANSITION_CONTRACT_v01.md) specifies a desk-to-possible-conversation transformation and a foreground hand/notebook human tether. These are **test choices** awaiting illustrated anchors and results, not final Film 001 scenes.

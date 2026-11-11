@@ -30,3 +30,8 @@ The author chose **Option 2: the room itself becomes the worlds**. This combines
 ## A04 | Visual physics and motion language
 
 [A04 Look and Motion Bible v0.1](A04_LOOK_AND_MOTION_BIBLE_v01.md) defines black as unformed possibility, white engraved lines as constructed reality, six distinct motion operations, continuity principles and a **proposed one-morph test**. The user authorized continuing from A03 through "proceed" (D-016); the Bible is **working** and no model/video experiment has yet occurred. The next concrete selection is one meaningful room-element to advice-world-element correspondence and a human tether for A05.
+
+
+## A05 | First controlled metamorphosis contract
+
+[A05 EX-001: The desk becomes a possible conversation](A05_EX001_SHOT_TRANSITION_CONTRACT_v01.md) is the **working** production contract for a single room-to-world test. The source form is a desk edge; the target is a possible customer-conversation table; the continuous human tether is a foreground hand/notebook relation. The wider room itself must change identity. **No anchor illustrations or AI clips have been generated yet.**

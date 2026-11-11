@@ -94,3 +94,14 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Result:** A04 Look and Motion Bible v0.1 drafted with semantic motion operations and the smallest proposed single-morph proof.
 **Not validated:** Human-anchor implementation, AI temporal stability, visual identity or viewer recognition.
 **Next decision:** Determine the concrete first semantic correspondence and anchor, then derive A05 test shot contracts.
+
+
+### D-017 | 2026-11-11 | Advance A04 into a scoped A05 experimental design
+
+**Context:** The studio presented A04 v0.1 as a *working* Look and Motion Bible and proposed a single room-to-world metamorphosis proof. The author replied **"Proceed"**.
+**Scope of authorization:** Continue into A05 first Shot and Transition Contract from the A04 working visual principles. **Not** blanket approval of all A04 visual rules or a particular new scene.
+**Studio proposal:** EX-001, a room desk edge becomes the table edge of a **possible customer encounter**, supported by a recognizable foreground human hand/notebook tether.
+**Source anchor:** "The fog" in _The Human at the Door_, pp. 7–11, including a plausible instruction to talk to customers.
+**Status:** A05 **working micro-test design, not a locked narrative scene**. No image or video is generated, no AI reliability is established, no audience evidence exists.
+**Next:** Review candidate start/end states and human tether; make deliberate illustrated anchors; verify provider input constraints and run a comparative short test with receipts.
+**Revision trigger:** Author correction, source meaning leakage, technical failure or viewer misinterpretation.
