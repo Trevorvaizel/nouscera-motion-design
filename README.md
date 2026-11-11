@@ -4,7 +4,7 @@
 
 This repository is a *working harness*: the place where research, authored intent, decisions, creative alternatives, experiments, rejected takes and revised methods remain connected to the film they inform.
 
-The current test story is: **"Having more information does not necessarily mean having more direction."**
+The first experiment adapts a selected movement from the user-supplied 50-page essay **_The Human at the Door: You Don’t Need to Know What This Becomes Yet_**. The earlier information-and-direction sentence is a historical thematic example, not the source work.
 
 The engraved black-and-white astronaut illustration is a **style benchmark, not the film's subject**. The intended moving-image grammar involves forms emerging from blackness, acquiring convincing depth, transforming, and returning to the void. Illustrations and AI video are the primary production route. Editable 3D is not a goal; 2.5D or compositing may be used only where justified.
 
@@ -15,7 +15,7 @@ The engraved black-and-white astronaut illustration is a **style benchmark, not 
 3. [Workflow history](harness/WORKFLOW_HISTORY.md) and [decision ledger](harness/DECISIONS.md): why we made each consequential choice.
 4. [Source and status policy](harness/KNOWLEDGE_POLICY.md): distinguish evidence, hypotheses, approvals and experiments.
 5. [Six-artifact handoff](harness/ARTIFACT_FLOW.md): how the idea becomes a video.
-6. [First film folder](stories/001-information-direction/README.md): one story's live chain.
+6. [First film folder](stories/001-human-at-the-door/README.md): one story's live chain.
 7. [Research atlas](research/Volume_00_province_atlas.md): the first systematic cross-disciplinary map.
 
 ## Directory map
@@ -25,8 +25,10 @@ harness/                    Workflow, decision records, open questions, template
 research/                   13 working province manuscripts and source register
 research/stage-02/          Desk synthesis and force adjudication (provisional)
 methodology/                Proposed studio methodology and developing instruments
+stories/001-human-at-the-door/
+                            Source map and emerging adaptation chain
 stories/001-information-direction/
-                            Thought receipt and eventually the selected treatment, score, takes and tests
+                            Historical concept exploration retained for traceability
 ```
 
 ## The operating principle
@@ -37,7 +39,7 @@ Research does not automatically become doctrine. A visually impressive result do
 
 ## Where we are
 
-Stages 01 and 02 have substantial *working research drafts*. Stage 03 has started with Thought Receipt TR-001, still **awaiting author review**. There is no approved screenplay, shot list, video generation result, audience test, or finished film yet.
+Stages 01 and 02 have substantial *working research drafts*. Stage 03 has reanchored Film 001 to the supplied essay. Source Map v0.1 is drafted; the exact short-film movement and its Thought Receipt are still unselected. There is no approved screenplay, shot list, video generation result, audience test, or finished film yet.
 
 See [STATUS.md](STATUS.md) before proceeding.
 
@@ -53,4 +55,4 @@ _Initialized 2026-11-11 as a working repository, not a finished studio canon._
 
 ## Continuing with AI assistance
 
-Read [AGENTS.md](AGENTS.md) as the repo entry contract and take the current brick from [STATUS.md](STATUS.md), not from an outdated chat summary. The next open decision is tracked in [Issue #1](https://github.com/Trevorvaizel/nouscera-motion-design/issues/1).
+Read [AGENTS.md](AGENTS.md) as the repo entry contract and take the current brick from [STATUS.md](STATUS.md), not from an outdated chat summary. See [STATUS.md](STATUS.md) for the next source-adaptation brick.
