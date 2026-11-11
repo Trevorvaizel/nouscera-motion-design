@@ -20,3 +20,8 @@ Read [Source Map v0.1](SOURCE_MAP_v01.md) and [B03.04: Comparison of the first s
 The author chose **Option 2: the room itself becomes the worlds**. This combines Treatment A's human perspective with Treatment C's fluid transformation, with the room undergoing metamorphosis rather than serving as a static frame for projected scenes. See [B03.06 decision receipt](B03.06_TRANSFORMING_ROOM_SELECTION.md).
 
 **Next:** Establish how the person's unresolved question remains continuous in the viewer's experience, then derive A03 Recognition Score. No actual footage or AI prompt is approved.
+
+
+## A03 | Recognition Score now drafted
+
+[Read A03 Recognition Score v0.1](A03_RECOGNITION_SCORE_v01.md). It traces six recognitional turns from the human's open question to **placement rather than certainty** and recommends a visible-human opening, immersive transforming worlds, and a human return at the insight. **The anchor and score have not yet been approved.** It is not a script or model prompt.
