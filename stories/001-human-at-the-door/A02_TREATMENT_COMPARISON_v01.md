@@ -1,7 +1,7 @@
 # A02 | The Fog | Cinematic Treatment Comparison v0.1
 
 **Date:** 2026-11-11
-**Status:** WORKING, no treatment selected
+**Status:** Working treatment selected as D-015; alternatives preserved
 **Source:** The Human at the Door, "The fog", PDF pages 7 to 11
 **Approved meaning contract:** TR-002 and the author's explicit approval of placement rather than certainty, while preserving human pressure
 **Inherited aesthetic:** Engraved white linework emerging from black, cinematic depth, organic transformation and absorption; AI-first image-to-video
@@ -138,4 +138,13 @@ Do not blend all three solely because their visual features are attractive. A la
 
 The author may select A, B, C, request a specific hybrid, or reject them. That decision allows A03, the **Recognition Score**, to assign the approved conceptual beats to narration, visual experience, motion, sound and time. It does **not** authorize a finished script, camera list or AI prompt.
 
-**All three are untested editorial proposals.** No viewer study and no model-generation experiment has yet tested their performance or feasibility.
+**The author's subsequent selection:** D-015 selects a hierarchical A+C hybrid: **The Transforming Room**, where the room itself becomes the worlds of advice (not worlds invading a stable room). Original alternatives remain here for decision history. See [B03.06 selection receipt](B03.06_TRANSFORMING_ROOM_SELECTION.md). This working treatment has not been validated with audiences or AI generation.
+
+
+## D-015: Selected working treatment (subsequent author decision)
+
+The author showed interest in A and C. The studio distinguished **worlds entering a stable room** from **the room itself becoming successive worlds**. The author selected **Option 2**.
+
+**Working selection:** **The Transforming Room**, a hierarchical combination of A's human doorway and C's meaningful metamorphosis. The transformation is part of the story's argument, not just a decorative transition.
+
+The treatment is approved **as the direction to develop into A03**, not as finished visual production. Its governing anchor and exact transformations remain open. See [the selection receipt](B03.06_TRANSFORMING_ROOM_SELECTION.md).

@@ -18,7 +18,7 @@
 ## Unresolved decisions
 
 - **OQ-001:** Resolved by D-013. The first adaptation movement is **“The fog”**, PDF pages 7–11. The source-grounded recognition was approved by D-014.
-- **OQ-002:** Which visual treatment best carries the selected essay movement? No treatment is selected.
+- **OQ-002:** Resolved as a working treatment by D-015: The Transforming Room, a hierarchical A+C hybrid. Internal continuity anchor and implementation remain open.
 - **OQ-003:** What role should narrative voice, protagonist, and character play? Unselected.
 - **OQ-004:** Whether any candidate force merits formal production status requires a specific test; Stage 02 desk ratings are not empirical proof.
 
@@ -70,3 +70,16 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Status:** **A01 TR-002 approved as creative intent**, not empirically verified audience understanding.
 **Consequences:** A02 Treatment Comparison is authorized; its alternatives remain unselected. Protect plausible advice, situated consequences, and a modest navigational change without final certainty.
 **Revision trigger:** Authorial change or contradictory viewer evidence, each recorded separately.
+
+
+### D-015 | 2026-11-11 | Select The Transforming Room as working cinematic treatment
+
+**Question:** How should A's human room and C's successive worlds interact?
+**Alternatives:** (1) Separate advice worlds emerge inside a stable human room. (2) The human room **itself transforms continuously** into the worlds.
+**Author selection:** "2", explicitly choosing Option 2 after the two possibilities were explained.
+**Status:** **WORKING TREATMENT SELECTED**, author-confirmed, subject to A03 and generation/reception tests.
+**Creative contract:** The room becomes the worlds; the human's consequential question persists even as surroundings change. The advice remains potentially valid; the turn is **placement rather than certainty**.
+**Not yet decided:** Whether the person is seen or embodied through viewpoint, the recurring continuity anchor, number/identity of worlds, transitions, voiceover, duration, camera, sound design, prompts and renders.
+**Evidence:** Direct conversational selection, preserved in `B03.06_TRANSFORMING_ROOM_SELECTION.md`.
+**Next handoff:** A03 Recognition Score, beginning with continuity of viewpoint/human predicament through the metamorphoses.
+**Revision trigger:** A03 exposes meaning or perception failure; subsequent AI/audience tests disconfirm the mechanism.
