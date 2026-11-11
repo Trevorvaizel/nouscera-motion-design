@@ -3,8 +3,8 @@
 **As of:** 2026-11-11  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.03, Anchor Film 001 to its actual essay source  
-**Status:** The Human at the Door source map v0.1 added; adaptation movement not selected
+**Current brick:** B03.04, Compare source-anchored short-film units  
+**Status:** Four candidate essay movements compared; _The fog_ recommended for editorial review, **not approved**
 
 ## Confirmed direction
 
@@ -21,7 +21,7 @@
 |---|---|
 | 01, Domain cartography | 13 province working drafts compiled |
 | 02, Critical synthesis | 109 candidate forces provisionally adjudicated |
-| 03, Studio methodology | Actual essay source registered; adaptation passage/recognition not selected |
+| 03, Studio methodology | Actual essay source registered; four candidates compared, creative selection open |
 | 04, Film experiment | Not started; no approved narrative treatment, clips or viewer tests |
 | 05, Capability system | Not started |
 
@@ -29,7 +29,7 @@
 
 Read `stories/001-human-at-the-door/README.md` and `stories/001-human-at-the-door/SOURCE_MAP_v01.md`.
 
-**Next brick B03.04:** Compare possible first short-film movements from the essay (fog, clean AI answer, expert sentence, navigation) and choose one *from the actual source*. Derive a new source-anchored A01 Thought Receipt from it. A02 cinematic treatment comparison comes afterwards.
+**Current gate B03.04:** Four movements have been compared in `stories/001-human-at-the-door/B03.04_FIRST_MOVEMENT_COMPARISON.md`. The studio recommends **The fog** (pp. 7–11) for the first source-faithful story experiment, while **The answer that arrives clean** is the strongest alternative for an initial AI-generation-control test. **Author creative selection is still required.** After selection, derive a new source-anchored A01 Thought Receipt and only then A02 cinematic treatment comparisons.
 
 Do **not** automatically promote the previous information-and-direction TR-001 to the essay's governing statement.
 
