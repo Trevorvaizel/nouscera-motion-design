@@ -14,7 +14,7 @@ A question is closed only when an artifact, decision, or test resolves it; mark 
 | OQ-008 | How will production takes and large media be stored without bloating Git history? | Asset workflow | Choose Git LFS or external storage and path manifest | Before large renders |
 | OQ-009 | **Resolved:** interaction of valid-advice placement and real human pressures, with placement as the central revelation (D-014) | No longer blocking | Explicit author approval | Carry into A02 selection | 
 
-| OQ-010 | What anchors the viewer to the **person and unresolved question** while the room itself becomes successive worlds? | A03 Recognition Score | Compare visible-person, embodied-viewpoint or recurring relation without fixing shot mechanics | Derive and review the A03 continuity contract | 
+| OQ-010 | What anchors the viewer to the **person and unresolved question** while the room itself becomes successive worlds? | A03 Recognition Score | Three anchors compared in A03 v0.1; human establishment + embodied interior + human return recommended, not yet author-approved | Review the A03 six-beat recognition score and provisional continuity anchor; request corrections or accept for A04 handoff | 
 
 ## Do not confuse uncertainties
 
