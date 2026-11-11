@@ -1,8 +1,8 @@
 ---
 title: "Film 001 | Artifact A01 | Thought Receipt TR-002: The Fog"
-version: "0.1"
+version: "1.0"
 date: "2026-11-11"
-status: "Working, pending author approval of protected recognition"
+status: "Author-approved creative meaning; audience reception untested"
 story: "Film 001 | The Human at the Door"
 source: "SRC-001, The Human at the Door: You Don't Need to Know What This Becomes Yet, PDF pp. 7–11"
 based_on:
@@ -16,7 +16,7 @@ based_on:
 **Artifact:** A01, Thought Receipt for the *first cinematic study*, not the whole 50-page essay.  
 **Source:** _The Human at the Door_, **“The fog,” PDF pp. 7–11**.  
 **Authority:** The supplied essay has priority over interpretations derived from the old assistant-proposed one-line sample.  
-**Status:** **WORKING**. The selected *passage* has author approval. The particular *interpretation* proposed here does not yet have separate author approval.
+**Status:** **AUTHOR-APPROVED CREATIVE MEANING (D-014).** The film protects the interaction of potentially valid advice and the real human pressures around its use, with **placement rather than certainty** as the central revelation. This is an approval of intended meaning, not a script, treatment or audience finding.
 
 ## 01. Actual source and boundaries
 
@@ -28,7 +28,7 @@ This short-film unit stops with the movement of **placement**. The later essay's
 
 ## 02. Protected relationship, as grounded in the essay
 
-**Provisional formulation:** An answer can be **true or useful in general** without yet being **situated well enough to guide this person, in this moment, toward an appropriate next question, decision or contact**.
+**Approved creative formulation:** An answer can be **true or useful in general** without yet being **situated well enough to guide this person, in this moment, toward an appropriate next question, decision or contact**.
 
 The core problem is not simply that there are many answers. It is the mismatch between a growing inventory of answers and a developing ability to judge **where each belongs**.
 
@@ -73,14 +73,14 @@ This paragraph is an **editorial condensation of the source**, not a verbatim th
 
 ## 05. Intended viewer recognition
 
-**Minimum proposed recognition:**
+**Approved intended recognition:**
 > The problem may not be that the advice is wrong, or that I still lack another answer. I may not yet know where the advice belongs in the situation I am actually facing.
 
 **Possible deeper recognition:** A helpful next move may begin when we ask which concrete decision or real-world contact an answer can inform, without requiring the whole future to be settled.
 
 **What is allowed to remain unresolved:** The ultimate viability of the idea, the correct business strategy, the person's ability to absorb risk, and the meaning of the longer venture. The chapter's endpoint is more modest: **placement rather than certainty**.
 
-**Editorial gate:** Confirm whether the recognition should emphasize **(A) applicability/placement of true advice**, **(B) the person's lived pressure and readiness to receive advice**, or **(C) the interaction of both**, with placement as the visible conceptual turn. The source contains both. The studio has not yet selected the relative emphasis.
+**Editorial gate resolved (D-014):** The author approved **(C), the interaction of both**, with **placement** as the perceptible conceptual turn and lived pressure preserved.
 
 ## 06. Distortion guardrails and creative room
 
@@ -121,8 +121,8 @@ No film exists, so all tests are prospective.
 These are qualitative formative checks, not proof of universal reception.
 
 **Selected input, approved:** Adapt **“The fog”**, PDF pp. 7–11, as Film 001's first experiment.  
-**Protected recognition, not yet approved:** The formulation in sections 02 and 05.  
-**Next permitted artifact after approval:** A02, Treatment Comparison, with *genuinely different* representations and explicit metaphor leakage checks.  
+**Protected recognition approved:** Sections 02 and 05, including the human-pressure boundary, approved as creative intent in D-014.  
+**Next permitted artifact:** A02, Treatment Comparison, with *genuinely different* representations and explicit metaphor leakage checks.  
 **Not authorized by this receipt:** Fixed script, storyboard, illustration generation, camera plan or finished footage.
 
 ---
@@ -134,7 +134,7 @@ These are qualitative formative checks, not proof of universal reception.
 **We must protect:** The advice can be sound. The human is under consequential pressure. The shift is placement, not certainty.  
 **We must not imply:** Information is evil, action is always easy, AI is the villain, or one correct route is predetermined.  
 **We have not chosen:** The specific metaphor, treatment, script, camera or AI-generated imagery.  
-**Decision pending:** How much weight the first film gives to the advice-placement mechanism versus the surrounding human pressure.
+**Meaning decision approved:** Real pressures remain perceptible, and **placement rather than certainty** is the central recognition. Visual expression remains open.
 
 ## Source concordance
 
@@ -146,3 +146,8 @@ These are qualitative formative checks, not proof of universal reception.
 | 10–11 | Test an answer against the decision/contact it serves; placement rather than certainty | 02, 05, 07 |
 
 **Research boundary:** This receipt derives from the provided essay. The P01/P02/P03/P04/P13 research helps audit representation, narrative, explanation, attention and selection, but does not replace or empirically validate the source's meaning.
+
+
+## Approval provenance | D-014
+
+On 2026-11-11 the author replied **"Yeep approved. proced"** to the explicit proposal that the revelation should be placement rather than certainty, with the human pressures around the struggle remaining visible. Approval is restricted to the meaning contract. No A02 treatment, narration, scene or generation result has been selected or tested.

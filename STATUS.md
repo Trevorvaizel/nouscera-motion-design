@@ -3,8 +3,8 @@
 **As of:** 2026-11-11  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.05, Derive and review source-anchored Thought Receipt TR-002  
-**Status:** **“The fog” selected by author (D-013)**; TR-002 v0.1 drafted and awaiting approval of intended recognition
+**Current brick:** B03.06, Compare cinematic treatments in Artifact A02  
+**Status:** “The fog” selected (D-013), TR-002 creative meaning approved (D-014); three A02 treatment candidates drafted, **none selected**
 
 ## Confirmed direction
 
@@ -21,7 +21,7 @@
 |---|---|
 | 01, Domain cartography | 13 province working drafts compiled |
 | 02, Critical synthesis | 109 candidate forces provisionally adjudicated |
-| 03, Studio methodology | Author selected “The fog” (pp. 7–11); A01 TR-002 drafted, recognition review open |
+| 03, Studio methodology | A01 TR-002 creative meaning approved; A02 comparative treatment draft under author review |
 | 04, Film experiment | Not started; no approved narrative treatment, clips or viewer tests |
 | 05, Capability system | Not started |
 
@@ -29,10 +29,10 @@
 
 Read `stories/001-human-at-the-door/README.md` and `stories/001-human-at-the-door/SOURCE_MAP_v01.md`.
 
-**B03.04 closed:** The author selected **“The fog”**, PDF pp. 7–11, as the first experiment (D-013). **B03.05 active:** Review `stories/001-human-at-the-door/THOUGHT_RECEIPT_TR-002_THE_FOG.md` and confirm or revise its source-grounded recognition. Only then proceed to A02 Treatment Comparison.
+**B03.05 closed:** Author approved TR-002 in D-014. **B03.06 active:** Compare three distinct candidate film treatments in the A02 memo. No visual treatment is yet selected; the next handoff is A03 only after selection.
 
 Do **not** automatically promote the previous information-and-direction TR-001 to the essay's governing statement.
 
 ## Open boundaries
 
-**Source passage selected:** “The fog,” PDF pp. 7–11. No final recognition, narration, protagonist, camera, style bible, motion prompt or clip has been approved. PDF publication rights have not been established. The PDF has not been copied to this public repo.
+**Source movement and creative recognition approved.** No treatment, narration, protagonist, camera, style bible, AI prompt, clip or audience test is approved. PDF publication rights have not been established. The PDF has not been copied to this public repo.

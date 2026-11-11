@@ -17,7 +17,7 @@
 
 ## Unresolved decisions
 
-- **OQ-001:** Resolved by D-013. The first adaptation movement is **“The fog”**, PDF pages 7–11. The source-grounded recognition within that movement is still being reviewed.
+- **OQ-001:** Resolved by D-013. The first adaptation movement is **“The fog”**, PDF pages 7–11. The source-grounded recognition was approved by D-014.
 - **OQ-002:** Which visual treatment best carries the selected essay movement? No treatment is selected.
 - **OQ-003:** What role should narrative voice, protagonist, and character play? Unselected.
 - **OQ-004:** Whether any candidate force merits formal production status requires a specific test; Stage 02 desk ratings are not empirical proof.
@@ -59,3 +59,14 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Author decision:** “Lets start with the first” in response to the explicit recommendation to start with **“The fog.”**
 **Status:** **Approved source-movement selection**; not approval of the studio's precise interpretation, script or treatment.
 **Consequences:** Derive and review A01 **TR-002**, grounded in pages 7–11. Retain the previous TR-001 as historical exploration. Do not authorize visual metaphors, AI prompts or footage on the basis of this selection alone.
+
+
+### D-014 | 2026-11-11 | Approve The fog source-anchored meaning
+
+**Question:** Which relationship should Film 001 preserve?
+**Options:** applicability/placement of good advice; real human pressures; both acting together with placement as the conceptual revelation.
+**Decision:** The author explicitly approved **both**, with **placement rather than certainty** as the central turn.
+**Basis:** "Yeep approved. proced" in response to the direct question in chat.
+**Status:** **A01 TR-002 approved as creative intent**, not empirically verified audience understanding.
+**Consequences:** A02 Treatment Comparison is authorized; its alternatives remain unselected. Protect plausible advice, situated consequences, and a modest navigational change without final certainty.
+**Revision trigger:** Authorial change or contradictory viewer evidence, each recorded separately.
