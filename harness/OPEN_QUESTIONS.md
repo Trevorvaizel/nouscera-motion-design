@@ -4,7 +4,7 @@ A question is closed only when an artifact, decision, or test resolves it; mark 
 
 | ID | Question | Blocking | Evidence or decision needed | Next action |
 |---|---|---|---|---|
-| OQ-001 | In Story 001, what is the primary meaning of **direction**? | Final Thought Receipt | Author's interpretation of the claim | Review TR-001 without images |
+| OQ-001 | In Story 001, what is the primary meaning of **direction**? | Final Thought Receipt | Author's interpretation of the claim | Review TR-001 v0.2's five candidate meanings of direction; author approves or replaces them |
 | OQ-002 | Which metaphor makes information-versus-orientation recognizable without importing a false single correct path? | Treatment selection | Compare at least two genuine visual alternatives | Derive Treatment Comparison after OQ-001 |
 | OQ-003 | Which scene/transition best embodies appearance, metamorphosis, and absorption? | Look/motion bible | Visual experiments and continuity tests | Later stage |
 | OQ-004 | Can AI video preserve delicate engraved linework across temporal motion? | Model selection and shot contracts | Controlled image-to-video benchmark | Stage 04 experiment |

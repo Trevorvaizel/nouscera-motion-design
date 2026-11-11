@@ -3,8 +3,8 @@
 **As of:** 2026-11-11  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving studio methodology  
-**Current brick:** B03.01, Thought Receipt TR-001  
-**Status:** Author review required on the meaning of "direction"
+**Current brick:** B03.02, TR-001 substantive content audit  
+**Status:** TR-001 v0.2 audited; author review still required on the meaning of "direction"
 
 ## Confirmed direction
 
@@ -24,7 +24,7 @@
 |---|---|---|
 | 01: Domain cartography | Research draft completed | 13 province dossiers and a source register exist; not approved canon |
 | 02: Critical synthesis | Desk audit drafted | 109 candidate forces adjudicated provisionally; no viewer validation |
-| 03: Studio methodology | In progress | Thought Receipt v0.1 exists, pending author's interpretation |
+| 03: Studio methodology | In progress | Thought Receipt v0.2 content audit complete, pending author's interpretation |
 | 04: First-film production | Not begun | No approved treatment, storyboard, generated clips or final cut |
 | 05: Repeatable studio capability | Not begun | Depends on actual production and viewer evidence |
 
@@ -38,7 +38,7 @@ Until then, TR-001 remains **working**, and all visual treatments remain candida
 
 ## Next permitted brick
 
-B03.02: finalize the Thought Receipt's protected relationship and competing interpretations with author review. Then derive and compare at least two distinct treatments. No video generation should be presented as approved creative direction before those gates.
+B03.02: author review of the sharpened Thought Receipt v0.2. The seven-section content audit is complete; the central meaning is not yet approved. Then derive and compare at least two distinct treatments. No video generation should be presented as approved creative direction before those gates.
 
 ## Read order
 

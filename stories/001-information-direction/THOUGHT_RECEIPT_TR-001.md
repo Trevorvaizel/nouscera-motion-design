@@ -1,122 +1,169 @@
 ---
-title: "Cinematic Explainer Studio | Artifact 01 | Thought Receipt"
-version: "0.1"
+title: "Nouscera Motion Design | A01 | Thought Receipt TR-001"
+version: "0.2"
 date: "2026-11-11"
-status: "Working proposal, awaiting author review"
-role: "Stage 03, first studio instrument"
-source: "Stage 02 Critical Synthesis and Derivation; Stage 03 Methodology Proposal; P01, P02, P03, P04, P13"
+status: "Working after content audit; authorial meaning approval pending"
+stage: "03"
+brick: "B03.02"
+sources:
+  - "D-007; D-010"
+  - "research/provinces/P01_cinematic_meaning.md"
+  - "research/provinces/P02_narrative_dramaturgy_rhetoric.md"
+  - "research/provinces/P03_multimedia_learning_and_explanatory_communication.md"
+  - "research/provinces/P04_attention_perception_and_cinematic_viewing.md"
+  - "research/provinces/P13_selection_curation_and_creative_judgment.md"
 ---
 
-# Artifact 01: The Thought Receipt
+# Artifact A01: Thought Receipt TR-001
 
-## 0. Why this instrument exists
+**Status: WORKING. This is a critical revision, not a claim that the author's intended meaning has been approved.**
 
-A compelling representation can gradually replace the very thought it was meant to communicate. Once an illustration, line of narration or generated clip becomes attractive, the team may unconsciously redefine the idea to fit the image. The Thought Receipt preserves the author's proposition and expected recognition **before** selecting visual metaphors, camera movements or AI outputs.
+## 0. What this instrument is for
 
-It is a **source-of-intent contract**, not a screenplay, shot list, visual treatment, prompt, or claim of empirical proof. It must be brief enough to inspect during every creative handoff and open to deliberate author revision.
+A compelling cinematic representation can redefine the very idea it was supposed to express. The Thought Receipt is a **source-of-intent boundary** that survives handoff between writing, illustration, direction, animation, sound, editing and AI generation.
 
-### Derivation from the research
+It is **not** a screenplay, a visual treatment, an AI prompt, a storyboard or proof of viewer comprehension.
 
-| Diagnosed failure | Source province | Required function |
-|---|---|---|
-| Visual metaphor imports unwanted properties | P01 Semiotics and representation | Preserve the exact relationship and its forbidden readings |
-| A satisfying plot turns a limited observation into sweeping causation | P02 Narrative and rhetoric | Separate observation, interpretation, qualification and unresolved questions |
-| More visuals increase processing demands without increasing understanding | P03/P04 Multimedia learning and perception | Identify one meaningful recognition, without scripting every inference |
-| A gorgeous candidate changes the evaluation standard after the fact | P13 Selection and judgment | Declare acceptance/rejection criteria before treatment comparison |
-| Recognition fails when theory arrives before lived experience | KIRA recognition sequence, used as a methodological precedent | Name the human doorway and the contradiction before choosing a metaphor |
-| The director's intention is mistaken for what the viewer understands | Stage 02 reception gate | Define a cold-viewer reconstruction test, not a taste or engagement metric |
+Five failures justify it: metaphor imports an unintended claim (P01); narrative closure confuses coherence with warrant (P02); images and narration can compete rather than help understanding (P03/P04); attractive generated alternatives change the selection criterion after the fact (P13); and authorial intention is mistaken for viewer reception (P01/P03).
 
-## 1. Reusable one-page template
+## 1. Reusable instrument, working template
 
-**01. Author's exact thought:** Verbatim sentence or paragraph, plus source and author.
+1. **Source seed and provenance.** Exact sentence, who introduced it, who selected it, and which details of origin remain unverified.
+2. **Smallest protected relationship.** What follows from the words alone, without adding an explanation of *why* it happens?
+3. **Scope and epistemic status.** Is it a conceptual contrast, observation, causal hypothesis, poetic proposition or empirically supported claim? Which qualifiers must survive?
+4. **Human doorway and contradiction.** A recognizable experience and the gap between appearance and underlying condition. Keep candidates separate from decisions.
+5. **Intended recognition.** The minimal distinction a viewer might newly notice, separate from any particular practical solution.
+6. **Unlicensed substitutions and creative freedom.** What meanings would assert more than the seed? What situations, metaphors, narration and form remain open?
+7. **Reception evidence and author sign-off.** Neutral reconstruction before leading probes, possible counter-readings, explicitly named approval owner and next handoff.
 
-**02. Protected relationship:** In plain language, what two or more things are being distinguished, connected, or challenged? State the relationship without a metaphor.
-
-**03. Scope and epistemic position:** What does the thought claim? What does it *not* claim? Is it an observation, argument, hypothesis, empirical claim or poetic proposition? Which words carry essential qualifications?
-
-**04. Human doorway and contradiction:** In an ordinary recognizable situation, what appears to be happening? What contradiction makes the deeper relation available? A scene is a candidate, not a compulsory protagonist or plot.
-
-**05. Intended recognition:** What should a viewer be more able to notice or distinguish after watching? Name one or two possible valid reconstructions, not a mandatory phrase.
-
-**06. Disallowed substitutions and open space:** Which attractive interpretations would distort the thought? Which questions, meanings and artistic choices remain open?
-
-**07. Reception evidence and approval:** What would a cold viewer need to say or distinguish to support our reading? What misreading would send us back? Who has authority to revise and approve this receipt?
-
-*Handoff rule:* Give this receipt to every downstream department, but do not write shots, character identities, metaphors, voiceover or model prompts inside it. Changes to the central claim require an explicit author-approved revision, not post-hoc rationalization.
+**Handoff rule:** A01 carries the thought, not its pictures. A01 approval never constitutes approval of a script, visual treatment or AI generation take.
 
 ---
 
-# Working Instance TR-001
-## "Having more information does not necessarily mean having more direction."
+# Working instance: Story 001
 
-**Status:** Working interpretation for author review. Nothing below fixes the film's narrative or visual treatment.
-
-### 01. Author's exact thought
+## 01. Seed and provenance
 
 > Having more information does not necessarily mean having more direction.
 
-Working source: first Cinematic Explainer Studio story concept.
+**Confirmed:** This sentence was introduced in the studio's exploratory exchange and selected as the working premise for our first explainer (D-007). It was later reaffirmed as the story to test.
 
-### 02. Protected relationship
+**Not established:** That the sentence is a verbatim quotation from the human author's prior experience, what prompted it, or which meaning of 'direction' the author prioritizes. Do not fabricate an origin story or transfer authorship of the wording by assumption.
 
-Information is what becomes available to know: facts, explanations, advice, routes or possibilities. Direction is orientation relative to a purpose or situation, including an ability to judge what matters or where to move next.
+## 02. Smallest protected relationship
 
-The relationship is **non-equivalence**, not opposition: more available information can help direction, but does not guarantee it. A person can obtain useful answers without yet knowing how those answers bear on the situation they face.
+**Currently warranted by the sentence itself:**
 
-### 03. Scope and epistemic position
+An **increase** in information does **not by itself guarantee** an **increase** in direction.
 
-This is an authored conceptual observation about the distinction between information and orientation, not a proposed scientific law explaining all cases of indecision.
+It denies a necessary implication; it does not establish an inverse relationship, a harmful effect of information, or a particular missing cause.
 
-The phrase **"does not necessarily"** is the protected qualifier.
+**Competing interpretations of 'direction', pending author choice:**
 
-It does **not** assert that information is harmful, that there is always too much of it, that confusion is solely an individual failure, that direction requires one predetermined destination, or that a single additional question always solves the problem.
+| Candidate | Distinct concern | Risk if chosen without checking |
+|---|---|---|
+| Orientation | Where one stands relative to a situation | May become spatial disorientation only |
+| Purpose | What one is aiming for | May imply one universal destination |
+| Discernment | Which information matters and why | May narrow the idea to filtering |
+| Practical next action | What to do next | May collapse insight into productivity advice |
+| Coherence | How scattered pieces relate | May imply organization alone guarantees action |
 
-A film may later motivate a factual causal claim. If so, that claim will require evidence beyond this receipt.
+These can coexist. Their relative importance is *not yet an author-approved interpretation*. **OQ-001 remains open.**
 
-### 04. Human doorway and contradiction
+## 03. Scope and epistemic status
 
-**Candidate ordinary scene:** Someone accumulates recommendations, comparisons or explanations about a decision. The available answers increase. Yet they remain unsure which consideration is relevant to the situation before them.
+**Working classification:** A conceptual proposition adopted as a film premise, not a demonstrated universal law. Future causal or population-wide assertions need their own supporting evidence.
 
-**Surface reading:** They still need another answer.
+- The repeated comparative **'more'** implies change from some prior state, not an absolute quantity.
+- **'Does not necessarily'** is the essential qualifier. More information *may* improve direction; the phrase says this outcome is not guaranteed.
+- The statement does not specify the mechanism. Missing goals, contextual constraints, conflicting values, inadequate methods, overload, power or resources are *hypotheses*, not deductions.
 
-**Contradiction:** The answer inventory has improved, while the person's orientation has not necessarily improved.
+**Do not silently strengthen it into:** 'more information always creates confusion' or 'the correct solution is simply to stop gathering information'.
 
-This situation is provisional. It is not yet a screenplay, protagonist, animation scene or moral judgment.
+## 04. Human doorway and contradiction
 
-### 05. Intended recognition
+**Candidate experiential pattern, not confirmed biography:**
 
-A viewer might recognize: "I have collected answers without yet knowing which question I am trying to settle."
+A person acquires additional explanations, comparisons or possibilities. Their stock of answers grows, while their sense of where they stand, what matters, or how to proceed does not increase proportionally.
 
-Another legitimate reconstruction: "The missing ingredient is sometimes context, purpose, priority, or a criterion for using what I know."
+**Visible situation:** More answers are now available.
 
-These are possibilities, not lines the viewer must quote. We do not require every audience member to identify the same missing ingredient.
+**Potential deeper contradiction:** Greater access to answers has not necessarily produced greater orientation.
 
-### 06. Disallowed substitutions and open space
+**Do not assume:** The person's surface thought is 'I need another answer'. They may instead feel stuck, dissatisfied, conflicted, afraid, or clear on purpose but unable to act. No diagnosis of the person is authorized.
 
-**Disallowed drift:**
-- "More information makes you lost."
-- "Stop researching and just act."
-- "There is exactly one true route, and clarity reveals it."
-- "The internet or AI is the cause of confusion."
-- "Aesthetic simplification is itself a solution to a difficult decision."
+**Human doorway remains unselected.** Specific stories drawn from education, professional learning, life decisions or other contexts must be proposed and compared later.
 
-**Open:** The film's specific human situation, tone, setting, character or lack of character, narrative structure, visual source-metaphor, number of scenes, and any ending image. The approved black-and-white engraving style is protected separately by the Look and Motion Bible. The engraved astronaut image is a style reference, not a required protagonist.
+## 05. Intended recognition
 
-### 07. Reception evidence and approval
+**Minimum working recognition, pending author confirmation:**
 
-**Preliminary cold-viewer prompts:**
-1. "What do you think this film is saying?"
-2. "What is the difference between having information and having direction in what you saw?"
-3. "Does it suggest that more information is bad, or that one path is always correct? What gave you that impression?"
+> Having additional answers and becoming more oriented are not the same achievement.
 
-A favorable signal: the viewer reconstructs the non-equivalence and the possibility of orientation remaining unresolved, without our explaining the moral first.
+**Not yet justified as the singular lesson:**
 
-An adverse signal: viewers mainly understand "research is bad," "only one right path exists," or "information must disappear before progress is possible."
+- 'First define your question.'
+- 'You need context.'
+- 'Prioritize your goals.'
+- 'Make a decision now.'
 
-These informal tests can expose interpretive problems but cannot establish general audience comprehension without broader testing.
+These might become useful *narrative interpretations or responses* after the author clarifies the meaning, but they do not logically follow as universal remedies.
 
-**Owner of claim:** Human author/director.
+We should be willing to leave the viewer with a real distinction rather than a manufactured instruction.
 
-**Approval status:** Not yet author-approved.
+## 06. Unlicensed substitutions and creative space
 
-**Next handoff, only after author review:** Artifact 02, Treatment Comparison, with at least two genuinely different representational treatments and explicit metaphor leakage checks.
+**Not licensed by the premise without additional argument or author approval:**
+
+- More information is inherently harmful or inevitably produces confusion.
+- Learning and research should stop.
+- Clarity always reveals one objectively correct path.
+- AI or the internet is the fundamental cause.
+- More pleasing visual order automatically resolves practical uncertainty.
+- Every lack of direction is an individual's cognitive mistake rather than potentially external constraint.
+
+These are **guardrails against unearned additions**, not bans on stories that may investigate such causes with separate evidence.
+
+**Still open:** Author's intended interpretation; lived situation; narrative voice; tone; protagonist or absence of one; duration; plot shape; metaphors; soundtrack; ending and exact moving-image grammar.
+
+**Already established separately:** AI-first animation based on composed illustrations, with the detailed black-and-white engraving aesthetic as a benchmark; emergence from blackness, fluid transformation and absorption are desired visual possibilities. **There is no approved Look and Motion Bible yet**, and the astronaut is not the required subject.
+
+## 07. Reception and approval
+
+The film does not yet exist, so these are **prospective tests**, not findings.
+
+**First, ask an unprimed viewer:**
+1. 'What do you think was happening?'
+2. 'What do you think the film was trying to say?'
+3. 'What changed, and what stayed unresolved?'
+
+Only **after recording those unprompted responses** can we probe whether the viewer distinguished additional information from additional direction, and whether an unintended anti-information or single-correct-path message was inferred.
+
+**A promising signal:** The viewer describes some version of information increasing without a guaranteed corresponding improvement in direction, or recognizes the author's subsequently approved deeper relationship.
+
+**A revision signal:** The dominant takeaway reverses the intended claim, or the visual metaphor supplies an unauthorized causal explanation.
+
+These are small formative tests. They do not establish generalizable comprehension without appropriate study design.
+
+**Authorial decision gate: OPEN.**
+- Human author/director must approve or revise the meaning of 'direction' and the intended recognition.
+- No screenplay, visual metaphor, or A02 treatment selected.
+- After approval, record the exact decision and derive **A02 Treatment Comparison** with distinct rival treatments.
+
+---
+
+## Content audit trail: v0.1 -> v0.2
+
+| Field | Critical finding | Change |
+|---|---|---|
+| 01 | 'Author's exact thought' implied an unverified origin | Preserve verbatim seed but label origin unconfirmed |
+| 02 | 'Non-equivalence' was too blunt and 'direction' already defined | Protect **non-guarantee**; keep meanings competing |
+| 03 | Conceptual distinction could drift into unsupported causation | Explicitly separate claim, qualifier and mechanism |
+| 04 | 'They still need another answer' was an invented mental state | Remove imposed internal dialogue; keep human doorway provisional |
+| 05 | The receipt prescribed 'define the question' or 'find context' too early | Retain minimal recognition without selecting a remedy |
+| 06 | Disallowed readings mixed logical contradictions with creative caution; implied a Look/Motion Bible existed | Reclassify as unlicensed extra claims; correct Bible status |
+| 07 | Question prompts accidentally taught viewers the intended answer | Unprimed reconstruction first, optional probes afterwards |
+
+**Research status:** The P01/P02/P03/P04/P13 manuscripts justify investigating these classes of failure. They do not prove that a specific audience will reconstruct this particular film's meaning.
+
+**Brick B03.02 outcome:** Source-content audit completed; seven sections sharpened. **Approval gate remains unresolved**, because the author has not yet supplied or selected the deeper meaning of 'direction'.
