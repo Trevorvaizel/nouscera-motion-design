@@ -17,8 +17,8 @@
 
 ## Unresolved decisions
 
-- **OQ-001:** Which interpretation of "direction" should the studio deliberately develop from the assistant-proposed, user-selected sample? None is yet approved.
-- **OQ-002:** Which, if any, visual treatment best carries the protected relationship? No treatment is selected.
+- **OQ-001:** Which movement of the actual essay _The Human at the Door_ should become the first short-film experiment? No selection is yet approved.
+- **OQ-002:** Which visual treatment best carries the selected essay movement? No treatment is selected.
 - **OQ-003:** What role should narrative voice, protagonist, and character play? Unselected.
 - **OQ-004:** Whether any candidate force merits formal production status requires a specific test; Stage 02 desk ratings are not empirical proof.
 
@@ -37,3 +37,16 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Approval basis:** Correction requested explicitly by the user; does not approve the yet-to-be-developed semantic interpretation. 
 **Scope:** TR-001, Story 001 readme, STATUS.md, OQ-001. 
 **Consequence:** Future work should derive a fitting meaning and cinematic treatment collaboratively, not demand an invented personal origin. The complete verbatim source transcript has not been uploaded publicly.
+
+
+### D-012 | 2026-11-11 | Correct the actual source of Film 001
+
+**User instruction:** The user provided `the-human-at-the-door-rewrite-v3.pdf` and clarified: "this was the work we are going to experiment on".
+
+**Decision:** Film 001's source work is the 50-page essay **_The Human at the Door: You Don't Need to Know What This Becomes Yet_**. The assistant-proposed information-and-direction sentence remains a historical example, potentially related to the essay's "The fog" section, but does not replace the source work.
+
+**Supersedes:** D-007 only insofar as that decision treated the sentence as the complete first-film narrative source. Preserve D-007 and TR-001 in history for traceability.
+
+**Open:** Which portion to adapt, intended recognition, narration, visual metaphor, duration, generation treatment, viewer testing.
+
+**Repository boundary:** The original PDF has not been uploaded to this public repository. Publish only after appropriate rights and attribution decisions.
