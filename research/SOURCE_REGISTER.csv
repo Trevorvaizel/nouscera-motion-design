@@ -1,0 +1,116 @@
+province,reference,source,url,source_type_and_caution
+P01,S01,"Stanford Encyclopedia of Philosophy, *Peirce's Theory of Signs*",https://plato.stanford.edu/entries/peirce-semiotics/,Research source; inspect local manifesto context
+P01,S03,"Charles Forceville (2002), *The identification of target and source in pictorial metaphors*, Journal of Pragmatics",https://www.sciencedirect.com/science/article/pii/S0378216601000078,Research source; inspect local manifesto context
+P01,S04,"Charles Forceville (2024), *Identifying and Interpreting Visual and Multimodal Metaphor in Commercials and Feature Films*",https://dare.uva.nl/id/36985cb9-e622-464b-a204-e5ed6ca9df5d,Research source; inspect local manifesto context
+P01,S05,"Charles Forceville (2025), *Metaphor: A key instrument to guide perspective in moving images*",https://mc2.dlib.nyu.edu/imr/content/metaphor-key-instrument-guide-perspective-moving-images,Research source; inspect local manifesto context
+P01,S07,Study of Barthes text-image relations in *International Journal of Qualitative Methods* (2022),https://journals.sagepub.com/doi/10.1177/16094069221084433,Research source; inspect local manifesto context
+P01,S09,"Oxford Research Encyclopedia of Education, *Multimodal Literacy* (2017)",https://academic.oup.com/edited-volume/61768/chapter-abstract/553543550,Research source; inspect local manifesto context
+P01,S10,"David Bordwell, *Observations on film art: Narrative strategies*, viewer inference",https://www.davidbordwell.net/blog/category/narrative-strategies/page/23/,Research source; inspect local manifesto context
+P01,S12,"British Film Institute, *Where to begin with Sergei Eisenstein*",https://www.bfi.org.uk/features/where-begin-sergei-eisenstein,Research source; inspect local manifesto context
+P01,S13,"Columbia University Film Language Glossary, *Montage*",https://filmglossary.ccnmtl.columbia.edu/term/montage/,Research source; inspect local manifesto context
+P01,S14,"Charles Forceville and Thijs Renckens, *The GOOD IS LIGHT and BAD IS DARK metaphor in feature films*",https://benjamins.com/catalog/msw.3.2.03for,Research source; inspect local manifesto context
+P01,S16,"Open University, summary of Stuart Hall's encoding/decoding",https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=144661&printable=1,Research source; inspect local manifesto context
+P01,S17,"*Generative artificial intelligence, human creativity, and art*, PNAS Nexus (2024)",https://academic.oup.com/pnasnexus/article/3/3/pgae052/7618478,Research source; inspect local manifesto context
+P01,S18,*The algorithmic pedestal: A practice-based study of algorithmic and artistic curation* (2024),https://www.research.ed.ac.uk/en/publications/the-algorithmic-pedestal-a-practice-based-study-of-algorithmic-an/,Research source; inspect local manifesto context
+P01,S19,"Eames Office, *Powers of Ten and the Relative Size of Things in the Universe*",https://www.eamesoffice.com/the-work/powers-of-ten/,Research source; inspect local manifesto context
+P01,S20,"National Film Board of Canada, *A Chairy Tale*",https://www.nfb.ca/film/a_chairy_tale/?ec=en20120802,Research source; inspect local manifesto context
+P01,S21,"NFB Collection, *A Chairy Tale* (1957), symbolic account",https://collection.nfb.ca/film/a_chairy_tale,Research source; inspect local manifesto context
+P01,S22,"Academy Awards, 38th Oscars (1966), *The Dot and the Line*",https://www.oscars.org/oscars/ceremonies/1966,Research source; inspect local manifesto context
+P01,S23,"National Film Board of Canada, *Blinkity Blank*",https://www.nfb.ca/film/blinkity-blank/,Research source; inspect local manifesto context
+P01,S24,"Richard Mayer, *Using multimedia for e-learning* (2017)",https://onlinelibrary.wiley.com/doi/10.1111/jcal.12197,Research source; inspect local manifesto context
+P01,S25,"PubMed indexed study (2020), *Decorative animations impair recall and are a source of extraneous cognitive load*",https://pubmed.ncbi.nlm.nih.gov/32628527/,Research source; inspect local manifesto context
+P01,S26,"Norman McLaren and Grant Munro, *Animated Motion* series, NFB historical summary",https://www3.nfb.ca/sg/100122.pdf,Research source; inspect local manifesto context
+P01,S27,"Walter Murch, *In the Blink of an Eye*, rule of six as reproduced on UC Berkeley course blog",https://blogs.ischool.berkeley.edu/i290-viznarr-s12/the-rule-of-six-walter-murch/,Research source; inspect local manifesto context
+P02,S01,"Aristotle, *Poetics*",https://classics.mit.edu/Aristotle/poetics.1.1.html,"Historical dramatic theory / Plot, recognition, reversal, probability; not universal micro-video law"
+P02,S02,"Steven D. Katz, *Film Directing Shot by Shot*",https://books.google.com/books?id=MGtZAAAAMAAJ,Practitioner craft / Visualizing scene action and shot relation; advice is not empirical invariant
+P02,S03,"Seymour Chatman, *Story and Discourse*",https://www.cornellpress.cornell.edu/book/9780801491863/story-and-discourse/,Narratology / What is told versus how it is told; cross-media framework
+P02,S04,"David Bordwell, *Narration in the Fiction Film*",https://www.routledge.com/Narration-in-the-Fiction-Film-1st-Edition/Bordwell/p/book/9780415018777,Film scholarship / Spectator constructs story from audiovisual cues; rooted in fiction film
+P02,S05,"Bordwell and Thompson, *Film Art*",https://www.mheducation.com/highered/product/film-art-introduction-bordwell-thompson/M9781260056082.html,"Film analysis textbook / Form, narrative, film style; contextual synthesis, not experimental proof"
+P02,S06,"Bruner, *Actual Minds, Possible Worlds*",https://www.hup.harvard.edu/books/9780674003668,Cognitive/narrative theory / Narrative as sensemaking; broad cognitive claims require restraint
+P02,S07,"Zacks et al. (2007), Event perception",https://pubmed.ncbi.nlm.nih.gov/17338600/,"Psychology review / Event boundaries, prediction, memory; not a film-editing recipe"
+P02,S08,"Tim Smith (2012), Attentional theory of cinematic continuity",https://doi.org/10.3167/proj.2012.060102,Film/cognition theory / Attention can support perceived continuity across cuts
+P02,S09,"Green and Brock (2000), Narrative transportation",https://pubmed.ncbi.nlm.nih.gov/11079236/,Controlled psychology studies / Engagement can strengthen story-consistent beliefs; not proof of learning
+P02,S10,"David Bordwell (2002), Intensified Continuity",https://doi.org/10.1525/fq.2002.55.3.16,Film history/analysis / Style changes without ending continuity logic
+P02,S11,"Mayer, multimedia principles",https://www.cambridge.org/core/books/abs/cambridge-handbook-of-multimedia-learning/principles-for-reducing-extraneous-processing-in-multimedia-learning-coherence-signaling-redundancy-spatial-contiguity-and-temporal-contiguity-principles/C98AB3A6CE760DD63C048936EA0B3B44,Experimental synthesis / Spoken/visual relations can demand or reduce processing
+P02,S12,"Nichols and Baron, *Introduction to Documentary*, 4th edition",https://iupress.org/9780253070159/introduction-to-documentary-fourth-edition/,"Documentary scholarship / Voice, ethical claims, perspective, credibility"
+P02,S13,"Green and Brock, DOI",https://doi.org/10.1037/0022-3514.79.5.701,Journal citation / Primary transportation study; do not infer all media generalize
+P02,S14,"Berney and Bétrancourt, animation learning meta-analysis",https://www.sciencedirect.com/science/article/pii/S0360131516301336,Quantitative meta-analysis / Animation's learning benefit is conditional and modest on average
+P02,S15,"Eames Foundation, *Powers of Ten*",https://eamesfoundation.org/work/powers-of-ten-and-the-relative-size-of-things-in-the-universe/,Primary case provenance / Exposition constructed through changing scale
+P03,R1,"Mayer, Multimedia learning principles",https://www.cambridge.org/core/books/abs/cambridge-handbook-of-multimedia-learning/principles-for-reducing-extraneous-processing-in-multimedia-learning-coherence-signaling-redundancy-spatial-contiguity-and-temporal-contiguity-principles/C98AB3A6CE760DD63C048936EA0B3B44,"Experimental synthesis; the principle is conditional, not a law of style"
+P03,R2,"Tversky, Morrison and Bétrancourt (2002), *Animation: Can It Facilitate?*",https://www.sciencedirect.com/science/article/pii/S1071581902910177,Critical research review; early confounds
+P03,R3,"Berney and Bétrancourt (2016), meta-analysis",https://www.sciencedirect.com/science/article/pii/S0360131516301336,"Meta-analysis, 61 studies, small average benefit"
+P03,R4,"W3C WCAG 2.2, captions (prerecorded)",https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded,"Accessibility guidance, not a psychology experiment"
+P03,R5,W3C audio description (prerecorded),https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded,Visual information access
+P03,R6,"Slava Kalyuga, Expertise Reversal in Multimedia Learning",https://www.cambridge.org/core/books/abs/cambridge-handbook-of-multimedia-learning/expertise-reversal-principle-in-multimedia-learning/BFAF296ADA85C944355A12DDFD50ACF8,Research synthesis on prior-knowledge conditionality
+P03,R7,"Eames Foundation, *Powers of Ten*",https://eamesfoundation.org/work/powers-of-ten-and-the-relative-size-of-things-in-the-universe/,Primary case provenance
+P04,R1,"Wagemans et al. (2012), Gestalt grouping and figure-ground",https://pmc.ncbi.nlm.nih.gov/articles/PMC3482144/,Historical and experimental review
+P04,R2,"Simons and Levin (1997), Change blindness",https://pubmed.ncbi.nlm.nih.gov/21223921/,"Review, including motion pictures"
+P04,R3,"Tim J. Smith (2012), Attentional Theory of Cinematic Continuity",https://doi.org/10.3167/proj.2012.060102,Cinematic attention framework
+P04,R4,"Zacks et al. (2007), Event perception",https://pubmed.ncbi.nlm.nih.gov/17338600/,Psychological review
+P04,R5,"Jeremy Wolfe (2021), Guided Search 6.0",https://doi.org/10.3758/s13423-020-01859-9,Visual search theory with five priority sources
+P04,R6,W3C accessibility principles for media,https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded,Access standard; separate from perceptual mechanism
+P05,R1,"National Gallery of Australia, Thomas Bewick and wood engraving",https://nga.gov.au/exhibitions/out-of-the-book-and-onto-the-wall/,Historical collection research
+P05,R2,"Williams College Museum of Art, Kentridge print/animated work",https://artmuseum.williams.edu/william-kentridge-prints-and-history-of-the-main-complaint/,Artwork and method provenance
+P05,R3,"SFMOMA, Kentridge describing charcoal animation",https://www.sfmoma.org/artwork/2006.79.A-C/,Artist testimony
+P05,R4,"Disney Animation studio, animation process",https://disneyanimation.com/process/animation/,Studio-practice source
+P05,R5,"Porter and Duff, compositing images",https://doi.org/10.1145/800031.808606,"Digital edge/sampling context, not evidence of our specific failure"
+P05,R6,"Wagemans et al., figure-ground perception",https://pmc.ncbi.nlm.nih.gov/articles/PMC3482144/,Experimental visual science
+P05,R7,Motion parallax depth perception,https://pubmed.ncbi.nlm.nih.gov/471676/,Depth cue experiment
+P06,R1,"American Cinematographer, Understanding Lens Distortion",https://theasc.com/article/understanding-lens-distortion/,Technical optics/craft interpretation
+P06,R2,"American Cinematographer, Shot Craft: Camera Movement",https://staging.ascmag.com/articles/shot-craft-camera-movement,Professional practice and purpose
+P06,R3,Motion parallax as independent depth cue,https://pubmed.ncbi.nlm.nih.gov/471676/,Experimental depth perception
+P06,R4,Perceptual basis of photographic practice,https://pmc.ncbi.nlm.nih.gov/articles/PMC3440305/,Vision research and dolly-zoom study
+P06,R5,"Smith, Attentional Theory of Cinematic Continuity",https://doi.org/10.3167/proj.2012.060102,Film-cognition theory
+P06,R6,"Open film textbook, mise-en-scène and staging",https://open.library.okstate.edu/introfilmtv/part/mise-en-scene/,Film literacy and depth staging
+P06,R7,"Runway, Image-to-Video Prompting Guide",https://help.runwayml.com/hc/en-us/articles/48324313115155-Image-to-Video-Prompting-Guide,"Vendor documentation, model-dependent"
+P06,R8,Higgsfield DoP Help Center (August 2026),https://higgsfield.ai/creator-hub/help-center/ai-models/how-do-i-use-dop,"Vendor capability claims, not independent benchmark"
+P07,R1,"Alanna Thain (2016), Norman McLaren and animation",https://academic.oup.com/edited-volume/34652/chapter-abstract/295248627,Film/screendance scholarship
+P07,R2,"NFB, *Animated Motion* instructional notes",https://www3.nfb.ca/sg/100122.pdf,Primary teaching notes
+P07,R3,"John Lasseter (1987), traditional principles in 3D",https://doi.org/10.1145/37401.37407,SIGGRAPH practitioner research
+P07,R4,"Walt Disney Animation, animation process",https://disneyanimation.com/process/animation/,Contemporary studio craft
+P07,R5,"NFB, *Begone Dull Care*",https://collection.nfb.ca/film/begone_dull_care,Primary case
+P07,R6,"MoMA, Oskar Fischinger, *Motion Painting no. 1*",https://www.moma.org/collection/works/315486,Abstract film case
+P07,R7,"CVPR VBench, video quality dimensions",https://openaccess.thecvf.com/content/CVPR2024/html/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.html,Model evaluation
+P07,R8,NFB overview of animation principles,https://blog.nfb.ca/blog/2015/03/20/12-principles-animation/,Pedagogical craft
+P07,R9,"Berney and Bétrancourt (2016), animation meta-analysis",https://www.sciencedirect.com/science/article/pii/S0360131516301336,Evidence qualified to learning
+P08,R1,"BFI, history of Méliès DIY effects",https://www.bfi.org.uk/lists/10-great-films-with-diy-special-effects,Film technique and history
+P08,R2,"MoMA, Oskar Fischinger, *Motion Painting no. 1*",https://www.moma.org/collection/works/315486,Collection film case
+P08,R3,"NFB, *Begone Dull Care*",https://collection.nfb.ca/film/begone_dull_care,Experimental direct animation
+P08,R4,"BFI, Saul Bass essential title sequences",https://www.bfi.org.uk/lists/celebrating-saul-basss-centenary-10-essential-title-sequences,Design/film history
+P08,R5,"SFMOMA, Kentridge’s animation method",https://www.sfmoma.org/artwork/2006.79.A-C/,Artist method testimony
+P08,R6,"Wagemans et al. (2012), Gestalt grouping",https://pmc.ncbi.nlm.nih.gov/articles/PMC3482144/,Perceptual science
+P08,R7,Runway image-to-video motion guidance,https://help.runwayml.com/hc/en-us/articles/48324313115155-Image-to-Video-Prompting-Guide,Vendor controls; not guarantee
+P09,R1,"Smith (2012), Attentional Theory of Cinematic Continuity",https://doi.org/10.3167/proj.2012.060102,Film perception theory
+P09,R2,"Bordwell (2002), Intensified Continuity",https://doi.org/10.1525/fq.2002.55.3.16,Film history/analysis
+P09,R3,"Barratt et al. (2016), revisiting the Kuleshov effect",https://journals.sagepub.com/doi/10.1177/0301006616638595,Behavioral and eye-tracking replication; conflicting history
+P09,R4,"Walter Murch, Rule of Six as discussed in LA Times",https://www.latimes.com/archives/la-xpm-2004-oct-03-ca-koppelman3-story.html,"Practitioner hierarchy, not empirical percentages"
+P09,R5,"Zacks et al. (2007), event perception",https://pubmed.ncbi.nlm.nih.gov/17338600/,Psychology review
+P09,R6,"Eames Foundation, *Powers of Ten*",https://eamesfoundation.org/work/powers-of-ten-and-the-relative-size-of-things-in-the-universe/,Primary case
+P09,R7,"Reexamination of Kuleshov effect (2024), authentic film experiments",https://pmc.ncbi.nlm.nih.gov/articles/PMC11299807/,Modern behavior and neuroimaging replication
+P09,R8,"Szaszko and Loebus (2026), contextual valence vs category",https://pmc.ncbi.nlm.nih.gov/articles/PMC12972553/,Recent qualification of Kuleshov effects
+P10,R1,"Michel Chion, *Audio-Vision: Sound on Screen* (2nd ed.)",https://cup.columbia.edu/book/audio-vision-sound-on-screen/9780231546379/,Sound-film theory
+P10,R2,"McGurk and MacDonald (1976), Seeing and hearing speech",https://www.nature.com/articles/264746a0,Multisensory experiment
+P10,R3,"Shams et al. (2000), sound-induced visual illusion",https://www.nature.com/articles/35048669,Controlled audiovisual illusion
+P10,R4,"NFB, *Begone Dull Care*",https://collection.nfb.ca/film/begone_dull_care,Case in visual music
+P10,R5,"W3C WCAG 2.2, captions",https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded,Accessibility standard
+P10,R6,ITU BS.1770-5 loudness and true peak,https://www.itu.int/rec/R-REC-BS.1770-5-202311-I,"Measurement algorithm, not artistic mix target"
+P10,R7,"Nichols and Baron, *Introduction to Documentary*",https://iupress.org/9780253070159/introduction-to-documentary-fourth-edition/,"Voice, credibility and perspective"
+P10,R8,W3C prerecorded audio description,https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded,Visual information accessibility
+P11,R1,"Porter and Duff (1984), Compositing Digital Images",https://doi.org/10.1145/800031.808606,Foundational compositing mathematics
+P11,R2,Blackmagic Design Fusion official reference manual,https://documents.blackmagicdesign.com/UserManuals/Fusion18_Manual.pdf,Tool mechanics; vendor documentation
+P11,R3,"SMPTE, ACES standards",https://www.smpte.org/standards/aces-standards,Industry color pipeline standard
+P11,R4,OpenColorIO,https://opencolorio.org/,Cross-application color management
+P11,R5,VBench CVPR 2024 video benchmark,https://openaccess.thecvf.com/content/CVPR2024/html/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.html,Video temporal quality taxonomy
+P12,R1,"Huang et al. (2024), VBench",https://openaccess.thecvf.com/content/CVPR2024/html/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.html,Peer-reviewed video benchmark
+P12,R2,"OpenAI (2024), Video generation models as world simulators",https://openai.com/index/video-generation-models-as-world-simulators/,Model-maker technical report; limitations and incomplete implementation details
+P12,R3,Diffusion video generation review (2025),https://link.springer.com/article/10.1007/s10462-025-11331-6,"Research survey, strengths and gaps"
+P12,R4,Runway image-to-video guide,https://help.runwayml.com/hc/en-us/articles/48324313115155-Image-to-Video-Prompting-Guide,Current vendor guidance
+P12,R5,Higgsfield DoP Help Center (Aug 2026),https://higgsfield.ai/creator-hub/help-center/ai-models/how-do-i-use-dop,Current vendor feature description
+P12,R6,"Nichols and Baron (2024), Introduction to Documentary",https://iupress.org/9780253070159/introduction-to-documentary-fourth-edition/,Credibility and documentary ethics
+P13,R1,"PNAS Nexus (2024), Generative AI, human creativity and art",https://doi.org/10.1093/PNASNEXUS/PGAE052,Large observational AI-art study
+P13,R2,"Doshi and Hauser (2024), Generative AI and diversity in short stories",https://doi.org/10.1126/sciadv.adn5290,"Controlled writing experiment, not film"
+P13,R3,"Donald Schön (1983), *The Reflective Practitioner*",https://catalog.libraries.vsc.edu/cgi-bin/koha/opac-ISBDdetail.pl?biblionumber=224344,Design theory and professional practice
+P13,R4,"Murch, The Rule of Six (interview summary)",https://www.latimes.com/archives/la-xpm-2004-oct-03-ca-koppelman3-story.html,Practitioner priority heuristic
+P13,R5,"Nichols and Baron, *Introduction to Documentary*",https://iupress.org/9780253070159/introduction-to-documentary-fourth-edition/,Factual and ethical representation
+P13,R6,"Herbert A. Simon (1955), A Behavioral Model of Rational Choice",https://doi.org/10.2307/1884852,Foundational bounded-rationality analysis; not an artistic decision theory
+P13,R7,"Schön and Wiggins (1992), Kinds of seeing and their functions in designing",https://doi.org/10.1016/0142-694X(92,"Empirical and phenomenological account of design seeing, judgment and re-seeing"
