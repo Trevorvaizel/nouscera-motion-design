@@ -17,7 +17,7 @@
 
 ## Unresolved decisions
 
-- **OQ-001:** Which movement of the actual essay _The Human at the Door_ should become the first short-film experiment? No selection is yet approved.
+- **OQ-001:** Resolved by D-013. The first adaptation movement is **“The fog”**, PDF pages 7–11. The source-grounded recognition within that movement is still being reviewed.
 - **OQ-002:** Which visual treatment best carries the selected essay movement? No treatment is selected.
 - **OQ-003:** What role should narrative voice, protagonist, and character play? Unselected.
 - **OQ-004:** Whether any candidate force merits formal production status requires a specific test; Stage 02 desk ratings are not empirical proof.
@@ -50,3 +50,12 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Open:** Which portion to adapt, intended recognition, narration, visual metaphor, duration, generation treatment, viewer testing.
 
 **Repository boundary:** The original PDF has not been uploaded to this public repository. Publish only after appropriate rights and attribution decisions.
+
+
+### D-013 | 2026-11-11 | Select “The fog” as Film 001's first adaptation unit
+
+**Question:** Which movement from the actual 50-page essay should be the first cinematic explainer experiment?
+**Alternatives considered:** “The fog” (pp. 7–11); “The answer that arrives clean” (pp. 27–31); “The expert sentence without expert eyes” (pp. 32–35); “The first practice of navigation” (pp. 41–45). See `B03.04_FIRST_MOVEMENT_COMPARISON.md`.
+**Author decision:** “Lets start with the first” in response to the explicit recommendation to start with **“The fog.”**
+**Status:** **Approved source-movement selection**; not approval of the studio's precise interpretation, script or treatment.
+**Consequences:** Derive and review A01 **TR-002**, grounded in pages 7–11. Retain the previous TR-001 as historical exploration. Do not authorize visual metaphors, AI prompts or footage on the basis of this selection alone.
