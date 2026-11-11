@@ -1,0 +1,18 @@
+# Generated media and local cache should not be committed by accident
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+tmp/
+cache/
+renders/
+exports/
+*.mp4
+*.mov
+*.webm
+*.wav
+*.flac
+*.zip
+# Deliberate visual assets require rights and provenance review before publishing
