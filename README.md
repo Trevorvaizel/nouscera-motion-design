@@ -12,7 +12,7 @@ The engraved black-and-white astronaut illustration is a **style benchmark, not 
 
 1. [Current state](STATUS.md): what is known, approved, open, and next.
 2. [Brick-by-brick protocol](harness/BRICK_PROTOCOL.md): how any subsequent studio session progresses without jumping ahead.
-3. [Decision ledger](harness/DECISIONS.md): why we made each consequential choice.
+3. [Workflow history](harness/WORKFLOW_HISTORY.md) and [decision ledger](harness/DECISIONS.md): why we made each consequential choice.
 4. [Source and status policy](harness/KNOWLEDGE_POLICY.md): distinguish evidence, hypotheses, approvals and experiments.
 5. [Six-artifact handoff](harness/ARTIFACT_FLOW.md): how the idea becomes a video.
 6. [First film folder](stories/001-information-direction/README.md): one story's live chain.
@@ -50,3 +50,7 @@ This is a **public GitHub repository**. Do not upload private conversations, unr
 Use one small decision-bearing change at a time. A change is complete only when its artifact, reasoning, acceptance status, and next open question are recorded. Prefer pull requests for consequential changes once the harness is established.
 
 _Initialized 2026-11-11 as a working repository, not a finished studio canon._
+
+## Continuing with AI assistance
+
+Read [AGENTS.md](AGENTS.md) as the repo entry contract and take the current brick from [STATUS.md](STATUS.md), not from an outdated chat summary. The next open decision is tracked in [Issue #1](https://github.com/Trevorvaizel/nouscera-motion-design/issues/1).
