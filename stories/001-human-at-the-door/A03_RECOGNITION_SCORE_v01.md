@@ -2,7 +2,7 @@
 title: "Film 001 | A03 | Recognition Score for The Transforming Room"
 version: "0.1"
 date: "2026-11-11"
-status: "Working proposal, editorial review required"
+status: "Authorized working narrative baseline for A04; continuity specifics and results unvalidated"
 stage: "03"
 brick: "B03.07"
 source: "The Human at the Door, The fog, PDF pp. 7-11"
@@ -12,7 +12,7 @@ treatment: "The Transforming Room / D-015"
 
 # A03 | Recognition Score | The Transforming Room
 
-**Status: WORKING.** The source movement, protected meaning and cinematic treatment are author-approved. This **score and its viewpoint strategy are proposals**. They do not yet approve a screenplay, exact timecode, individual shot, camera route, illustration prompt, model or result.
+**Status: WORKING BASELINE AUTHORIZED FOR A04 (D-016).** The user said "proceed" after the six-beat score and the proposed continuity strategy were presented. This authorizes development of the Look and Motion Bible from the proposed structure but does **not** make each viewpoint choice, score beat, actual audience inference or technical result definitively approved. This is still not a screenplay, exact timecode, shot, camera route or model prompt.
 
 ## 1. What A03 must do
 
@@ -237,3 +237,8 @@ Do not treat recall, likes, watch time and comprehension as the same outcome. Th
 - **Studio inventions:** Rooms becoming worlds, embodied viewpoint switches, recurring visual/sonic tethers and specific transformation directions. None are falsely attributed to the essay.
 
 **Publication boundary:** The source PDF is not included in this public repository.
+
+
+## Continuation note | D-016
+
+On 2026-11-11 the author responded **"proceed"** to the presented A03 working score and recommendation of a visible-human opening, embodied changing worlds and human return. We interpret this as authorization to use A03 as a **working basis for A04 derivation**, not a claim that all continuity mechanics are locked or proven. A04 v0.1 has been developed from this basis; the concrete anchor and first transformation remain choices for the ensuing production test.

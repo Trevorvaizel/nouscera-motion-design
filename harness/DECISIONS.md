@@ -83,3 +83,14 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Evidence:** Direct conversational selection, preserved in `B03.06_TRANSFORMING_ROOM_SELECTION.md`.
 **Next handoff:** A03 Recognition Score, beginning with continuity of viewpoint/human predicament through the metamorphoses.
 **Revision trigger:** A03 exposes meaning or perception failure; subsequent AI/audience tests disconfirm the mechanism.
+
+
+### D-016 | 2026-11-11 | Authorize A03 as working baseline for Look and Motion derivation
+
+**Context:** The studio presented the A03 six-beat recognition score and recommended visible-human establishment, immersive transformed worlds, and human return at recognition.
+**User response:** "proceed".
+**Scope:** **Permission to continue deriving A04 from A03**, rather than a separate explicit declaration that all six beats, exact anchor, camera, soundtrack or audience response are approved.
+**Working assumption:** The human question persists across worlds; the room itself transforms (D-015); source-valid advice can lack placement and pressure remains visible (D-014).
+**Result:** A04 Look and Motion Bible v0.1 drafted with semantic motion operations and the smallest proposed single-morph proof.
+**Not validated:** Human-anchor implementation, AI temporal stability, visual identity or viewer recognition.
+**Next decision:** Determine the concrete first semantic correspondence and anchor, then derive A05 test shot contracts.

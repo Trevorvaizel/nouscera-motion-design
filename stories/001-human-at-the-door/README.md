@@ -25,3 +25,8 @@ The author chose **Option 2: the room itself becomes the worlds**. This combines
 ## A03 | Recognition Score now drafted
 
 [Read A03 Recognition Score v0.1](A03_RECOGNITION_SCORE_v01.md). It traces six recognitional turns from the human's open question to **placement rather than certainty** and recommends a visible-human opening, immersive transforming worlds, and a human return at the insight. **The anchor and score have not yet been approved.** It is not a script or model prompt.
+
+
+## A04 | Visual physics and motion language
+
+[A04 Look and Motion Bible v0.1](A04_LOOK_AND_MOTION_BIBLE_v01.md) defines black as unformed possibility, white engraved lines as constructed reality, six distinct motion operations, continuity principles and a **proposed one-morph test**. The user authorized continuing from A03 through "proceed" (D-016); the Bible is **working** and no model/video experiment has yet occurred. The next concrete selection is one meaningful room-element to advice-world-element correspondence and a human tether for A05.

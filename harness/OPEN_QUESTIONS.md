@@ -14,7 +14,9 @@ A question is closed only when an artifact, decision, or test resolves it; mark 
 | OQ-008 | How will production takes and large media be stored without bloating Git history? | Asset workflow | Choose Git LFS or external storage and path manifest | Before large renders |
 | OQ-009 | **Resolved:** interaction of valid-advice placement and real human pressures, with placement as the central revelation (D-014) | No longer blocking | Explicit author approval | Carry into A02 selection | 
 
-| OQ-010 | What anchors the viewer to the **person and unresolved question** while the room itself becomes successive worlds? | A03 Recognition Score | Three anchors compared in A03 v0.1; human establishment + embodied interior + human return recommended, not yet author-approved | Review the A03 six-beat recognition score and provisional continuity anchor; request corrections or accept for A04 handoff | 
+| OQ-010 | How will the viewer recognize the **same person and unresolved question** during the actual metamorphosis? | A05 shot contract and first visual proof | A03 working strategy authorized by D-016; literal prop/gesture/POV tether unselected | Choose and test one human tether in the first morph | 
+
+| OQ-011 | Which **first room element -> advice-world element** transformation has a genuine semantic correspondence and can be tested without scripting the whole film? | A05 visual proof | A04 v0.1 proposes controlled, paired start/end states | Select one source/target pair, record meaning/leakage, then build the first shot contract |
 
 ## Do not confuse uncertainties
 

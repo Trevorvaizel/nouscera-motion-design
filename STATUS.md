@@ -3,8 +3,8 @@
 **As of:** 2026-11-11  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.07, Review A03 Recognition Score and continuity anchor  
-**Status:** The Transforming Room approved as working treatment (D-015); A03 Recognition Score v0.1 drafted, continuity strategy **not yet approved**
+**Current brick:** B03.08, Review A04 Look and Motion Bible and isolate first visual proof  
+**Status:** A03 authorized as working basis for next derivation (D-016); A04 Look and Motion Bible v0.1 drafted for review, **no actual image/video test run**
 
 ## Confirmed direction
 
@@ -21,7 +21,7 @@
 |---|---|
 | 01, Domain cartography | 13 province working drafts compiled |
 | 02, Critical synthesis | 109 candidate forces provisionally adjudicated |
-| 03, Studio methodology | A01 approved; A02 working treatment selected; A03 six-beat score drafted, pending author review |
+| 03, Studio methodology | A01 approved; A02 treatment selected; A03 authorized working baseline; A04 visual/motion rules drafted, awaiting test selection |
 | 04, Film experiment | Not started; no approved narrative treatment, clips or viewer tests |
 | 05, Capability system | Not started |
 
@@ -29,10 +29,10 @@
 
 Read `stories/001-human-at-the-door/README.md` and `stories/001-human-at-the-door/SOURCE_MAP_v01.md`.
 
-**B03.05 closed:** TR-002 approved as meaning. **B03.06 closed:** The author selected Option 2, **the room itself becomes the worlds** (D-015). **B03.07 active:** [A03 Recognition Score v0.1](stories/001-human-at-the-door/A03_RECOGNITION_SCORE_v01.md) proposes a visible-human opening, embodied transformations and a return to the person at the recognition. The source/meaning/treatment are approved; the A03 score and continuity anchor remain working proposals. Do not write camera/prompt specifications as approved until the A03 gate closes.
+**B03.05 closed:** TR-002 approved as meaning. **B03.06 closed:** The author selected Option 2, **the room itself becomes the worlds** (D-015). **B03.07 advanced by D-016:** The author said "proceed" to the proposed A03 score, authorizing it as a **working baseline**, not locking camera/continuity details. **B03.08 active:** [A04 Look and Motion Bible v0.1](stories/001-human-at-the-door/A04_LOOK_AND_MOTION_BIBLE_v01.md) proposes a black-and-white engraving language, semantic morph vocabulary and **one controlled room-to-world metamorphosis test**. Next decide the first source/target correspondence and human tether before A05 shot contracts.
 
 Do **not** automatically promote the previous information-and-direction TR-001 to the essay's governing statement.
 
 ## Open boundaries
 
-**Source, creative recognition and working treatment approved for development.** No continuity anchor, narration, protagonist depiction, camera, style bible, AI prompt, clip or audience result is approved. PDF publication rights have not been established. The PDF has not been copied to this public repo.
+**Source, creative recognition and working treatment approved for development.** No specific continuous prop/person depiction, narration, locked camera, finalized visual Bible, AI prompt, clip or audience result is approved. A04 is a testable draft, not evidence of production feasibility. PDF publication rights have not been established. The PDF has not been copied to this public repo.
