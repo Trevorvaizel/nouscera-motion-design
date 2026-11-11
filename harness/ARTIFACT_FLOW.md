@@ -4,10 +4,14 @@
 
 ## Two interdependent creative tracks
 
-**A. Meaning:** author's idea -> exact claim -> intended recognition -> story alternatives -> viewer interpretation.  
+**A. Meaning:** original idea or authored source work -> **source map when adapting an existing work** -> selected protected claim -> intended recognition -> story alternatives -> viewer interpretation.  
 **B. Cinematic language:** illustrated world -> spatial behavior -> motion grammar -> audiovisual atmosphere -> generation reliability.
 
 The tracks meet in a **treatment-selection gate**. Visual quality cannot silently become the authority over meaning.
+
+## Adaptation preflight (conditional, not a seventh artifact)
+
+If the film draws from an existing long-form work, register the source, map its structure and tensions, and select an appropriate adaptation unit **before** the Thought Receipt. This prevents a quote or attractive metaphor from replacing the original narrative. Film 001 uses `stories/001-human-at-the-door/SOURCE_MAP_v01.md`. Do not place the full uploaded PDF into this public repository without a publication decision.
 
 ## Instruments and gates
 
@@ -24,9 +28,10 @@ An approval is always **scoped**. Approving a thought does not approve a treatme
 
 ## The first actual film
 
-`stories/001-information-direction/` is the current test body.
+`stories/001-human-at-the-door/` is the current source-led film workspace; `stories/001-information-direction/` is retained historical concept exploration.
 
-- A01: drafted as `THOUGHT_RECEIPT_TR-001.md`; **author review pending**.
+- Source Map: v0.1 mapped from the actual 50-page essay; selection of an adaptation unit remains open.
+- A01: not yet derived for the selected passage of the essay. Historical TR-001 was based on the assistant-proposed earlier line.
 - A02 through A06: not produced or approved.
 - Video clips: none.
 - Viewer evidence: none.
