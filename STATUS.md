@@ -3,8 +3,8 @@
 **As of:** 2026-11-11  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.04, Compare source-anchored short-film units  
-**Status:** Four candidate essay movements compared; _The fog_ recommended for editorial review, **not approved**
+**Current brick:** B03.05, Derive and review source-anchored Thought Receipt TR-002  
+**Status:** **“The fog” selected by author (D-013)**; TR-002 v0.1 drafted and awaiting approval of intended recognition
 
 ## Confirmed direction
 
@@ -21,7 +21,7 @@
 |---|---|
 | 01, Domain cartography | 13 province working drafts compiled |
 | 02, Critical synthesis | 109 candidate forces provisionally adjudicated |
-| 03, Studio methodology | Actual essay source registered; four candidates compared, creative selection open |
+| 03, Studio methodology | Author selected “The fog” (pp. 7–11); A01 TR-002 drafted, recognition review open |
 | 04, Film experiment | Not started; no approved narrative treatment, clips or viewer tests |
 | 05, Capability system | Not started |
 
@@ -29,10 +29,10 @@
 
 Read `stories/001-human-at-the-door/README.md` and `stories/001-human-at-the-door/SOURCE_MAP_v01.md`.
 
-**Current gate B03.04:** Four movements have been compared in `stories/001-human-at-the-door/B03.04_FIRST_MOVEMENT_COMPARISON.md`. The studio recommends **The fog** (pp. 7–11) for the first source-faithful story experiment, while **The answer that arrives clean** is the strongest alternative for an initial AI-generation-control test. **Author creative selection is still required.** After selection, derive a new source-anchored A01 Thought Receipt and only then A02 cinematic treatment comparisons.
+**B03.04 closed:** The author selected **“The fog”**, PDF pp. 7–11, as the first experiment (D-013). **B03.05 active:** Review `stories/001-human-at-the-door/THOUGHT_RECEIPT_TR-002_THE_FOG.md` and confirm or revise its source-grounded recognition. Only then proceed to A02 Treatment Comparison.
 
 Do **not** automatically promote the previous information-and-direction TR-001 to the essay's governing statement.
 
 ## Open boundaries
 
-No source passage, narrator, protagonist, camera, style bible, motion prompt or clip has been approved. PDF publication rights have not been established. The PDF has not been copied to this public repo.
+**Source passage selected:** “The fog,” PDF pp. 7–11. No final recognition, narration, protagonist, camera, style bible, motion prompt or clip has been approved. PDF publication rights have not been established. The PDF has not been copied to this public repo.
