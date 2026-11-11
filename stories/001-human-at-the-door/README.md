@@ -10,6 +10,6 @@ The actual work we will experiment on is this essay, **not** the previously prop
 
 The intended output is one **small AI-first cinematic explainer experiment** adapted from a deliberately selected part of the essay, using illustrated, white-on-black engraving-inspired visuals, emergence, spatial depth, meaningful morphing, sound and motion. The astronaut illustration is a style benchmark, not the subject.
 
-Read [Source Map v0.1](SOURCE_MAP_v01.md) before developing a source-anchored A01 Thought Receipt. The existing [information-direction concept](../001-information-direction/README.md) remains historical exploration.
+Read [Source Map v0.1](SOURCE_MAP_v01.md) and [B03.04: Comparison of the first short-film movements](B03.04_FIRST_MOVEMENT_COMPARISON.md) before developing a source-anchored A01 Thought Receipt. The existing [information-direction concept](../001-information-direction/README.md) remains historical exploration.
 
-**Next gate:** Which narrative movement from the essay should become our first short film? This must be decided before selecting a visual metaphor or creating AI video.
+**Current gate:** The studio recommends **The fog** (pp. 7–11) as the first source-faithful narrative study, but the **author has not yet selected it**. The strongest alternative for a more concrete AI transformation test is **The answer that arrives clean** (pp. 27–31). See the B03.04 comparative memo. No script, metaphor or generation prompt is yet approved.
