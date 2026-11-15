@@ -244,7 +244,7 @@ After asset creation, move manifest into a machine-readable table or JSON where 
 
 ## 7 | Next brick and handoff
 
-**B03.11K execution, in this order:**
+**[B03.11K execution checklist, GitHub Issue #11](https://github.com/Trevorvaizel/nouscera-motion-design/issues/11), in this order:**
 1. Generate **CP-01** human-at-desk candidate(s) in portrait.
 2. Choose a working source subject/reference through local meaning + figure-ground test; **do not assume author final approval**.
 3. Develop **CP-02** as matched world, then **CP-03** and **CP-04** as a paired comparison.
