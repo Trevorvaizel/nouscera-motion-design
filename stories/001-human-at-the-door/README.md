@@ -90,3 +90,8 @@ Following the [full experiment force audit](B03.11C_FULL_EXPERIMENT_FORCE_AUDIT_
 ## B03.11F | What the author recognized, and what failed
 
 The author prefers Design B because **contrasting two situations** made the same-advice/different-context relationship memorable. However, **both videos' pressure material and endings failed**: the voice named situated pressures and the turn toward a smaller question, but the author could not feel or recognize those scenes. The studio recorded this direct response (not a cold-viewer test) and derived [two target scene-function contracts](B03.11F_AUTHOR_RECEPTION_SCENE_CONTRACTS_v01.md): consequential pressure P1/P2 and enacted inquiry shift R1/R2. None is selected as finished art; the existing successful conditional contrast should be retained.
+
+
+## B03.11G | From bare animatic to layered illustration
+
+The author flagged that wireframes omit expressive context and asked to recover the full AI-first production plan. The studio read A04/A05 and Stage 02 gates and created a first **26-second integrated engraved look study** with newly generated high-detail hypothetical workspace art, moving camera, black intervals, provisional narrated sound and subdued original ambience. [B03.11G production/fidelity receipt](B03.11G_LAYERED_LOOK_STUDY_AND_FIDELITY_GATES_v01.md) documents what it proves and what it does not. **No hand/action performance has been successfully animated**, no second human context is enacted and no new viewer results exist. B03.11F pressure/recognition action contracts remain the next production bottleneck.
