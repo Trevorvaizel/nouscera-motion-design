@@ -193,3 +193,13 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Working proposals:** [B03.11F scene contracts](../stories/001-human-at-the-door/B03.11F_AUTHOR_RECEPTION_SCENE_CONTRACTS_v01.md) suggest pressure P1/P2 and recognition R1/R2 alternatives, with risks registered before any new generation.
 **Evidence limitation:** This is informed author reception, not unprimed viewer testing or proof that a specific force works universally.
 **Next:** Test the pressure and recognition **as human events**, protect p.9 source examples and p.10 open placement question, and record whether the new scenes yield the intended perception.
+
+
+### D-027 | 2026-11-15 | Advance from diagnostic wireframes toward layered cinematic look development
+
+**Author request:** Continue after B03.11F pressure and recognition contracts; move into a level where the relationship between detailed illustration, human action, narration, sound and editing can **be felt**. Author observes that bare wireframes are easy to judge but lack expressive layers, and asks how far the original studio plan is from full illustrated film.
+**Original-plan recovery:** A04/A05 and Stage 02 prescribe AI-first composed illustration anchors, small semantic motion tests, selective 2.5D/compositing, editorial assembly and unprimed reception, not permanent low-fidelity wires or a full unbroken AI movie. [B03.11G receipt](../stories/001-human-at-the-door/B03.11G_LAYERED_LOOK_STUDY_AND_FIDELITY_GATES_v01.md) traces actual and missing gates.
+**Actual new output:** A **26.0-second** 540x960, 15fps detailed monochrome engraved **editorial look study** with a newly generated person's workspace, selective camera focus, black holds, temporary espeak narration and original sound ambience. It examines pressure and a bounded question at richer image/audio fidelity. MP4 SHA-256 is recorded in B03.11G.
+**Limits:** The human's hesitation and act of rewriting a question are **NOT truly animated**. The image is one illustrative hypothetical situation, not a demonstrated pair of different lives or a factually specified protagonist. The final question is composited rather than physically written. The AI room-to-world motion problem also remains unresolved. No author or unprimed viewer has accepted this study.
+**Next:** Preserve the working B4 context contrast; author the first matched illustrated action states and test actual inter-frame motion of human choice and question reframing. Reassemble a short composite before making or claiming a full illustrated Film 001.
+**Status:** Provisional look/film-layering proof, not completed scene, validated force or final production canon.
