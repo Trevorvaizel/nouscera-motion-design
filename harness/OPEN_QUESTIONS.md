@@ -24,7 +24,9 @@ A question is closed only when an artifact, decision, or test resolves it; mark 
 
 | OQ-014 | Which **concrete sign vehicles and timings** help viewers connect speech to meaning without forcing continuity or distorting the instructions? | Rhythm A v0.2 | **EX-002** 9-second A/B now generated, identical narration; no interpretation results yet. See Film 001 EX002 receipt | Review both versions, challenge checklist/chair/cardboard-model inferences; test placement sequence next |
 
-| OQ-015 | Can a **force-coded, situated semantic-fit diagnostic** predict the wrong associations and appropriate representational demands **before** visual generation? | EX-003 and studio methodological promotion | [Semantic-Fit Scalpel Matrix v0.1](../methodology/SEMANTIC_FIT_SCALPEL_MATRIX_v01.md) derives nine questioning gates from Stage 02 candidate forces; no prospective test yet | Before generating “Build the smallest version” alternatives, record predictions and vetoes; compare them against unprimed interpretation |
+| OQ-015 | Can a **force-coded, situated semantic-fit diagnostic** predict the wrong associations and appropriate representational demands **before** visual generation? | EX-003 and studio methodological promotion | [Semantic-Fit Scalpel Matrix v0.1](../methodology/SEMANTIC_FIT_SCALPEL_MATRIX_v01.md) derives nine questioning gates from Stage 02 candidate forces; no prospective test yet | Full original experiment audit completed at source/artifact level; next pre-register new competing passage-wide concepts and compare with unprimed viewers |
+
+| OQ-016 | How do we preserve **the essay's competing plausible advice, contextual pressures and placement question** in a coherent short-form spoken-and-seen argument, without making a guaranteed startup recipe? | Rhythm A v0.2 script/animatic revision | Full 12-event plus EX-002 source/artifact audit in `B03.11C_FULL_EXPERIMENT_FORCE_AUDIT_v01.md`; no audience test | Derive at least two competing passage-wide audiovisual approaches and audit each with force matrix before generation |
 
 ## Do not confuse uncertainties
 
