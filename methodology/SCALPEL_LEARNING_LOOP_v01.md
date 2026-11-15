@@ -134,3 +134,24 @@ Before generating either competing passage-wide rough animatic:
 4. Then produce, inspect and log results in A06 with the prediction status above.
 
 **There are no reception results for EX-003A/B yet.** The studio's methodology can become better only if failed predictions, unexpected readings and unglamorous false alarms are retained along with successes.
+
+
+## Author reaction update | B03.11F | 2026-11-15
+
+**Do not alter the pre-registered prediction table above.** This is a subsequent observation entry, clearly separated from the original hypotheses.
+
+**Observer:** author/creative director, already aware of intended narrative, **not blind**.
+
+**Verbatim gist:** The contrast between two situations in B made “the same advice means something else in another context” memorable. The author did **not** feel or recognize the human pressures shown, and judged the smaller-question ending unsuccessful in **both** roughs. Full words captured in [B03.11F scene contract receipt](../stories/001-human-at-the-door/B03.11F_AUTHOR_RECEPTION_SCENE_CONTRACTS_v01.md).
+
+**Narrow conclusions:** B's contextual contrast was **author-recognized** as meaningful. Visual depiction of stakes and placement was **author-rejected** as insufficient. This supplies a concrete next revision target, **not population comprehension**, nor a numeric score proving the force matrix's accuracy.
+
+**Observed/missed risk ledger:**
+- **P01-F02/P03 B biography warning:** Author did **not** report inferred specific biography. Mark **not assessed**, not cleared.
+- **P02-F06/P04-F03 pressure depiction:** Author reported inability to feel pressure or recognize the scene. Mark **author-observed failure of visual embodiment**, but actual audience generalization indeterminate.
+- **P01-F04/P03-F01 placement endpoint:** Author reported ending did not work. Mark **author-observed failed recognitional landing**; the exact viewer misreading (algorithmic selection vs no perceptual change) remains **unresolved**.
+- **P02-F03 A recipe reading:** Not explicitly tested by this feedback; remain **unknown**.
+- **P09-F04 black holds:** Not explicitly evaluated; remain **unknown**.
+- **B4 context contrast:** Positive author perception, which can inform candidate design but is **not** a post-hoc force-prediction success.
+
+**Next prospective test:** Pressure P1 vs P2 and Recognition R1 vs R2, keeping the working B4 conditional contrast where possible. The scene contract document specifies what would falsify each design before generation.
