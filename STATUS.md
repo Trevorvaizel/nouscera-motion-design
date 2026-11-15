@@ -3,8 +3,8 @@
 **As of:** 2026-11-15  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.11B, Review EX-002 speech-to-sign microanimatic A/B  
-**Status:** **Rhythm A selected (D-019), audiovisual correspondence confirmed (D-021)**. The [EX-002 controlled 9-second A/B microanimatic](stories/001-human-at-the-door/EX002_SPEECH_TO_SIGN_MICROANIMATIC_RECEIPT.md) now exists using identical original temporary narration: text-only vs individually engraved objects. Videos are author-review candidates, **not viewer-tested or approved film shots**.
+**Current brick:** B03.11C, Audit semantic fitness before EX-003 visual selection  
+**Status:** **Rhythm A selected (D-019), audiovisual correspondence confirmed (D-021)**. The user rejected EX-002's assumption that placing an associated object next to narration guarantees meaning. A **working, force-coded Semantic-Fit Scalpel Matrix** is derived from the Stage 02 109-force ledger; it is **not yet approved as universal studio doctrine or viewer-tested**.
 
 ## Film-level editorial clarification | 2026-11-15
 
@@ -43,11 +43,15 @@ Do **not** automatically promote the previous information-and-direction TR-001 t
 
 ## Current rhythm gate
 
-**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Review EX-002 A/B at the *sign-vehicle* level; test whether checklist, empty chair and miniature model help or distort understanding. Then redesign the later **placement** relation (S10–S12) before the full Rhythm A v0.2 recut.
+**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Use [Semantic-Fit Scalpel Matrix v0.1](methodology/SEMANTIC_FIT_SCALPEL_MATRIX_v01.md) to select a **held prototype versus enacted construction vignette** for the “Build the smallest version” event, with specific wrong-inference guards; then examine validation and customer-contact events. No visuals are approved by the matrix alone.
 
 ## EX-002 controlled audiovisual study | 2026-11-15
 
 Two actual **9-second 540×960** test videos were rendered with identical B2.wav synthetic narration and matching timing: a typography-only **control** and an **illustrated-sign** treatment. A side-by-side comparison and contact sheet exist in the conversation runtime. Source image panels were recomposed as isolated objects; no public media upload or unprimed viewing has occurred. The [receipt](stories/001-human-at-the-door/EX002_SPEECH_TO_SIGN_MICROANIMATIC_RECEIPT.md) records SHA hashes, sign choices, specific interpretation risks and the review gate. **Next:** author/editorial review, not promotion to film canon.
+
+## EX-002 semantic failure and methodological response
+
+The author observed that a miniature building does not meaningfully explain *“Build the smallest version”*: **proximity is not explanatory correspondence**. An enacted, dimensional build may better express constructing and trying a small version, depending on the targeted viewer inference. We have reopened the [109 candidate-force ledger](research/stage-02/force_adjudication_ledger_109.md) and derived a [situated scalpel matrix](methodology/SEMANTIC_FIT_SCALPEL_MATRIX_v01.md) using P01, P02, P03, P04, P07, P08, P09, P10 and P13. The matrix is a provisional diagnostic method; none of its labels automatically determines whether an image, action or scene must be used.
 
 ## Open boundaries
 
