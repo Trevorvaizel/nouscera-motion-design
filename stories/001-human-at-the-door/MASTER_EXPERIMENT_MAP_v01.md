@@ -17,11 +17,11 @@ ownership: "Studio derives and executes; author reviews consequential meaning an
 
 **Now:** Stage 03, studio methodology moving into **AI-first illustrated reference production**. The film has a complete **working 13-shot source-to-screen spine**, an author-selected **Rhythm A** and **six-beat recognition logic**. A previous 46-second rough Design B was preferred by the author for **the same-advice/different-context contrast**, but both rough treatments failed to make human pressures or a smaller inquiry *felt* or visually recognizable. A 26-second higher-detail look study exists; it is **camera/scene compositing, not true animated human action**.
 
-**Immediate production brick:** [B03.11K, Continuity Pack v0.1](CONTINUITY_PACK_SPEC_v01.md), tracked in [GitHub Issue #11](https://github.com/Trevorvaizel/nouscera-motion-design/issues/11). Define and produce **six source-reference stills**, lock one consistent human / notebook / workspace / engraving language, and distinguish **two hypothetical contexts** without inventing a biography. Then generate matching start/intermediate/end anchors for shots **S08, S09, S11**, test real AI movement, and assemble **S08-S13** before the full film.
+**Immediate production brick (ACTIVE, CP-01 started):** [B03.11K, Continuity Pack v0.1](CONTINUITY_PACK_SPEC_v01.md), tracked in [GitHub Issue #11](https://github.com/Trevorvaizel/nouscera-motion-design/issues/11). Define and produce **six source-reference stills**, lock one consistent human / notebook / workspace / engraving language, and distinguish **two hypothetical contexts** without inventing a biography. Then generate matching start/intermediate/end anchors for shots **S08, S09, S11**, test real AI movement, and assemble **S08-S13** before the full film.
 
 **One-sentence protected meaning:** Potentially true advice may not yet belong to this person's present decision; its usefulness depends on the human situation and an answerable question or contact. The turn is **placement, not certainty**. [Approved A01 TR-002](THOUGHT_RECEIPT_TR-002_THE_FOG.md), D-014.
 
-**Neither a success claim nor a delay:** No finished film, finalized voice script, accepted continuity images, verified native AI-action clip, author approval of the 13-shot plan, or unprimed audience validation exists yet.
+**Current actual visual output:** **CP-01 c01 rejected** (landscape, literal question mark), **CP-01 c02 portrait retained as a working candidate**, not author-approved. [CP-01 first render receipt](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md). CP-02 to CP-06 do **not** exist yet. No finished film, finalized voice script, approved continuity masters, native AI-action clip, approved 13-shot sequence or unprimed audience validation.
 
 ### Status key
 
@@ -128,7 +128,7 @@ The brick ID tracks the **research/production history**, not the order of film s
 | **B03.11H** | Proposed physical recording as motion source | [Historical capture card](B03.11H_PERFORMED_ACTION_CAPTURE_CARD_v01.md) | **Superseded as next user duty** by explicit AI-only correction; retain as history, do not assign filming |
 | **B03.11I / D-028** | Author asked where every shot fits and who owns execution | [13-shot spine](SHOT_SPINE_13_SHOTS_v01.md) | Separate playback order from production dependency order |
 | **B03.11J / D-029, NOW** | Author wants an inspectable control system and provenance | **This map** + [Continuity Pack spec](CONTINUITY_PACK_SPEC_v01.md) | Orientation and decision trace ready; no new stills in this brick |
-| **B03.11K, NEXT** | Need one coherent art/character/room identity for S08/S09/S11 | Six-image reference production **queued** | Actual generated reference images and A06 inspections |
+| **B03.11K, ACTIVE** | Need one coherent art/character/room identity for S08/S09/S11 | [CP-01 c01 rejected, c02 working portrait](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md); CP-02..06 queued | Reference consistency and eventual six-image A06 inspection |
 
 ## 5 | Production sequence and dependencies
 
@@ -137,7 +137,7 @@ The brick ID tracks the **research/production history**, not the order of film s
 | Gate | Work package | Deliverable | Exit rule | State |
 |---|---|---|---|---|
 | **J. Orientation** | Master map, traceable decision status and spec | This file + [continuity spec](CONTINUITY_PACK_SPEC_v01.md) | All 13 slots, source, forces, next step visible | **Current** |
-| **K. Visual continuity** | **CP-01..CP-06** master engraved stills | Six candidate references, contact sheet, prompt/version/asset manifest | Human/notebook/room recur, two contexts remain distinguishable and source-safe | **Next** |
+| **K. Visual continuity** | **CP-01..CP-06** master engraved stills | Six candidate references, contact sheet, prompt/version/asset manifest | Human/notebook/room recur, two contexts remain distinguishable and source-safe | **Active: CP-01 c02 working candidate; CP-02..06 queued** |
 | **L. Priority action anchors** | **S08/S09/S11** matched pose/context states | Stable A/B/optional midpoint image anchors + shot contracts | Same person/camera/props across actions; meaning preserved in stills | Queued |
 | **M. Real motion** | Guided AI image-to-video trials for S09 hesitation and S11 revised inquiry, S08 contrast as needed | Selected **short native moving takes**, rejected examples and failure notes | Real on-screen action, no identity/material drift, credible semantics | Queued; dedicated provider capability must be verified |
 | **N. First integrated proof** | Assemble **S08-S13** with narration, black, sound, selected motion | Viewable substantially illustrated passage | Pressure felt, inquiry visibly changes, future remains open | Queued |
@@ -156,7 +156,7 @@ The brick ID tracks the **research/production history**, not the order of film s
 - [ ] Author has inspected this control system and requested changes, if any.
 
 **Continuity, B03.11K**
-- [ ] Generate CP-01 human at desk.
+- [x] Generate CP-01 human at desk (**c01 rejected; c02 working candidate, not author-approved**).
 - [ ] Generate CP-02 base room/workspace in matching perspective.
 - [ ] Generate CP-03 context A: lower-cost hypothetical trial.
 - [ ] Generate CP-04 context B: higher-consequence hypothetical trial.
@@ -263,6 +263,6 @@ When any signal appears, return to **Section 0**, read the most recent decision/
 
 ## 9 | Immediate handoff
 
-**B03.11J artifacts:** This Master Map and [CP spec](CONTINUITY_PACK_SPEC_v01.md) are created and auditable. **No CP images have been generated by this documentation brick.**
+**B03.11J artifacts:** The Master Map and [CP spec](CONTINUITY_PACK_SPEC_v01.md) were created as documentation; that brick generated **no** images. **Subsequently B03.11K generated the first real visual candidates:** [CP-01 c01 rejection and c02 working portrait](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md).
 
-**The very next production operation [B03.11K](https://github.com/Trevorvaizel/nouscera-motion-design/issues/11):** Create **CP-01 to CP-06** candidate reference stills (six actual images), document their AI generation parameters, inspect them together against shared invariants and source/force vetoes, then produce a contact sheet and simple A06 continuity receipt. The studio owns this action. **The author is not assigned another decision form or a physical filming task.**
+**Next operation inside the active [B03.11K](https://github.com/Trevorvaizel/nouscera-motion-design/issues/11):** Use CP-01 c02 as a *provisional* reference to develop CP-02, then create CP-03 to CP-06 (six actual images), document their AI generation parameters, inspect them together against shared invariants and source/force vetoes, then produce a contact sheet and simple A06 continuity receipt. The studio owns this action. **The author is not assigned another decision form or a physical filming task.**
