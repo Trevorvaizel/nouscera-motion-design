@@ -142,3 +142,13 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Operational application:** Perform a **speech-event-to-sign audit inside A03**, considering listener inference, referent, context/detail scope, temporal relation and possible mistaken interpretations, then carry choices into A04 and A05 only where needed.
 **Concrete output:** `stories/001-human-at-the-door/A03_SPEECH_TO_SIGN_AUDIT_v01.md`, based on actual temporary spoken narration and the essay's “The fog” chapter (pp. 7–11).
 **Next:** Test specific revisions to the opening, advice objects and placement relation in a constrained animatic fragment before replacing the entire rough cut. Do not silently assume these proposed objects are author-approved.
+
+
+### D-022 | 2026-11-15 | Author diagnoses EX-002 semantic misfit; propose force-led previsualization diagnostics
+
+**User observation:** A miniature building beside "build the smallest version" has no meaningful explanatory connection; proximity of sign and words does not produce the desired correlation. The user imagines that phrase potentially benefiting from a dimensional **enacted making scene**, while the whole film should mix object, action, scene and absence according to meaning.
+**Scope:** Confirmed **failure diagnosis** and request for diagnostic research scalpels. The user has **not** yet approved a new matrix as permanent doctrine.
+**Derived response:** [Semantic-Fit Scalpel Matrix v0.1](../methodology/SEMANTIC_FIT_SCALPEL_MATRIX_v01.md) consults precisely named Stage 02 forces as *situated questions* before image generation: protected claim, interpretant, metaphor mapping/leakage, multimodal contribution, animated-vs-still need, attention, transition implications, timing, fitness and actual reception.
+**Important limit:** A verb like "build" does not automatically mandate 3D or animation; the intended viewer inference and available context determine the testable candidates.
+**Next:** Select and compare a held prototype and a small enacted-build vignette on the same speech event, with wrong-domain and success-overclaim criteria stated before generation.
+**Status:** Diagnostic tool is a **working hypothesis**, not a validated instrument or author-approved canon.
