@@ -10,6 +10,10 @@
 
 **Author clarification:** The finished explainer is **not** intended as a continuous AI-generated movie. Black/blank holds, isolated line or shape construction, simple relational graphics, selective rich engraved environments and retraction are all part of the desired expressive range. EX-001 is **only a local morph test**, not an edit template for the entire film. The [editorial rhythm note](stories/001-human-at-the-door/EDITORIAL_RHYTHM_NOTE_v01.md) provides a proposed five-mode grammar, **not yet an approved scene sequence**. The [two rhythm sketches](stories/001-human-at-the-door/A03_A04_EDITORIAL_RHYTHM_COMPARISON_v01.md) now compare **A: Breath, Mark, World** and **B: The World, Then the Fracture** against the same six recognition beats. Author selected **Rhythm A** (D-019); the [rough animatic receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md) documents the first 49.25-second actual edit for review. Timing, narration and visuals remain provisional.
 
+## Clarification on audiovisual meaning | 2026-11-15
+
+**D-020:** The author clarified that detailed isolated objects can appear against black, independent reconstructed scenes can serve different thoughts without occupying one continuous spatial universe, and visual form should correspond to what narration is helping the listener understand. **This is not a binary between abstraction and cinematic scenes.** Read [the working audiovisual correspondence note](stories/001-human-at-the-door/AUDIOVISUAL_SEMANTIC_CORRESPONDENCE_v01.md). Rhythm A remains the selected editorial rhythm but should be audited at the speech-event level. No revised animatic has yet been generated from this clarification.
+
 ## Confirmed direction
 
 - **Actual first-film source:** _The Human at the Door: You Don't Need to Know What This Becomes Yet_, a 50-page PDF supplied in the conversation. The underlying file is **not** in this public repo.
