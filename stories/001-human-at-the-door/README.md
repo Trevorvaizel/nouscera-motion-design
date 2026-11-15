@@ -60,3 +60,8 @@ The author clarified that the film may show a **detailed single object on black*
 ## Confirmed correction: speech-to-sign selection | D-021
 
 After explicitly confirming D-020's clarification, the author authorized development of the correction into our workflow. [A03 Speech-to-Sign Audit v0.1](A03_SPEECH_TO_SIGN_AUDIT_v01.md) now examines **12 actual speech events from the first 49.25-second temporary narration** against the original essay, proposing detailed isolated objects, selective immersive transformation, independent images, black holds, and contingent relationships where each can support viewer inference. The options are **working proposals**, not approved shots or completed Animatic v0.2. The six-artifact architecture stays unchanged.
+
+
+## EX-002 | Speech-to-sign comparison now rendered
+
+An actual **9-second controlled microanimatic pair** now exists in the conversation: identical original temporary voice, one version with typography-only advice labels and one version with three richly engraved, isolated objects on black, plus a side-by-side video. See [EX-002 production and evidence receipt](EX002_SPEECH_TO_SIGN_MICROANIMATIC_RECEIPT.md). The illustrated checklist/empty chair/cardboard model are **unapproved sign candidates** and risk narrowing the spoken instructions. This comparison is not a viewer study, a whole-film recut or an AI room-to-world motion test. Next: interpretive review and a corrected placement sequence.
