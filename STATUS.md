@@ -10,7 +10,7 @@
 
 **READ FIRST:** [Master Experiment Map v0.1](stories/001-human-at-the-door/MASTER_EXPERIMENT_MAP_v01.md), then [Continuity Pack v0.1 specification](stories/001-human-at-the-door/CONTINUITY_PACK_SPEC_v01.md). The Master Map is the film-specific current gate, status and provenance index; this file retains historical updates.
 
-**NEXT, B03.11K:** Generate six *linked* white-on-black engraved candidate stills, capture tool/model/input/selection lineage, inspect one contact sheet, and produce A06 continuity evidence. **No physical filming or arbitrary shot-choice assignment to the author.** Then author matched S08/S09/S11 action states and test actual AI movement. The full 13-shot sequence is a **working** design, not a locked 73-second film.
+**NEXT, [B03.11K](https://github.com/Trevorvaizel/nouscera-motion-design/issues/11):** Generate six *linked* white-on-black engraved candidate stills, capture tool/model/input/selection lineage, inspect one contact sheet, and produce A06 continuity evidence. **No physical filming or arbitrary shot-choice assignment to the author.** Then author matched S08/S09/S11 action states and test actual AI movement. The full 13-shot sequence is a **working** design, not a locked 73-second film.
 
 ## Film-level editorial clarification | 2026-11-15
 
