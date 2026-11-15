@@ -171,3 +171,14 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Alternatives:** A, **Competing Counsel**, develops contradictions among potentially valid guidance. B, **The Weight of Advice**, shows how situated time, money, expectations and risk alter applicability. Both preserve the same qualified source recognition and open ending.
 **Learning rule:** Before generating, register force-coded predictions of wrong inference. After production and unprimed viewing, tag confirmed warnings, unobserved warnings, missed failures, false vetoes and confounds. Make only scoped, versioned revisions and transfer-test on another case. Do **not** claim predictive accuracy before evidence.
 **Status:** Concept-stage hypotheses; no user treatment selection, new media, reception evidence or final screenplay.
+
+
+### D-025 | 2026-11-15 | Execute two prospective whole-passage rough audiovisual treatments
+
+**User authorization:** "Proceed" after B03.11D comparative concepts and the prospective scalpel learning loop were presented.
+**Implementation:** Generated **two actual 46-second portrait rough animatics** from the existing proposed A and B scripts, each with six semantic events, provisional synthetic narration, simple procedural monochrome illustration, limited enacted action, deliberate black intervals and an open placement question.
+**Treatment distinction:** A, *Competing Counsel*, foregrounds potentially contrasting advice; B, *The Weight of Advice*, foregrounds how context changes applicability. The spoken scripts differ; this is a **competing whole-treatment comparison**, not a one-variable visual A/B study.
+**Evidence:** [B03.11E production receipt](../stories/001-human-at-the-door/B03.11E_TWO_ROUGH_TREATMENTS_PRODUCTION_RECEIPT.md), private MP4s and contact sheets linked in conversation, plus reproducibility package. File hashes and timing are recorded. Existing prospective hypotheses from the learning-loop document were **not rewritten post-output**.
+**Initial technical observation:** Both videos technically render; however action scenes are schematic, human circumstance may remain underrepresented, and the placement visuals may not yet deliver the intended relational understanding. These are **editorial risks, not audience observations**.
+**Approval boundary:** Author selected neither new design nor its narration/illustrations. No external, unprimed reception result, successful AI motion model test or validated instrument improvement is claimed.
+**Next:** View each study independently and log meaning observations; use cold-viewer reconstructions if available; then update A06 with actual predicted/unpredicted results and revise a bounded failure.
