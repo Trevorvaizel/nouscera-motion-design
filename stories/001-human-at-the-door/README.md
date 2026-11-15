@@ -70,3 +70,8 @@ An actual **9-second controlled microanimatic pair** now exists in the conversat
 ## EX-002 semantic failure and previsualization diagnosis
 
 The author identified that a small building beside the narration “Build the smallest version” is not explanatory correlation; it invents product specificity and depicts a thing rather than showing the act of making a small testable version. To catch such failures **before generation**, the studio derived [Semantic-Fit Scalpel Matrix v0.1](../../methodology/SEMANTIC_FIT_SCALPEL_MATRIX_v01.md) from the Stage 02 109-force ledger. It prompts claim protection, interpretant, source-target transfer, speech-image correspondence, animated-vs-static value, attention, transition implication, timing and selection. **Working tool, not validated or permanently approved.** The next test compares a context-neutral held prototype with an enacted small-build vignette before advancing to EX-003 or Animatic v0.2.
+
+
+## Full original-experiment force audit | B03.11C
+
+The director requested applying the force matrix to the **entire original test**, not merely “Build the smallest version.” [B03.11C Full Experiment Audit v0.1](B03.11C_FULL_EXPERIMENT_FORCE_AUDIT_v01.md) reopens the essay's pages 7–11, all **twelve** spoken events of the 49.25-second Rhythm A animatic, the nested 9-second EX-002 A/B, and the whole-sequence relation. The strongest diagnostic is that competing credible advice was compressed into a possibly mandatory “validate -> talk -> build” recipe, alongside weak pressure context, sign-operation mismatches and a deterministic-looking placement arrow. **No new video or audience test was produced by this audit.**
