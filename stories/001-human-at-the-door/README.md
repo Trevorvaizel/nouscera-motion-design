@@ -80,3 +80,8 @@ The director requested applying the force matrix to the **entire original test**
 ## B03.11D: Two whole-passage designs, created before new generation
 
 The full force audit has led to [two prospective audiovisual approaches](B03.11D_COMPETING_AUDIOVISUAL_DESIGNS_v01.md): **Competing Counsel**, where plausible conflicting recommendations are juxtaposed, and **The Weight of Advice**, where contextual pressures reveal why a sound instruction may be unplaced. Both maintain selective imagery, black and sparse/immersive Rhythm A grammar, are explicitly source-anchored and are **not approved final scripts**. A [Scalpel Learning Loop v0.1](../../methodology/SCALPEL_LEARNING_LOOP_v01.md) registers force-specific predictions in advance of new output, then provides a way to log actual viewer interpretations, misses, false vetoes and conservative methodology revisions. No new animatic was generated in this brick.
+
+
+## B03.11E | Two real low-fidelity whole-passage animatics
+
+Following the [full experiment force audit](B03.11C_FULL_EXPERIMENT_FORCE_AUDIT_v01.md), two prospective designs were rendered as actual portrait MP4s in the conversation: **Competing Counsel** (46.1 seconds) and **The Weight of Advice** (46.3 seconds). Both have temporary original scripted voice and restrained black/white motion graphics; neither is an AI-generated continuous movie. Read [B03.11E production receipt](B03.11E_TWO_ROUGH_TREATMENTS_PRODUCTION_RECEIPT.md). The files are in the user's chat working package, **not on the public GitHub repository**. Their narratives are competing treatments, not one-variable image tests. **Neither has passed viewer comprehension tests or been approved as the film's script.**
