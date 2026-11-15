@@ -36,6 +36,8 @@ A question is closed only when an artifact, decision, or test resolves it; mark 
 
 | OQ-020 | Can a short **recorded physical gesture** be transferred into stable engraved AI animation and still communicate a costly human choice? | First genuine high-fidelity action scene | [B03.11H capture card](../stories/001-human-at-the-door/B03.11H_PERFORMED_ACTION_CAPTURE_CARD_v01.md) specifies action, motion controls and acceptance checks; no footage/model output yet | Get permitted short recorded take or matched anchors, test performance-driven video, inspect actual frame sequence and meaning |
 
+| OQ-021 | Can the studio produce **a coherent complete shot sequence from the source** and test the high-risk events without delegating shot selection or filming to the author? | B03.11I AI-first production | [Full 13-shot spine](../stories/001-human-at-the-door/SHOT_SPINE_13_SHOTS_v01.md) derived from primary pp.7-11 and A03/A04/B03.11F; no high-fidelity action video verified | Generate shared character/set/style references and matched S08/S09/S11 anchors, attempt actual motion, integrate the S08-S13 segment |
+
 ## Do not confuse uncertainties
 
 An unresolved artistic choice is not the same as missing empirical evidence. A production risk is not the same as ambiguity in the author's claim. Keep each in the correct register.
