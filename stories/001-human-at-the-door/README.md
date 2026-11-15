@@ -35,3 +35,8 @@ The author chose **Option 2: the room itself becomes the worlds**. This combines
 ## A05 | First controlled metamorphosis contract
 
 [A05 EX-001: The desk becomes a possible conversation](A05_EX001_SHOT_TRANSITION_CONTRACT_v01.md) is the **working** production contract for a single room-to-world test. The source form is a desk edge; the target is a possible customer-conversation table; the continuous human tether is a foreground hand/notebook relation. The wider room itself must change identity. **No anchor illustrations or AI clips have been generated yet.**
+
+
+## EX-001: Space-between experiment and observed motion
+
+A working [inter-frame transformation contract](A05_EX001_INTERFRAME_CONTRACT_v01.md) now specifies five phases from initial hold to contour transfer and final hold. A six-frame, three-second ImageGen animated GIF was generated in the conversation on 2026-11-15, then separately reviewed in [A06 Preliminary Motion Evidence v03](A06_EX001_MOTION_EVIDENCE_v03.md). The foreground human/engraving remained recognizable, but **desk-to-table semantic correspondence and true room conversion failed**. The GIF is not a native 9:16 start/end-video-model result and has not been uploaded here. Next: match a native portrait pair and make the primary contour transfer visible through the interval.
