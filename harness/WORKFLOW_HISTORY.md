@@ -56,3 +56,22 @@ Do not overwrite the previous workflow rationale when a new one supersedes it.
 **Status:** Adopted for the Film 001 preparation phase. This conditional **Source Map** is not a seventh compulsory artifact; the six agreed artifact types remain.
 
 **Evidence and limits:** User-uploaded _The Human at the Door_ (50 pages), film source now confirmed. No short-film passage selected. Full text deliberately excluded from public GitHub.
+
+
+## W-006 | 2026-11-15 | Visible Film 001 control map and AI-first production ownership
+
+**Trigger:** The author approved a single orienting artifact, source/force derivation trails, a full shot and brick ledger, checklists and a six-image continuity specification after repeated disconnected microtests and repeated delegation of routine production decisions.
+
+**From:** A growing collection of experimental receipts, partially obsolete STATUS handoffs and chat-local choices, with no single film-wide current/next index; isolated shot prompts were sometimes posed as author choices. A physical-recording proposal was explicitly rejected.
+
+**To:** [Film 001 Master Experiment Map](../stories/001-human-at-the-door/MASTER_EXPERIMENT_MAP_v01.md) as the film's **READ FIRST** control surface, backed by [Continuity Pack v0.1](../stories/001-human-at-the-door/CONTINUITY_PACK_SPEC_v01.md), 13-shot spine, source/force traceability, status/checklist gate tracking and a named next production brick. Update AGENTS and root README to prevent older instructions from overruling it. Studio conducts AI-first image and motion production; author reviews meaningful artistic and source decisions.
+
+**Why:** Avoid a creative-process black box while **still making the film**, rather than accumulating unlinked documents or constantly asking the author to choose next tasks.
+
+**Evidence:** Author explicit agreement, approved A01/TR-002, D-018/D-019/D-020/D-021, B03.11F author reception, D-028 full-spine workflow, D-029 control-system authorization, and [B03.11J receipt](receipts/B03.11J-MASTER-MAP-AND-CONTINUITY-SPEC.md).
+
+**Limits:** This controls source, decisions and experiment history; it does **not** prove the 13 proposed shots, six pending reference images or AI motion are successful. Force questions remain revisable hypotheses, not universal law.
+
+**Status:** Adopted operating orientation. The two artifacts are created; B03.11K image generation remains to be executed. Earlier W-005 historical statement “no passage selected” is **now obsolete**, not a current source decision.
+
+**Failure guard:** If the map and STATUS disagree, reconcile and cite the actual latest decision. Do not close a brick merely because a specification was written when its deliverable is actual visual output. Keep an author-visible film, asset and source lineage alongside its documentation.
