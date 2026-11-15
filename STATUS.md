@@ -3,7 +3,7 @@
 **As of:** 2026-11-15  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.11H, Capture first actual human gesture for illustrated motion test  
+**Current brick:** B03.11I, Derive and execute the complete 13-shot Film 001 AI-first production spine  
 **Status:** Two B03.11E 46s rough animatics exist. After the author explained why B's contrasting contexts were memorable but its pressures/recognition failed, the studio produced a **26s engraved, scored editorial look study** using a newly generated high-detail image, selective camera movement, black holds, temporary voice and original low-volume ambience. [B03.11G receipt and fidelity gates](stories/001-human-at-the-door/B03.11G_LAYERED_LOOK_STUDY_AND_FIDELITY_GATES_v01.md). **Human action/handwriting is still not truly animated; no reception test or completed film.**
 
 ## Film-level editorial clarification | 2026-11-15
@@ -68,6 +68,10 @@ The author described a **layering** problem and asked how the original plan conn
 ## B03.11H | Concrete production action
 
 A practical [performed-action capture card](stories/001-human-at-the-door/B03.11H_PERFORMED_ACTION_CAPTURE_CARD_v01.md) specifies a stationary 5–7-second portrait recording of reaching toward a provisional action, noticing a competing obligation and hesitating. This is proposed performance input for a **real** AI animation test, not a final story or requirement to use conventional 3D. Official Runway Act-Two and Luma Modify documentation were checked for performance-based video workflows, with matched-start/end-frame interpolation as a fallback. **No user recording or dedicated video-model result exists yet.**
+
+## B03.11I | Full Film 001 shot spine and ownership correction
+
+The author corrected the studio's repeated delegation of arbitrary individual shot choice and physical performance capture. **The studio owns the complete film derivation and sequential AI-first production.** After re-reading the primary 50-page PDF's actual pp.7-11 and A03/A04/B03.11F, a [13-shot, six-movement story-order spine](stories/001-human-at-the-door/SHOT_SPINE_13_SHOTS_v01.md) now covers the opening human question, credible competing advice, AI accumulation, the previously successful context contrast, the still-missing **performed pressure and inquiry change**, and open placement ending. **Approximate 73s is a layout allowance, not a runtime lock.** Production priority is a shared AI-generated engraved reference pack, then meaning-critical S08/S09/S11 matching anchors and motion tests, then the remaining shots and integrated edit. No physical filming required, no new video-model success claimed.
 
 ## Open boundaries
 
