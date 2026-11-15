@@ -1,5 +1,7 @@
 # Film 001 | The Human at the Door
 
+**START HERE:** [Master Experiment Map v0.1](MASTER_EXPERIMENT_MAP_v01.md) tracks the current brick, 13-shot order, source/force derivations, experiment receipts and checklists. **NEXT:** [Continuity Pack v0.1 Specification](CONTINUITY_PACK_SPEC_v01.md), six linked AI reference stills to generate under B03.11K. Historical sections below document earlier branches, **not separate current instructions**.
+
 **Source:** _The Human at the Door: You Don't Need to Know What This Becomes Yet_ (50-page PDF, supplied by the user 2026-11-11).
 **Source asset:** `the-human-at-the-door-rewrite-v3.pdf` (private conversation upload, **not published in this public repository**).
 **SHA-256:** `699c3495686c9fb217cbb51ac58ab8c04291e6d37d15f965ab613e3c2ad03269`
@@ -105,3 +107,8 @@ The next tangible user task is to record a **5–7-second portrait physical acti
 ## Full Film 001 shot sequence derived | B03.11I
 
 The author corrected the focus on isolated P1/R1 shot choice. The studio reopened the actual source PDF pages 7-11, recognition score and art direction documents and derived the **complete [13-shot, six-movement story and production spine](SHOT_SPINE_13_SHOTS_v01.md)**. It distinguishes story playback from AI-first production dependencies: shared visual reference pack -> S08/S09/S11 pressure and recognition anchors -> true motion trials -> integrated S08-S13 passage -> remaining shots -> complete ~73-second illustrative draft -> reception tests. **No physical filming from the author is required.** The times, shots and draft narration are working proposals, not approved locked production canon.
+
+
+## B03.11J | Current control artifacts
+
+After the author's explicit agreement to an orienting artifact and a continuity specification, the studio created the **[Master Experiment Map](MASTER_EXPERIMENT_MAP_v01.md)** and **[Continuity Pack v0.1 Specification](CONTINUITY_PACK_SPEC_v01.md)**. [Brick receipt](../../harness/receipts/B03.11J-MASTER-MAP-AND-CONTINUITY-SPEC.md) documents source reinspection, derived forces, approval boundaries and handoff. **B03.11K is now active: actually generate CP-01..CP-06, inspect and log them.** No six-image pack yet exists. Do not assign physical performance capture to the author.
