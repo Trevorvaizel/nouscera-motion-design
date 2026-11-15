@@ -6,6 +6,10 @@
 **Current brick:** B03.09, Refine EX-001 contour correspondence after first GIF test  
 **Status:** EX-001 v03 **six-frame animated GIF test generated and inspected**. Human tether and engraved look promising; **desk-to-table contour transfer and room-becomes-worlds mechanism did not pass**. Not a dedicated video-provider test.
 
+## Film-level editorial clarification | 2026-11-15
+
+**Author clarification:** The finished explainer is **not** intended as a continuous AI-generated movie. Black/blank holds, isolated line or shape construction, simple relational graphics, selective rich engraved environments and retraction are all part of the desired expressive range. EX-001 is **only a local morph test**, not an edit template for the entire film. The [editorial rhythm note](stories/001-human-at-the-door/EDITORIAL_RHYTHM_NOTE_v01.md) provides a proposed five-mode grammar, **not yet an approved scene sequence**. Next score-level task: compare visual density and negative space across the six recognition beats before treating any immersive passage as the default.
+
 ## Confirmed direction
 
 - **Actual first-film source:** _The Human at the Door: You Don't Need to Know What This Becomes Yet_, a 50-page PDF supplied in the conversation. The underlying file is **not** in this public repo.
