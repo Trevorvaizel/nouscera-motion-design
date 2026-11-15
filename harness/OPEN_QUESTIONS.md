@@ -26,9 +26,11 @@ A question is closed only when an artifact, decision, or test resolves it; mark 
 
 | OQ-015 | Can a **force-coded, situated semantic-fit diagnostic** predict the wrong associations and appropriate representational demands **before** visual generation? | EX-003 and studio methodological promotion | [Semantic-Fit Scalpel Matrix v0.1](../methodology/SEMANTIC_FIT_SCALPEL_MATRIX_v01.md) derives nine questioning gates from Stage 02 candidate forces; no prospective test yet | Full original experiment audit completed at source/artifact level; next pre-register new competing passage-wide concepts and compare with unprimed viewers |
 
-| OQ-016 | Which whole-passage audiovisual design best preserves the **competing valid advice, contextual pressure and open placement question** without making a guaranteed startup recipe? | Rhythm A v0.2 script/animatic revision | B03.11D drafted both candidates; B03.11E produced **actual 46s rough animatics**. Neither viewer-tested or author-selected | Author reviews actual A/B competing treatment videos; gather unprimed interpretations and compare to predictions |
+| OQ-016 | Which whole-passage audiovisual design best preserves competing advice, actual felt pressures, and a visible placement shift? | Rhythm A v0.2 | Author prefers Design B and recognizes its context contrast, but rejects B3 pressure scene and both B5/6 endings; see B03.11F | Preserve successful B4 contrast; test scene-function replacements for consequential stakes and recognitional inquiry |
 
 | OQ-017 | Which scalpel predictions **actually anticipate reception failures** before generation, and which miss or falsely veto viable treatments? | Studio methodology learning | [Scalpel Learning Loop v0.1](../methodology/SCALPEL_LEARNING_LOOP_v01.md) preregisters force-specific hypotheses and observation codes; rough animatics now exist, still no viewer data | Create rough versions, gather unprimed interpretations, and revise only questions supported by evidence; transfer-test in another passage |
+
+| OQ-018 | Can we make **human pressure felt as a consequential choice** and **placement perceived as an enacted reframing of inquiry**, instead of naming both in voice and graphics? | B03.11F scene-function test | Author directly reports current scenes did not communicate either; [P1/P2 and R1/R2 working contracts](../stories/001-human-at-the-door/B03.11F_AUTHOR_RECEPTION_SCENE_CONTRACTS_v01.md) | Compare bounded scene alternatives, then ask what pressure and new question viewers can describe without priming |
 
 ## Do not confuse uncertainties
 
