@@ -203,3 +203,14 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Limits:** The human's hesitation and act of rewriting a question are **NOT truly animated**. The image is one illustrative hypothetical situation, not a demonstrated pair of different lives or a factually specified protagonist. The final question is composited rather than physically written. The AI room-to-world motion problem also remains unresolved. No author or unprimed viewer has accepted this study.
 **Next:** Preserve the working B4 context contrast; author the first matched illustrated action states and test actual inter-frame motion of human choice and question reframing. Reassemble a short composite before making or claiming a full illustrated Film 001.
 **Status:** Provisional look/film-layering proof, not completed scene, validated force or final production canon.
+
+
+### D-028 | 2026-11-15 | Film-wide shot planning and AI-first production responsibility
+
+**Author correction:** “in order to turn the human at the door experiemtn. what shots are there and how do we move sequentially? why are you giving me this job ?” After the assistant repeatedly delegated individual P1/R1 shot selection and even suggested physical recording, the author requires the studio to derive **the full cinematic sequence** and lead the production workflow.
+**Source action:** Reopened the actual PDF `the-human-at-the-door-rewrite-v3.pdf`, pp.7-11; the A03/A04 score; B03.11D's competing treatments; B03.11F's observed working and failing scenes.
+**Working output:** [13-shot Film 001 source-based production spine](../stories/001-human-at-the-door/SHOT_SPINE_13_SHOTS_v01.md). It includes all six recognized narrative movements, 13 proposed shot slots, page anchors, visible action/sign, motion transition semantics, ~73-second non-locked time allowances, a draft voice sketch, and two separate sequences: **playback order** and **AI-first production order**.
+**Ownership boundary:** The studio chooses and organizes which shot contracts and AI illustrations to create; the author reviews consequential narrative/artistic results, not arbitrary shot routing, physical camera captures or unsupported video provider operations.
+**Protected precedent:** Retain the author-recognized Design B contrast, fix enacted human pressure and a real change of inquiry, preserve advice validity and an unresolved future. The transforming room is a selectively used technique, not a requirement that every shot morph or remain inside one continuous space.
+**Next actual production brick:** Generate shared visual continuity references, followed by matched S08/S09/S11 anchor studies and meaningful animated-action tests. Do not label a still-camera move as actor motion, nor claim a dedicated model has been run without evidence.
+**Status:** **Film-wide working derivation, not an author-approved final screenplay or finished video**.
