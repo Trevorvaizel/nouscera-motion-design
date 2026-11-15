@@ -14,9 +14,9 @@ A question is closed only when an artifact, decision, or test resolves it; mark 
 | OQ-008 | How will production takes and large media be stored without bloating Git history? | Asset workflow | Choose Git LFS or external storage and path manifest | Before large renders |
 | OQ-009 | **Resolved:** interaction of valid-advice placement and real human pressures, with placement as the central revelation (D-014) | No longer blocking | Explicit author approval | Carry into A02 selection | 
 
-| OQ-010 | Does a foreground **human hand and notebook relation** successfully tether the same person's unfinished question across the morph? | EX-001 first visual proof | Proposed in A05; not generated or viewer-tested | Test human identity/meaning, revise if it fails | 
+| OQ-010 | Does the human hand/notebook tether remain meaningful across actual room-world conversion? | EX-001 directed video proof | GIF v03 suggests visible continuity, but no viewer test and no true contour conversion | Test in a native portrait controlled morph with unprimed viewers | 
 
-| OQ-011 | Does **desk edge -> conversation table edge** visibly communicate a *possible* customer encounter rather than a completed event? | EX-001 controlled metamorphosis test | Working source/target correspondence specified in A05, not yet approved as film canon | Review anchor designs, compare AI variants and record viewer interpretation |
+| OQ-011 | Can the actual desk contour **become** the conversation table contour rather than persist while a café backdrop appears? | EX-001 revised controlled test | GIF v03 **failed** the local contour-transfer and full-room conversion tests; see A06 v03 | Compose native 9:16 anchors and directed in-between topology, then test |
 
 ## Do not confuse uncertainties
 
