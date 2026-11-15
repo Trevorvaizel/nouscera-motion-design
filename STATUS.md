@@ -3,8 +3,8 @@
 **As of:** 2026-11-15  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.11F, Test pressure and recognition as human events in Design B  
-**Status:** Two B03.11E rough animatics exist. **The author reports B4's contrast between two contexts successfully communicated that identical advice can mean something different; B3's situational pressures and B5/B6's shift toward a smaller question did NOT become felt or legible.** See [B03.11F reception and scene contracts](stories/001-human-at-the-door/B03.11F_AUTHOR_RECEPTION_SCENE_CONTRACTS_v01.md). This is author feedback, not a blind viewer study, and no replacement scenes are approved.
+**Current brick:** B03.11G, Bridge into layered illustrated audiovisual work and design performed-action proof  
+**Status:** Two B03.11E 46s rough animatics exist. After the author explained why B's contrasting contexts were memorable but its pressures/recognition failed, the studio produced a **26s engraved, scored editorial look study** using a newly generated high-detail image, selective camera movement, black holds, temporary voice and original low-volume ambience. [B03.11G receipt and fidelity gates](stories/001-human-at-the-door/B03.11G_LAYERED_LOOK_STUDY_AND_FIDELITY_GATES_v01.md). **Human action/handwriting is still not truly animated; no reception test or completed film.**
 
 ## Film-level editorial clarification | 2026-11-15
 
@@ -43,7 +43,7 @@ Do **not** automatically promote the previous information-and-direction TR-001 t
 
 ## Current rhythm gate
 
-**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Compare **Design A: Competing Counsel** and **Design B: The Weight of Advice** in the [B03.11D proposal](stories/001-human-at-the-door/B03.11D_COMPETING_AUDIOVISUAL_DESIGNS_v01.md), keeping the source qualifications and failures predicted in advance. The author has reviewed and identified a **working contrast** plus **two failed recognitional events**. Retain B4's contrast for follow-up; test **pressure as consequential human choice** and **placement as a change in the act of inquiry**. The provisional [scene contracts](stories/001-human-at-the-door/B03.11F_AUTHOR_RECEPTION_SCENE_CONTRACTS_v01.md) specify alternatives and prospective risks. **No unprimed viewer test.**
+**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Compare **Design A: Competing Counsel** and **Design B: The Weight of Advice** in the [B03.11D proposal](stories/001-human-at-the-door/B03.11D_COMPETING_AUDIOVISUAL_DESIGNS_v01.md), keeping the source qualifications and failures predicted in advance. The [new 26-second layered look study](stories/001-human-at-the-door/B03.11G_LAYERED_LOOK_STUDY_AND_FIDELITY_GATES_v01.md) bridges the previous wireframes to richer engraved scene/sound, but camera reframing is not **actual human action**. **Next:** authored matched action anchors and a controlled performance-motion test for the pressure hesitation and smaller-question rewrite, then composite into Design B retaining the context contrast. **No unprimed viewer test.**
 
 ## EX-002 controlled audiovisual study | 2026-11-15
 
@@ -60,6 +60,10 @@ The studio has now compared two **competing complete advice-to-placement treatme
 ## B03.11F | Author recognition evidence and repairs
 
 The author identified why B is preferred: its contrast of two situations made the **same-advice/different-context** insight memorable. The author also reports that narrated pressures were **not felt in the depicted scene** and that both endings failed to depict discovery of a smaller question. The studio has recorded these as direct author observations, **not** validated effects on unfamiliar audiences. The [two replacement scene contracts](stories/001-human-at-the-door/B03.11F_AUTHOR_RECEPTION_SCENE_CONTRACTS_v01.md) target **consequential human choice** and **recognitional reframing**, while protecting the working context contrast. No replacement assets have been generated.
+
+## B03.11G | Layered film-illustration bridge
+
+The author described a **layering** problem and asked how the original plan connected the wireframe to a full cinematic video. The actual A04/A05 and Stage 02 gates have been reread; the documented plan is **source and recognition -> look/motion bible -> shot contracts -> illustration anchors -> short motion trials -> composite voice/sound/edit -> A06 and viewer test**, not mandatory conventional editable 3D or continuous AI video. A first **26s 540x960** look test was made with a new engraved person/workspace illustration, camera reframing, black holds and temporary audio. It raises illustrated and audiovisual fidelity but **does not show true hand hesitation, a visibly rewritten question or successful AI interframe motion**. See [fidelity receipt](stories/001-human-at-the-door/B03.11G_LAYERED_LOOK_STUDY_AND_FIDELITY_GATES_v01.md).
 
 ## Open boundaries
 
