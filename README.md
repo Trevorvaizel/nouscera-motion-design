@@ -10,13 +10,15 @@ The engraved black-and-white astronaut illustration is a **style benchmark, not 
 
 ## Start here
 
-1. [Current state](STATUS.md): what is known, approved, open, and next.
-2. [Brick-by-brick protocol](harness/BRICK_PROTOCOL.md): how any subsequent studio session progresses without jumping ahead.
-3. [Workflow history](harness/WORKFLOW_HISTORY.md) and [decision ledger](harness/DECISIONS.md): why we made each consequential choice.
-4. [Source and status policy](harness/KNOWLEDGE_POLICY.md): distinguish evidence, hypotheses, approvals and experiments.
-5. [Six-artifact handoff](harness/ARTIFACT_FLOW.md): how the idea becomes a video.
-6. [First film folder](stories/001-human-at-the-door/README.md): one story's live chain.
-7. [Research atlas](research/Volume_00_province_atlas.md): the first systematic cross-disciplinary map.
+1. **[Film 001 Master Experiment Map](stories/001-human-at-the-door/MASTER_EXPERIMENT_MAP_v01.md): single film orientation surface**, including shot order, brick trail, force derivations, status and checklists.
+2. **[Continuity Pack Specification](stories/001-human-at-the-door/CONTINUITY_PACK_SPEC_v01.md): the six AI reference stills to produce next**, with source/force links and pass/fail checks.
+3. [Current state](STATUS.md): what is known, approved, open, and next.
+4. [Brick-by-brick protocol](harness/BRICK_PROTOCOL.md): how any subsequent studio session progresses without jumping ahead.
+5. [Workflow history](harness/WORKFLOW_HISTORY.md) and [decision ledger](harness/DECISIONS.md): why we made each consequential choice.
+6. [Source and status policy](harness/KNOWLEDGE_POLICY.md): distinguish evidence, hypotheses, approvals and experiments.
+7. [Six-artifact handoff](harness/ARTIFACT_FLOW.md): how the idea becomes a video.
+8. [First film folder](stories/001-human-at-the-door/README.md): one story's live chain.
+9. [Research atlas](research/Volume_00_province_atlas.md): the first systematic cross-disciplinary map.
 
 ## Directory map
 
@@ -39,9 +41,9 @@ Research does not automatically become doctrine. A visually impressive result do
 
 ## Where we are
 
-Stages 01 and 02 have substantial *working research drafts*. Stage 03 has reanchored Film 001 to the supplied essay. Source Map v0.1 is drafted; the exact short-film movement and its Thought Receipt are still unselected. There is no approved screenplay, shot list, video generation result, audience test, or finished film yet.
+**As of 2026-11-15:** Film 001 adapts **“The fog,” pp.7-11** from the user-supplied essay. A01 meaning is author-approved (D-014). Rhythm A and mixed black/isolated/concrete-scene grammar are selected direction. The **13-shot film spine is working, not locked**. Rough animatics and a higher-detail 26s look study exist, but **true illustrated human-action motion, final script and audience reception tests remain open**. The author recognized **Design B's same-advice/different-context contrast** and identified pressure and placement scenes as failures. 
 
-See [STATUS.md](STATUS.md) before proceeding.
+**Current brick:** [B03.11K, produce six linked Continuity Pack AI reference stills](stories/001-human-at-the-door/CONTINUITY_PACK_SPEC_v01.md). [Master Experiment Map](stories/001-human-at-the-door/MASTER_EXPERIMENT_MAP_v01.md) tracks the full sequence, derivations, checks, and history. **No physical filming is required from the author.**
 
 ## Publication and source boundary
 
@@ -55,4 +57,4 @@ _Initialized 2026-11-11 as a working repository, not a finished studio canon._
 
 ## Continuing with AI assistance
 
-Read [AGENTS.md](AGENTS.md) as the repo entry contract and take the current brick from [STATUS.md](STATUS.md), not from an outdated chat summary. See [STATUS.md](STATUS.md) for the next source-adaptation brick.
+Read [AGENTS.md](AGENTS.md) as the repo entry contract and take the current brick from [STATUS.md](STATUS.md), not from an outdated chat summary. For the current brick follow the [Master Experiment Map](stories/001-human-at-the-door/MASTER_EXPERIMENT_MAP_v01.md) and [STATUS.md](STATUS.md), not the repository's older source-adaptation notes.
