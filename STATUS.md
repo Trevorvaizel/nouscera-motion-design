@@ -3,8 +3,8 @@
 **As of:** 2026-11-15  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.11C, Audit semantic fitness before EX-003 visual selection  
-**Status:** **Rhythm A selected (D-019), audiovisual correspondence confirmed (D-021)**. The user rejected EX-002's assumption that placing an associated object next to narration guarantees meaning. A **working, force-coded Semantic-Fit Scalpel Matrix** is derived from the Stage 02 109-force ledger; it is **not yet approved as universal studio doctrine or viewer-tested**.
+**Current brick:** B03.11C, Review full original experiment force audit before new images  
+**Status:** **Rhythm A selected (D-019), audiovisual correspondence confirmed (D-021)**. Full 49-second animatic and nested 9-second EX-002 A/B have now been examined through the situated force matrix. [Full original experiment audit](stories/001-human-at-the-door/B03.11C_FULL_EXPERIMENT_FORCE_AUDIT_v01.md) identifies source-sequence, human-context, speech-image, and ending-relation risks. No revised film or unprimed viewer test exists.
 
 ## Film-level editorial clarification | 2026-11-15
 
@@ -43,7 +43,7 @@ Do **not** automatically promote the previous information-and-direction TR-001 t
 
 ## Current rhythm gate
 
-**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Use [Semantic-Fit Scalpel Matrix v0.1](methodology/SEMANTIC_FIT_SCALPEL_MATRIX_v01.md) to select a **held prototype versus enacted construction vignette** for the “Build the smallest version” event, with specific wrong-inference guards; then examine validation and customer-contact events. No visuals are approved by the matrix alone.
+**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Review the [complete original-experiment force audit](stories/001-human-at-the-door/B03.11C_FULL_EXPERIMENT_FORCE_AUDIT_v01.md). Resolve the source-level problem that competing instructions were shortened into three potentially sequential commands, retain the human stakes, then derive two contrasting full advice-to-placement audiovisual approaches **before generating** new scenes. No visuals are approved by this audit.
 
 ## EX-002 controlled audiovisual study | 2026-11-15
 
