@@ -26,7 +26,7 @@ A motion model cannot reliably preserve the same subject across S08, S09 and S11
 | ID | Candidate asset | Downstream uses | State |
 |---|---|---|---|
 | **CP-01** | Recurring human at desk, character/key visual | S01, S09, S10, S11 | **c01 rejected; c02 working candidate, author review outstanding** |
-| **CP-02** | Base room / workspace, wider establishing illustration | S01, S06, S07, S10 and local room-world experiments | **Queued** |
+| **CP-02** | Base room / workspace, wider establishing illustration | S01, S06, S07, S10 and local room-world experiments | **c01/c02 generated but rejected: landscape, actor/notebook drift** |
 | **CP-03** | Context A, *lower-cost* hypothetical attempt | S08 first condition, S09 comparison reference | **Queued** |
 | **CP-04** | Context B, *higher-consequence* hypothetical attempt | S08 second condition, S09 pressure reference | **Queued** |
 | **CP-05** | Pressure / threshold close-up, reach-to-hesitate staging | S09 action anchor family | **Queued** |
@@ -222,7 +222,8 @@ One manifest row per **generated variant**, not merely per asset label. Fill val
 |---|---|---|---|---|---|---|---|
 | CP-01 | c01 | ImageGen; generated scene with literal question mark | Version/seed unknown | 1536x1024 | SHA `f3aff34b0aa0...` in [receipt](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md) | Landscape, over-literal question | Rejected |
 | CP-01 | c02 | ImageGen; focused vertical scene, human at notebook | Version/seed unknown | 941x1672 | SHA `e7f56fc3d71c...` in [receipt](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md) | Clearer human/notebook/black hierarchy; small illegible notes | Working; author review pending |
-| CP-02 | candidate01 | Depends CP-01 selected reference | Unknown | Unknown | Not generated | Pending | Queued |
+| CP-02 | c01 | ImageGen, attempted matching CP-01 | Version/seed unknown | 1536x1024 | [Drift receipt](B03.11K_CP02_REFERENCE_DRIFT_RECEIPT.md) | Landscape, changed pose, giant question mark | Rejected |
+| CP-02 | c02 | ImageGen, second match attempt | Version/seed unknown | 1672x941 | [Drift receipt](B03.11K_CP02_REFERENCE_DRIFT_RECEIPT.md) | Landscape, altered room/figure, symbolic diagram | Rejected |
 | CP-03 | candidate01 | Depends CP-01/02 | Unknown | Unknown | Not generated | Pending | Queued |
 | CP-04 | candidate01 | Matched to CP-03 | Unknown | Unknown | Not generated | Pending | Queued |
 | CP-05 | candidate01 | Depends CP-04 and P1 contract | Unknown | Unknown | Not generated | Pending | Queued |
@@ -263,3 +264,8 @@ After asset creation, move manifest into a machine-readable table or JSON where 
 ## First generation update | 2026-11-15 | B03.11K
 
 **Actual status:** CP-01 c01 was generated and rejected (landscape, symbolic question mark, clutter). CP-01 c02 was generated in approximately 9:16, with clearer human/pen/notebook and black void. It remains an **unapproved working character reference**. [Technical/semantic receipt with exact pixel sizes, SHA and generation IDs](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md). **No CP-02..CP-06 outputs yet.** Next operation is CP-02 based on the c02 reference, checking for identity and notebook persistence rather than treating two similar prompts as continuity proof.
+
+
+## CP-02 reference fidelity check | 2026-11-15
+
+Two genuine images were generated for CP-02, but **both failed** the central same-person/same-notebook/camera obligation and portrait ratio. See [CP-02 generation and drift evidence](B03.11K_CP02_REFERENCE_DRIFT_RECEIPT.md). This was not a successful style-consistent extension. Stop independent prompt rerolls; use verified input-image edit/outpaint or a controlled composite environment, preserving CP-01 c02's subject geometry before moving to CP-03/04.
