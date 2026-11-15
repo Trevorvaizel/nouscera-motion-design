@@ -3,8 +3,8 @@
 **As of:** 2026-11-15  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.11A, Re-map the actual narration to meaningful visual signs before Animatic 02  
-**Status:** **Rhythm A selected (D-019), meaning-led image selection confirmed (D-021)**. First 49.25-second rough cut exists; [12-event speech-to-sign audit](stories/001-human-at-the-door/A03_SPEECH_TO_SIGN_AUDIT_v01.md) is drafted from its actual narration and the essay. Revision options remain unapproved and untested.
+**Current brick:** B03.11B, Review EX-002 speech-to-sign microanimatic A/B  
+**Status:** **Rhythm A selected (D-019), audiovisual correspondence confirmed (D-021)**. The [EX-002 controlled 9-second A/B microanimatic](stories/001-human-at-the-door/EX002_SPEECH_TO_SIGN_MICROANIMATIC_RECEIPT.md) now exists using identical original temporary narration: text-only vs individually engraved objects. Videos are author-review candidates, **not viewer-tested or approved film shots**.
 
 ## Film-level editorial clarification | 2026-11-15
 
@@ -43,7 +43,11 @@ Do **not** automatically promote the previous information-and-direction TR-001 t
 
 ## Current rhythm gate
 
-**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Review the 12 speech events and produce a constrained **Animatic v0.2 micro-test** of detailed isolated objects and conditional placement, before remaking the complete rough cut.
+**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Review EX-002 A/B at the *sign-vehicle* level; test whether checklist, empty chair and miniature model help or distort understanding. Then redesign the later **placement** relation (S10–S12) before the full Rhythm A v0.2 recut.
+
+## EX-002 controlled audiovisual study | 2026-11-15
+
+Two actual **9-second 540×960** test videos were rendered with identical B2.wav synthetic narration and matching timing: a typography-only **control** and an **illustrated-sign** treatment. A side-by-side comparison and contact sheet exist in the conversation runtime. Source image panels were recomposed as isolated objects; no public media upload or unprimed viewing has occurred. The [receipt](stories/001-human-at-the-door/EX002_SPEECH_TO_SIGN_MICROANIMATIC_RECEIPT.md) records SHA hashes, sign choices, specific interpretation risks and the review gate. **Next:** author/editorial review, not promotion to film canon.
 
 ## Open boundaries
 
