@@ -214,3 +214,12 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Protected precedent:** Retain the author-recognized Design B contrast, fix enacted human pressure and a real change of inquiry, preserve advice validity and an unresolved future. The transforming room is a selectively used technique, not a requirement that every shot morph or remain inside one continuous space.
 **Next actual production brick:** Generate shared visual continuity references, followed by matched S08/S09/S11 anchor studies and meaningful animated-action tests. Do not label a still-camera move as actor motion, nor claim a dedicated model has been run without evidence.
 **Status:** **Film-wide working derivation, not an author-approved final screenplay or finished video**.
+
+
+### D-029 | 2026-11-15 | Establish visible Film 001 experiment control and provenance before six image masters
+
+**Author authorization:** “Proceed i agree with the recommendations” in response to creating **A: Master Experiment Map v0.1** and **B: Continuity Pack v0.1 specification**, after explicitly requesting an orienting artifact with where-we-are status, general production sequence, checklists, brick trail and the source/force derivation of each proposed shot.
+**Outputs actually created:** [Film 001 Master Experiment Map](../stories/001-human-at-the-door/MASTER_EXPERIMENT_MAP_v01.md), [Continuity Pack specification](../stories/001-human-at-the-door/CONTINUITY_PACK_SPEC_v01.md), and [B03.11J brick receipt](receipts/B03.11J-MASTER-MAP-AND-CONTINUITY-SPEC.md).
+**Governance direction approved:** The studio must expose a visible source -> force/question -> shot/asset -> generation -> evidence -> revision trail; keep playback order and production order separate; maintain one current/next step with updates after each brick. The studio owns routine AI-first production.
+**Not implied:** Author approval of each of 13 proposed shots, exact 73s film runtime, particular actor identity or biography, six nonexistent continuity images, final screenplay, provider motion results or research force validation.
+**Next brick:** **B03.11K**, generate CP-01 to CP-06 as a coherent reference family using AI images, with asset manifest, side-by-side review and a new A06 continuity receipt. No physical filming or arbitrary user shot-selection required.
