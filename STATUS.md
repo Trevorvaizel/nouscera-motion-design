@@ -3,8 +3,8 @@
 **As of:** 2026-11-15  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.11D, Review two competing source-faithful audiovisual designs and prospective test predictions  
-**Status:** **Rhythm A selected (D-019), audiovisual correspondence confirmed (D-021)**. Two whole-passage source-faithful [audiovisual designs](stories/001-human-at-the-door/B03.11D_COMPETING_AUDIOVISUAL_DESIGNS_v01.md) are drafted after the complete force audit. [Scalpel Learning Loop](methodology/SCALPEL_LEARNING_LOOP_v01.md) records falsifiable pre-generation predictions and an explicit method for revising the force questions. **No new animatic, viewer observation or approval of either design exists.**
+**Current brick:** B03.11E, Review two generated whole-passage rough animatics and collect reception evidence  
+**Status:** **Two actual low-fidelity whole-treatment animatics generated on 2026-11-15**, 46.1s (A: Competing Counsel) and 46.3s (B: The Weight of Advice), both portrait 540x960 with provisional synthetic narration and simple procedural linework. [Production receipt](stories/001-human-at-the-door/B03.11E_TWO_ROUGH_TREATMENTS_PRODUCTION_RECEIPT.md). **No viewer observations or author approval of either treatment.**
 
 ## Film-level editorial clarification | 2026-11-15
 
@@ -43,7 +43,7 @@ Do **not** automatically promote the previous information-and-direction TR-001 t
 
 ## Current rhythm gate
 
-**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Compare **Design A: Competing Counsel** and **Design B: The Weight of Advice** in the [B03.11D proposal](stories/001-human-at-the-door/B03.11D_COMPETING_AUDIOVISUAL_DESIGNS_v01.md), keeping the source qualifications and failures predicted in advance. Then select a limited test design, freeze the provisional spoken-and-seen candidate, and produce a low-fidelity rough animatic. Predictions are recorded in [Scalpel Learning Loop v0.1](methodology/SCALPEL_LEARNING_LOOP_v01.md).
+**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Compare **Design A: Competing Counsel** and **Design B: The Weight of Advice** in the [B03.11D proposal](stories/001-human-at-the-door/B03.11D_COMPETING_AUDIOVISUAL_DESIGNS_v01.md), keeping the source qualifications and failures predicted in advance. Both low-fidelity studies now exist. Review each separately, compare actual interpretation with previously [registered force predictions](methodology/SCALPEL_LEARNING_LOOP_v01.md), and revise the smallest semantically consequential failure. No actual unprimed-viewer test has occurred.
 
 ## EX-002 controlled audiovisual study | 2026-11-15
 
@@ -55,7 +55,7 @@ The author observed that a miniature building does not meaningfully explain *“
 
 ## B03.11D | Prospective diagnostic learning loop
 
-The studio has now compared two **competing complete advice-to-placement treatments** before generating new imagery. Design A foregrounds plural plausible counsel; Design B foregrounds how pressure changes applicability. Both remain author-unselected and untested. A prospective [scalpel learning protocol](methodology/SCALPEL_LEARNING_LOOP_v01.md) registers what each force predicts, what would disconfirm it, and how to record misses, false vetoes, corrections and later transfer tests, without claiming validated accuracy from one case.
+The studio has now compared two **competing complete advice-to-placement treatments** before generating new imagery. Design A foregrounds plural plausible counsel; Design B foregrounds how pressure changes applicability. Both now exist as **rough timed audiovisual artifacts**, but remain author-unselected and **reception-untested**. A prospective [scalpel learning protocol](methodology/SCALPEL_LEARNING_LOOP_v01.md) registers what each force predicts, what would disconfirm it, and how to record misses, false vetoes, corrections and later transfer tests, without claiming validated accuracy from one case. Actual 2026-11-15 [B03.11E production receipt](stories/001-human-at-the-door/B03.11E_TWO_ROUGH_TREATMENTS_PRODUCTION_RECEIPT.md) records file hashes, spoken timings, production method, and outstanding meaning risks.
 
 ## Open boundaries
 
