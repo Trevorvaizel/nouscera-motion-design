@@ -65,3 +65,8 @@ After explicitly confirming D-020's clarification, the author authorized develop
 ## EX-002 | Speech-to-sign comparison now rendered
 
 An actual **9-second controlled microanimatic pair** now exists in the conversation: identical original temporary voice, one version with typography-only advice labels and one version with three richly engraved, isolated objects on black, plus a side-by-side video. See [EX-002 production and evidence receipt](EX002_SPEECH_TO_SIGN_MICROANIMATIC_RECEIPT.md). The illustrated checklist/empty chair/cardboard model are **unapproved sign candidates** and risk narrowing the spoken instructions. This comparison is not a viewer study, a whole-film recut or an AI room-to-world motion test. Next: interpretive review and a corrected placement sequence.
+
+
+## EX-002 semantic failure and previsualization diagnosis
+
+The author identified that a small building beside the narration “Build the smallest version” is not explanatory correlation; it invents product specificity and depicts a thing rather than showing the act of making a small testable version. To catch such failures **before generation**, the studio derived [Semantic-Fit Scalpel Matrix v0.1](../../methodology/SEMANTIC_FIT_SCALPEL_MATRIX_v01.md) from the Stage 02 109-force ledger. It prompts claim protection, interpretant, source-target transfer, speech-image correspondence, animated-vs-static value, attention, transition implication, timing and selection. **Working tool, not validated or permanently approved.** The next test compares a context-neutral held prototype with an enacted small-build vignette before advancing to EX-003 or Animatic v0.2.
