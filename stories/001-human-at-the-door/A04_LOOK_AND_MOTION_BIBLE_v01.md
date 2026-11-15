@@ -261,3 +261,12 @@ This public repository contains this working interpretation and operational plan
 ## A05 continuation note | D-017
 
 The author responded **"Proceed"** after A04's six motion operations and one-morph proof proposal. The studio therefore advanced to a **working A05 micro-test**, not a claim that A04's visual physics are independently proven. [EX-001 contract](A05_EX001_SHOT_TRANSITION_CONTRACT_v01.md) specifies a desk-to-possible-conversation transformation and a foreground hand/notebook human tether. These are **test choices** awaiting illustrated anchors and results, not final Film 001 scenes.
+
+
+## Whole-film rhythm correction | D-018 (2026-11-15)
+
+**Do not interpret the six motion operations as a requirement for continuous AI animation.** The user specifically intends intervals of total black, construction of a single white element, minimal graphic relationships, richly illustrated worlds only where earned, and return toward blackness. **Black is an authored visual state, not merely an opening or ending background.** Quiet, holds, simple typography/shapes or near-stillness may be more powerful than a morph at a given moment.
+
+The room-to-world method and EX-001 remain a **local capability test**. They do not prescribe the final film's overall ratio of empty screen to graphic to fully formed environment, which belongs to editorial decisions at the A03/A04 boundary. AI-first production does **not** require the whole film to be generated as continuous video; selective image generation and short animation can be assembled with designed graphics, holds, narration, sound and edit decisions.
+
+See [Editorial Rhythm Note v0.1](EDITORIAL_RHYTHM_NOTE_v01.md) for five working visual modes and a nonbinding example. The taxonomy is a studio proposal; the author's confirmed clarification is the deliberate alternation of density, simplicity and immersive moments.
