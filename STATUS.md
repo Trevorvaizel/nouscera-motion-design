@@ -3,8 +3,8 @@
 **As of:** 2026-11-15  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.11C, Review full original experiment force audit before new images  
-**Status:** **Rhythm A selected (D-019), audiovisual correspondence confirmed (D-021)**. Full 49-second animatic and nested 9-second EX-002 A/B have now been examined through the situated force matrix. [Full original experiment audit](stories/001-human-at-the-door/B03.11C_FULL_EXPERIMENT_FORCE_AUDIT_v01.md) identifies source-sequence, human-context, speech-image, and ending-relation risks. No revised film or unprimed viewer test exists.
+**Current brick:** B03.11D, Review two competing source-faithful audiovisual designs and prospective test predictions  
+**Status:** **Rhythm A selected (D-019), audiovisual correspondence confirmed (D-021)**. Two whole-passage source-faithful [audiovisual designs](stories/001-human-at-the-door/B03.11D_COMPETING_AUDIOVISUAL_DESIGNS_v01.md) are drafted after the complete force audit. [Scalpel Learning Loop](methodology/SCALPEL_LEARNING_LOOP_v01.md) records falsifiable pre-generation predictions and an explicit method for revising the force questions. **No new animatic, viewer observation or approval of either design exists.**
 
 ## Film-level editorial clarification | 2026-11-15
 
@@ -43,7 +43,7 @@ Do **not** automatically promote the previous information-and-direction TR-001 t
 
 ## Current rhythm gate
 
-**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Review the [complete original-experiment force audit](stories/001-human-at-the-door/B03.11C_FULL_EXPERIMENT_FORCE_AUDIT_v01.md). Resolve the source-level problem that competing instructions were shortened into three potentially sequential commands, retain the human stakes, then derive two contrasting full advice-to-placement audiovisual approaches **before generating** new scenes. No visuals are approved by this audit.
+**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Compare **Design A: Competing Counsel** and **Design B: The Weight of Advice** in the [B03.11D proposal](stories/001-human-at-the-door/B03.11D_COMPETING_AUDIOVISUAL_DESIGNS_v01.md), keeping the source qualifications and failures predicted in advance. Then select a limited test design, freeze the provisional spoken-and-seen candidate, and produce a low-fidelity rough animatic. Predictions are recorded in [Scalpel Learning Loop v0.1](methodology/SCALPEL_LEARNING_LOOP_v01.md).
 
 ## EX-002 controlled audiovisual study | 2026-11-15
 
@@ -52,6 +52,10 @@ Two actual **9-second 540×960** test videos were rendered with identical B2.wav
 ## EX-002 semantic failure and methodological response
 
 The author observed that a miniature building does not meaningfully explain *“Build the smallest version”*: **proximity is not explanatory correspondence**. An enacted, dimensional build may better express constructing and trying a small version, depending on the targeted viewer inference. We have reopened the [109 candidate-force ledger](research/stage-02/force_adjudication_ledger_109.md) and derived a [situated scalpel matrix](methodology/SEMANTIC_FIT_SCALPEL_MATRIX_v01.md) using P01, P02, P03, P04, P07, P08, P09, P10 and P13. The matrix is a provisional diagnostic method; none of its labels automatically determines whether an image, action or scene must be used.
+
+## B03.11D | Prospective diagnostic learning loop
+
+The studio has now compared two **competing complete advice-to-placement treatments** before generating new imagery. Design A foregrounds plural plausible counsel; Design B foregrounds how pressure changes applicability. Both remain author-unselected and untested. A prospective [scalpel learning protocol](methodology/SCALPEL_LEARNING_LOOP_v01.md) registers what each force predicts, what would disconfirm it, and how to record misses, false vetoes, corrections and later transfer tests, without claiming validated accuracy from one case.
 
 ## Open boundaries
 
