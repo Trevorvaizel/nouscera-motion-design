@@ -124,3 +124,12 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Implementation:** A **49.25-second, 540×960, 16fps** portrait rough animatic created with a provisional synthetic voice, actual black holds, white graphic construction and a single EX-001 Look Study 02 immersive placeholder. A silent version and six-beat contact sheet are available in the conversation. See `RHYTHM_A_ANIMATIC_01_RECEIPT.md` for technical metadata, content, hashes and limitations.
 **Not approved:** Spoken script, beat durations, illustrated human identity, transition mechanics, final visual quality or audience comprehension. The EX-001 source-to-target AI morph failure remains open.
 **Next:** Author reviews narrated and silent edit; correct human stakes, blank holds and placement graphic before a refined animatic or final-quality media.
+
+
+### D-020 | 2026-11-15 | Correct abstraction-versus-scene binary in cinematic meaning design
+
+**Author's clarification:** The maker may present a single richly illustrated object in darkness, construct visual relationships as narration calls for them, reconstruct distinct scenes, and move among those scenes without requiring a single shared ensemble or continuous cinematic universe. The important connection is between what the human hears and the meaning made perceptible through the visuals.
+**Confirmed intent:** Visual specificity, scene completeness, temporal appearance and meaning are separate variables. “Abstract graphic” vs “immersive scene” is **not** a hard choice.
+**Studio interpretation for testing:** Select visual signs through **speech event -> intended inference -> suitable visible referent/relationship -> timing -> likely viewer interpretation**. This method is a proposal, not an approved universal taxonomy.
+**Consequences:** Rhythm A (D-019) still holds as a preference for black/sparse/rich contrast, but its modes are not exclusive categories. The room-becomes-worlds treatment (D-015) governs one local technique, not an all-film spatial continuity mandate. Revisit the rough animatic at speech-event resolution before changing its visuals.
+**Reference:** `stories/001-human-at-the-door/AUDIOVISUAL_SEMANTIC_CORRESPONDENCE_v01.md`.
