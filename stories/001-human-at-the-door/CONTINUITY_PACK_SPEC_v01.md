@@ -25,7 +25,7 @@ A motion model cannot reliably preserve the same subject across S08, S09 and S11
 
 | ID | Candidate asset | Downstream uses | State |
 |---|---|---|---|
-| **CP-01** | Recurring human at desk, character/key visual | S01, S09, S10, S11 | **Queued** |
+| **CP-01** | Recurring human at desk, character/key visual | S01, S09, S10, S11 | **c01 rejected; c02 working candidate, author review outstanding** |
 | **CP-02** | Base room / workspace, wider establishing illustration | S01, S06, S07, S10 and local room-world experiments | **Queued** |
 | **CP-03** | Context A, *lower-cost* hypothetical attempt | S08 first condition, S09 comparison reference | **Queued** |
 | **CP-04** | Context B, *higher-consequence* hypothetical attempt | S08 second condition, S09 pressure reference | **Queued** |
@@ -220,7 +220,8 @@ One manifest row per **generated variant**, not merely per asset label. Fill val
 
 | Asset ID | Version | Prompt and source-ref ID(s) | Model and settings | Actual dimensions | File location / hash | Studio inspection | Decision |
 |---|---|---|---|---|---|---|---|
-| CP-01 | candidate01 | TBC after generation | Unknown | Unknown | Not generated | Pending | Queued |
+| CP-01 | c01 | ImageGen; generated scene with literal question mark | Version/seed unknown | 1536x1024 | SHA `f3aff34b0aa0...` in [receipt](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md) | Landscape, over-literal question | Rejected |
+| CP-01 | c02 | ImageGen; focused vertical scene, human at notebook | Version/seed unknown | 941x1672 | SHA `e7f56fc3d71c...` in [receipt](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md) | Clearer human/notebook/black hierarchy; small illegible notes | Working; author review pending |
 | CP-02 | candidate01 | Depends CP-01 selected reference | Unknown | Unknown | Not generated | Pending | Queued |
 | CP-03 | candidate01 | Depends CP-01/02 | Unknown | Unknown | Not generated | Pending | Queued |
 | CP-04 | candidate01 | Matched to CP-03 | Unknown | Unknown | Not generated | Pending | Queued |
@@ -257,3 +258,8 @@ After asset creation, move manifest into a machine-readable table or JSON where 
 **User task:** None required for physical filming, provider setup or arbitrary shot selection. The author can critique the **coherent six-image visual family** once there is something real to inspect.
 
 **Current evidence:** Specification created; assets queued, not generated.
+
+
+## First generation update | 2026-11-15 | B03.11K
+
+**Actual status:** CP-01 c01 was generated and rejected (landscape, symbolic question mark, clutter). CP-01 c02 was generated in approximately 9:16, with clearer human/pen/notebook and black void. It remains an **unapproved working character reference**. [Technical/semantic receipt with exact pixel sizes, SHA and generation IDs](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md). **No CP-02..CP-06 outputs yet.** Next operation is CP-02 based on the c02 reference, checking for identity and notebook persistence rather than treating two similar prompts as continuity proof.
