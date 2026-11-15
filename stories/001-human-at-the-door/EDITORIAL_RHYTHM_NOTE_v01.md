@@ -62,3 +62,8 @@ This is merely one possible distribution, not an approved script. Specific durat
 Before assembling Film 001, compare **two short rhythm sketches**, one dominated by immersive passages and one using more negative space / isolated construction, using the same protected source recognition. Select pacing only after considering intelligibility, narrative effect and production feasibility.
 
 **Approval boundary:** The user's *mixed-mode intention* is confirmed by their correction. The five-mode taxonomy and provisional six-beat distribution are **studio proposals**, not silently approved creative choices.
+
+
+## Comparative continuation | B03.10
+
+[Two editorial rhythm sketches](A03_A04_EDITORIAL_RHYTHM_COMPARISON_v01.md) have now been developed under the five visual modes and A03's six recognition beats. The studio recommends A (sparse-led) as the first low-cost rough-animatic test, with B (immersion-led) as the contrast case. This recommendation is **not author approval** and neither option has been shown in a timed, voiced or viewer-tested assembly.
