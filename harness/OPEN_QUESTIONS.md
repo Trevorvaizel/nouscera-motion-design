@@ -34,6 +34,8 @@ A question is closed only when an artifact, decision, or test resolves it; mark 
 
 | OQ-019 | Does a high-detail **performed** pressure/reframing scene communicate what the wireframes and reframed illustration could only narrate? | First genuine illustrated action shot | B03.11G 26s layer look study raises scenic/audio fidelity but uses only camera motion and composited question, not acted hand movement | Create matched high-detail action anchors and a controlled interframe test; inspect action/perceived stakes before the full film |
 
+| OQ-020 | Can a short **recorded physical gesture** be transferred into stable engraved AI animation and still communicate a costly human choice? | First genuine high-fidelity action scene | [B03.11H capture card](../stories/001-human-at-the-door/B03.11H_PERFORMED_ACTION_CAPTURE_CARD_v01.md) specifies action, motion controls and acceptance checks; no footage/model output yet | Get permitted short recorded take or matched anchors, test performance-driven video, inspect actual frame sequence and meaning |
+
 ## Do not confuse uncertainties
 
 An unresolved artistic choice is not the same as missing empirical evidence. A production risk is not the same as ambiguity in the author's claim. Keep each in the correct register.
