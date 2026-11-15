@@ -21,7 +21,7 @@ ownership: "Studio derives and executes; author reviews consequential meaning an
 
 **One-sentence protected meaning:** Potentially true advice may not yet belong to this person's present decision; its usefulness depends on the human situation and an answerable question or contact. The turn is **placement, not certainty**. [Approved A01 TR-002](THOUGHT_RECEIPT_TR-002_THE_FOG.md), D-014.
 
-**Current actual visual output:** **CP-01 c01 rejected** (landscape, literal question mark), **CP-01 c02 portrait retained as a working candidate**, not author-approved. [CP-01 first render receipt](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md). CP-02 to CP-06 do **not** exist yet. No finished film, finalized voice script, approved continuity masters, native AI-action clip, approved 13-shot sequence or unprimed audience validation.
+**Current actual visual output:** **CP-01 c01 rejected** (landscape, literal question mark), **CP-01 c02 portrait retained as a working candidate**, not author-approved. [CP-01 first render receipt](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md). Two attempted CP-02 **candidate images were generated and rejected** because they drifted in framing, actor pose and notebook symbolism. [CP-02 failure receipt](B03.11K_CP02_REFERENCE_DRIFT_RECEIPT.md). No usable CP-02..06 reference exists yet. No finished film, finalized voice script, approved continuity masters, native AI-action clip, approved 13-shot sequence or unprimed audience validation.
 
 ### Status key
 
@@ -128,7 +128,7 @@ The brick ID tracks the **research/production history**, not the order of film s
 | **B03.11H** | Proposed physical recording as motion source | [Historical capture card](B03.11H_PERFORMED_ACTION_CAPTURE_CARD_v01.md) | **Superseded as next user duty** by explicit AI-only correction; retain as history, do not assign filming |
 | **B03.11I / D-028** | Author asked where every shot fits and who owns execution | [13-shot spine](SHOT_SPINE_13_SHOTS_v01.md) | Separate playback order from production dependency order |
 | **B03.11J / D-029, NOW** | Author wants an inspectable control system and provenance | **This map** + [Continuity Pack spec](CONTINUITY_PACK_SPEC_v01.md) | Orientation and decision trace ready; no new stills in this brick |
-| **B03.11K, ACTIVE** | Need one coherent art/character/room identity for S08/S09/S11 | [CP-01 c01 rejected, c02 working portrait](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md); CP-02..06 queued | Reference consistency and eventual six-image A06 inspection |
+| **B03.11K, ACTIVE** | Need one coherent art/character/room identity for S08/S09/S11 | [CP-01 c02 working](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md); [CP-02 two rejects](B03.11K_CP02_REFERENCE_DRIFT_RECEIPT.md); remaining assets pending | Reference-preserving CP-02 repair and six-image A06 inspection |
 
 ## 5 | Production sequence and dependencies
 
@@ -137,7 +137,7 @@ The brick ID tracks the **research/production history**, not the order of film s
 | Gate | Work package | Deliverable | Exit rule | State |
 |---|---|---|---|---|
 | **J. Orientation** | Master map, traceable decision status and spec | This file + [continuity spec](CONTINUITY_PACK_SPEC_v01.md) | All 13 slots, source, forces, next step visible | **Current** |
-| **K. Visual continuity** | **CP-01..CP-06** master engraved stills | Six candidate references, contact sheet, prompt/version/asset manifest | Human/notebook/room recur, two contexts remain distinguishable and source-safe | **Active: CP-01 c02 working candidate; CP-02..06 queued** |
+| **K. Visual continuity** | **CP-01..CP-06** master engraved stills | Six candidate references, contact sheet, prompt/version/asset manifest | Human/notebook/room recur, two contexts remain distinguishable and source-safe | **Active: CP-01 c02 working; CP-02 c01/c02 rejected for drift; CP-03..06 queued** |
 | **L. Priority action anchors** | **S08/S09/S11** matched pose/context states | Stable A/B/optional midpoint image anchors + shot contracts | Same person/camera/props across actions; meaning preserved in stills | Queued |
 | **M. Real motion** | Guided AI image-to-video trials for S09 hesitation and S11 revised inquiry, S08 contrast as needed | Selected **short native moving takes**, rejected examples and failure notes | Real on-screen action, no identity/material drift, credible semantics | Queued; dedicated provider capability must be verified |
 | **N. First integrated proof** | Assemble **S08-S13** with narration, black, sound, selected motion | Viewable substantially illustrated passage | Pressure felt, inquiry visibly changes, future remains open | Queued |
@@ -157,7 +157,7 @@ The brick ID tracks the **research/production history**, not the order of film s
 
 **Continuity, B03.11K**
 - [x] Generate CP-01 human at desk (**c01 rejected; c02 working candidate, not author-approved**).
-- [ ] Generate CP-02 base room/workspace in matching perspective.
+- [ ] **Produce an accepted CP-02** in matched perspective; two attempts generated and **rejected** for [reference drift](B03.11K_CP02_REFERENCE_DRIFT_RECEIPT.md).
 - [ ] Generate CP-03 context A: lower-cost hypothetical trial.
 - [ ] Generate CP-04 context B: higher-consequence hypothetical trial.
 - [ ] Generate CP-05 pressure choice close shot.
@@ -265,4 +265,4 @@ When any signal appears, return to **Section 0**, read the most recent decision/
 
 **B03.11J artifacts:** The Master Map and [CP spec](CONTINUITY_PACK_SPEC_v01.md) were created as documentation; that brick generated **no** images. **Subsequently B03.11K generated the first real visual candidates:** [CP-01 c01 rejection and c02 working portrait](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md).
 
-**Next operation inside the active [B03.11K](https://github.com/Trevorvaizel/nouscera-motion-design/issues/11):** Use CP-01 c02 as a *provisional* reference to develop CP-02, then create CP-03 to CP-06 (six actual images), document their AI generation parameters, inspect them together against shared invariants and source/force vetoes, then produce a contact sheet and simple A06 continuity receipt. The studio owns this action. **The author is not assigned another decision form or a physical filming task.**
+**Next operation inside active [B03.11K](https://github.com/Trevorvaizel/nouscera-motion-design/issues/11):** Repair CP-02 using a **reference-preserving edit/outpaint or composited supporting world** that actually keeps CP-01 c02 subject/notebook geometry. Two naïve generation attempts failed; do not reroll generic prompts. Then CP-03..06. (six actual images), document their AI generation parameters, inspect them together against shared invariants and source/force vetoes, then produce a contact sheet and simple A06 continuity receipt. The studio owns this action. **The author is not assigned another decision form or a physical filming task.**
