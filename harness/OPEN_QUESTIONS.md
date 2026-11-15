@@ -24,6 +24,8 @@ A question is closed only when an artifact, decision, or test resolves it; mark 
 
 | OQ-014 | Which **concrete sign vehicles and timings** help viewers connect speech to meaning without forcing continuity or distorting the instructions? | Rhythm A v0.2 | **EX-002** 9-second A/B now generated, identical narration; no interpretation results yet. See Film 001 EX002 receipt | Review both versions, challenge checklist/chair/cardboard-model inferences; test placement sequence next |
 
+| OQ-015 | Can a **force-coded, situated semantic-fit diagnostic** predict the wrong associations and appropriate representational demands **before** visual generation? | EX-003 and studio methodological promotion | [Semantic-Fit Scalpel Matrix v0.1](../methodology/SEMANTIC_FIT_SCALPEL_MATRIX_v01.md) derives nine questioning gates from Stage 02 candidate forces; no prospective test yet | Before generating “Build the smallest version” alternatives, record predictions and vetoes; compare them against unprimed interpretation |
+
 ## Do not confuse uncertainties
 
 An unresolved artistic choice is not the same as missing empirical evidence. A production risk is not the same as ambiguity in the author's claim. Keep each in the correct register.
