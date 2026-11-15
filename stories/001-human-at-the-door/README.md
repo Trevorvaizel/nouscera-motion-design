@@ -112,3 +112,8 @@ The author corrected the focus on isolated P1/R1 shot choice. The studio reopene
 ## B03.11J | Current control artifacts
 
 After the author's explicit agreement to an orienting artifact and a continuity specification, the studio created the **[Master Experiment Map](MASTER_EXPERIMENT_MAP_v01.md)** and **[Continuity Pack v0.1 Specification](CONTINUITY_PACK_SPEC_v01.md)**. [Brick receipt](../../harness/receipts/B03.11J-MASTER-MAP-AND-CONTINUITY-SPEC.md) documents source reinspection, derived forces, approval boundaries and handoff. **B03.11K is now active: actually generate CP-01..CP-06, inspect and log them.** No six-image pack yet exists. Do not assign physical performance capture to the author.
+
+
+## B03.11K | Actual first generated reference
+
+[CP-01 c01 rejected and c02 portrait working candidate](B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md): two images generated in ChatGPT, technical details and preliminary semantic inspection recorded. **No CP-02..CP-06 imagery or performed motion exists yet.** Continue from the working portrait for the next derived workspace reference, pending author creative review.
