@@ -95,3 +95,8 @@ The author prefers Design B because **contrasting two situations** made the same
 ## B03.11G | From bare animatic to layered illustration
 
 The author flagged that wireframes omit expressive context and asked to recover the full AI-first production plan. The studio read A04/A05 and Stage 02 gates and created a first **26-second integrated engraved look study** with newly generated high-detail hypothetical workspace art, moving camera, black intervals, provisional narrated sound and subdued original ambience. [B03.11G production/fidelity receipt](B03.11G_LAYERED_LOOK_STUDY_AND_FIDELITY_GATES_v01.md) documents what it proves and what it does not. **No hand/action performance has been successfully animated**, no second human context is enacted and no new viewer results exist. B03.11F pressure/recognition action contracts remain the next production bottleneck.
+
+
+## B03.11H | First true-performance execution card
+
+The next tangible user task is to record a **5–7-second portrait physical action** as movement reference for an illustration-to-video/ video-to-video animation, rather than attempt another still-camera-pan workaround. [Practical capture and provider brief](B03.11H_PERFORMED_ACTION_CAPTURE_CARD_v01.md) includes the hypothetical human-pressure gesture, motion/style workflow, fallback matched-image test and A06 pass/fail conditions. **No source video or model animation has been received or generated yet.**
