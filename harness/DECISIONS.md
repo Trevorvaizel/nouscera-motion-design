@@ -115,3 +115,12 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Working method:** A03 should consider periods of absence, isolated construction, simple relational graphics, immersive engraved worlds, and selective retraction as alternative solutions to each narrative job. A04 should protect blackness and visual restraint as first-class materials. AI video need not occupy every second.
 **Reference:** `stories/001-human-at-the-door/EDITORIAL_RHYTHM_NOTE_v01.md`.
 **Status:** Author's film-level intention confirmed; five-mode taxonomy and six-beat arrangement remain **studio hypotheses**.
+
+
+### D-019 | 2026-11-15 | Select Rhythm A and create first timed editorial animatic
+
+**Decision:** The author said **"Ryhtm A it is .. lets proceed"** in response to the A/B comparison. **Rhythm A: Breath, Mark, World** is now the selected working whole-film editorial rhythm.
+**Scope:** Rhythm A places intentional black, isolated mark construction and simple relational graphics around a deliberately limited immersive engraved-world event. This is **not** a decision to fill the film with AI video, nor approval of every A03/A04 implementation detail.
+**Implementation:** A **49.25-second, 540×960, 16fps** portrait rough animatic created with a provisional synthetic voice, actual black holds, white graphic construction and a single EX-001 Look Study 02 immersive placeholder. A silent version and six-beat contact sheet are available in the conversation. See `RHYTHM_A_ANIMATIC_01_RECEIPT.md` for technical metadata, content, hashes and limitations.
+**Not approved:** Spoken script, beat durations, illustrated human identity, transition mechanics, final visual quality or audience comprehension. The EX-001 source-to-target AI morph failure remains open.
+**Next:** Author reviews narrated and silent edit; correct human stakes, blank holds and placement graphic before a refined animatic or final-quality media.

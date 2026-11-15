@@ -18,7 +18,9 @@ A question is closed only when an artifact, decision, or test resolves it; mark 
 
 | OQ-011 | Can the actual desk contour **become** the conversation table contour rather than persist while a café backdrop appears? | EX-001 revised controlled test | GIF v03 **failed** the local contour-transfer and full-room conversion tests; see A06 v03 | Compose native 9:16 anchors and directed in-between topology, then test |
 
-| OQ-012 | Should Film 001 primarily use **A: Breath, Mark, World** or **B: The World, Then the Fracture**, or a justified revised rhythm? | Whole-film editorial structure | A03/A04 two-sketch comparison under D-018, not viewer tested | Author reviews two rhythm sketches; then develop comparable rough animatics and record selection after review |
+| OQ-012 | **Resolved as editorial working choice: Rhythm A** (D-019); actual 49.25-second rough animatic generated | No longer blocking | User explicitly selected Rhythm A | Review rough cut; pacing and communication not locked |
+
+| OQ-013 | In the first Rhythm A rough animatic, are **the human stakes**, **black holds**, and **the placement-versus-certainty graphic** intelligible? | Rough-edit revision | First narrated/silent animatic exists, no audience review yet | Author reviews, mark weak beats and revise; then unprimed viewer check |
 
 ## Do not confuse uncertainties
 

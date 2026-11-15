@@ -45,3 +45,8 @@ A working [inter-frame transformation contract](A05_EX001_INTERFRAME_CONTRACT_v0
 ## Whole-film editorial rhythm comparison
 
 After D-018 clarified that the finished explainer should **not** be a nonstop AI-generated movie, we derived [A03/A04 Editorial Rhythm Comparison v0.1](A03_A04_EDITORIAL_RHYTHM_COMPARISON_v01.md). **A: Breath, Mark, World** uses black, sparse construction and one selected immersive event. **B: The World, Then the Fracture** begins with more human/world immersion and uses black as a major interruption. Both preserve the same six recognition beats, the intended modest ending, and the approved local Transforming Room treatment. **Neither rhythm is selected.** EX-001 remains a separate local motion test.
+
+
+## Film 001 | First timed rough animatic
+
+The author selected **Rhythm A: Breath, Mark, World** (D-019). A **49.25-second, portrait, voice/silent rough editorial animatic** was rendered on 2026-11-15 using intentional black, sparse constructed graphics and one short immersive placeholder from EX-001 Look Study 02. See [the production and review receipt](RHYTHM_A_ANIMATIC_01_RECEIPT.md). The actual MP4s are available in the conversation, **not uploaded to the public repository**. No final narration, shot design, morph success or viewer evidence is claimed. Next: review the rough edit's human doorway, black pauses and placement relation.

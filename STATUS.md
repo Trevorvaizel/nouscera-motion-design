@@ -3,12 +3,12 @@
 **As of:** 2026-11-15  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.10, Compare whole-film editorial rhythm before selecting an edit structure  
-**Status:** Two A03/A04 editorial rhythm sketches derived under D-018; **neither selected or viewer-tested**. EX-001 v03 remains a partially failed local morph experiment, not a template for the full film.
+**Current brick:** B03.11, Review the first timed Rhythm A rough animatic  
+**Status:** **Rhythm A selected by author (D-019)**; 49.25-second portrait rough animatic with temporary synthetic voice and silent version created. Technical output verified, author/audience interpretation not yet reviewed. EX-001 remains a separate incomplete morph test.
 
 ## Film-level editorial clarification | 2026-11-15
 
-**Author clarification:** The finished explainer is **not** intended as a continuous AI-generated movie. Black/blank holds, isolated line or shape construction, simple relational graphics, selective rich engraved environments and retraction are all part of the desired expressive range. EX-001 is **only a local morph test**, not an edit template for the entire film. The [editorial rhythm note](stories/001-human-at-the-door/EDITORIAL_RHYTHM_NOTE_v01.md) provides a proposed five-mode grammar, **not yet an approved scene sequence**. The [two rhythm sketches](stories/001-human-at-the-door/A03_A04_EDITORIAL_RHYTHM_COMPARISON_v01.md) now compare **A: Breath, Mark, World** and **B: The World, Then the Fracture** against the same six recognition beats. Studio preference: A for a minimal rough animatic, not an author-approved edit.
+**Author clarification:** The finished explainer is **not** intended as a continuous AI-generated movie. Black/blank holds, isolated line or shape construction, simple relational graphics, selective rich engraved environments and retraction are all part of the desired expressive range. EX-001 is **only a local morph test**, not an edit template for the entire film. The [editorial rhythm note](stories/001-human-at-the-door/EDITORIAL_RHYTHM_NOTE_v01.md) provides a proposed five-mode grammar, **not yet an approved scene sequence**. The [two rhythm sketches](stories/001-human-at-the-door/A03_A04_EDITORIAL_RHYTHM_COMPARISON_v01.md) now compare **A: Breath, Mark, World** and **B: The World, Then the Fracture** against the same six recognition beats. Author selected **Rhythm A** (D-019); the [rough animatic receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md) documents the first 49.25-second actual edit for review. Timing, narration and visuals remain provisional.
 
 ## Confirmed direction
 
@@ -39,7 +39,7 @@ Do **not** automatically promote the previous information-and-direction TR-001 t
 
 ## Current rhythm gate
 
-Two working editorial alternatives exist: [A03/A04 Rhythm Comparison v0.1](stories/001-human-at-the-door/A03_A04_EDITORIAL_RHYTHM_COMPARISON_v01.md). They preserve the same source and six recognition events while differing in where darkness, isolated marks, immersive transformations and retraction occur. **No selected whole-film rhythm, timed animatic, script or viewer data exists.**
+**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Review and revise this first actual rough cut.
 
 ## Open boundaries
 

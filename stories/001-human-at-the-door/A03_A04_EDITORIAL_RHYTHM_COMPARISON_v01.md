@@ -2,7 +2,7 @@
 title: "Film 001 | A03/A04 | Editorial Rhythm Comparison"
 version: "0.1"
 date: "2026-11-15"
-status: "Two working alternatives, neither approved"
+status: "Rhythm A selected as working editorial direction (D-019); B retained as prior countercandidate"
 source: "The Human at the Door, The fog, PDF pp. 7-11"
 meaning_contract: "TR-002 v1.0 / D-014"
 treatment: "The Transforming Room / D-015"
@@ -116,3 +116,8 @@ Neither is a completed script. They do not imply exact seconds or fixed sound cu
 **Open:** Which rhythm, when/how often to cut to black, the relative balance of graphic and immersive language, exact durations, spoken text, and whether more than one local room-to-world conversion is needed.
 
 **Important source distinction:** The essay provides the *human situation and conceptual discovery*. The visual modes, screen rhythms and production comparisons are our studio design hypotheses, not claims from the source itself.
+
+
+## Subsequent selection | D-019
+
+The user explicitly selected **Rhythm A**. The studio produced a 49.25-second preliminary timed animatic with an expendable synthetic voice and no final AI video. See [the production receipt](RHYTHM_A_ANIMATIC_01_RECEIPT.md). This decision closes *which paper rhythm to develop first*, not the approval of narration, timings or the complete film.
