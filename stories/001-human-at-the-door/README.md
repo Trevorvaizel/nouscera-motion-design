@@ -75,3 +75,8 @@ The author identified that a small building beside the narration “Build the sm
 ## Full original-experiment force audit | B03.11C
 
 The director requested applying the force matrix to the **entire original test**, not merely “Build the smallest version.” [B03.11C Full Experiment Audit v0.1](B03.11C_FULL_EXPERIMENT_FORCE_AUDIT_v01.md) reopens the essay's pages 7–11, all **twelve** spoken events of the 49.25-second Rhythm A animatic, the nested 9-second EX-002 A/B, and the whole-sequence relation. The strongest diagnostic is that competing credible advice was compressed into a possibly mandatory “validate -> talk -> build” recipe, alongside weak pressure context, sign-operation mismatches and a deterministic-looking placement arrow. **No new video or audience test was produced by this audit.**
+
+
+## B03.11D: Two whole-passage designs, created before new generation
+
+The full force audit has led to [two prospective audiovisual approaches](B03.11D_COMPETING_AUDIOVISUAL_DESIGNS_v01.md): **Competing Counsel**, where plausible conflicting recommendations are juxtaposed, and **The Weight of Advice**, where contextual pressures reveal why a sound instruction may be unplaced. Both maintain selective imagery, black and sparse/immersive Rhythm A grammar, are explicitly source-anchored and are **not approved final scripts**. A [Scalpel Learning Loop v0.1](../../methodology/SCALPEL_LEARNING_LOOP_v01.md) registers force-specific predictions in advance of new output, then provides a way to log actual viewer interpretations, misses, false vetoes and conservative methodology revisions. No new animatic was generated in this brick.
