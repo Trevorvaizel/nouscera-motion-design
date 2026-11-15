@@ -26,7 +26,9 @@ A question is closed only when an artifact, decision, or test resolves it; mark 
 
 | OQ-015 | Can a **force-coded, situated semantic-fit diagnostic** predict the wrong associations and appropriate representational demands **before** visual generation? | EX-003 and studio methodological promotion | [Semantic-Fit Scalpel Matrix v0.1](../methodology/SEMANTIC_FIT_SCALPEL_MATRIX_v01.md) derives nine questioning gates from Stage 02 candidate forces; no prospective test yet | Full original experiment audit completed at source/artifact level; next pre-register new competing passage-wide concepts and compare with unprimed viewers |
 
-| OQ-016 | How do we preserve **the essay's competing plausible advice, contextual pressures and placement question** in a coherent short-form spoken-and-seen argument, without making a guaranteed startup recipe? | Rhythm A v0.2 script/animatic revision | Full 12-event plus EX-002 source/artifact audit in `B03.11C_FULL_EXPERIMENT_FORCE_AUDIT_v01.md`; no audience test | Derive at least two competing passage-wide audiovisual approaches and audit each with force matrix before generation |
+| OQ-016 | Which whole-passage audiovisual design best preserves the **competing valid advice, contextual pressure and open placement question** without making a guaranteed startup recipe? | Rhythm A v0.2 script/animatic revision | B03.11D now derives **A: Competing Counsel** and **B: The Weight of Advice** with prospective failure predictions; neither viewer-tested or author-selected | Review candidates, then freeze a limited production comparison and test |
+
+| OQ-017 | Which scalpel predictions **actually anticipate reception failures** before generation, and which miss or falsely veto viable treatments? | Studio methodology learning | [Scalpel Learning Loop v0.1](../methodology/SCALPEL_LEARNING_LOOP_v01.md) preregisters force-specific hypotheses and observation codes; no new viewer data | Create rough versions, gather unprimed interpretations, and revise only questions supported by evidence; transfer-test in another passage |
 
 ## Do not confuse uncertainties
 
