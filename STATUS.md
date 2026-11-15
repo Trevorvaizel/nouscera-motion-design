@@ -3,12 +3,12 @@
 **As of:** 2026-11-15  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.09, Refine EX-001 contour correspondence after first GIF test  
-**Status:** EX-001 v03 **six-frame animated GIF test generated and inspected**. Human tether and engraved look promising; **desk-to-table contour transfer and room-becomes-worlds mechanism did not pass**. Not a dedicated video-provider test.
+**Current brick:** B03.10, Compare whole-film editorial rhythm before selecting an edit structure  
+**Status:** Two A03/A04 editorial rhythm sketches derived under D-018; **neither selected or viewer-tested**. EX-001 v03 remains a partially failed local morph experiment, not a template for the full film.
 
 ## Film-level editorial clarification | 2026-11-15
 
-**Author clarification:** The finished explainer is **not** intended as a continuous AI-generated movie. Black/blank holds, isolated line or shape construction, simple relational graphics, selective rich engraved environments and retraction are all part of the desired expressive range. EX-001 is **only a local morph test**, not an edit template for the entire film. The [editorial rhythm note](stories/001-human-at-the-door/EDITORIAL_RHYTHM_NOTE_v01.md) provides a proposed five-mode grammar, **not yet an approved scene sequence**. Next score-level task: compare visual density and negative space across the six recognition beats before treating any immersive passage as the default.
+**Author clarification:** The finished explainer is **not** intended as a continuous AI-generated movie. Black/blank holds, isolated line or shape construction, simple relational graphics, selective rich engraved environments and retraction are all part of the desired expressive range. EX-001 is **only a local morph test**, not an edit template for the entire film. The [editorial rhythm note](stories/001-human-at-the-door/EDITORIAL_RHYTHM_NOTE_v01.md) provides a proposed five-mode grammar, **not yet an approved scene sequence**. The [two rhythm sketches](stories/001-human-at-the-door/A03_A04_EDITORIAL_RHYTHM_COMPARISON_v01.md) now compare **A: Breath, Mark, World** and **B: The World, Then the Fracture** against the same six recognition beats. Studio preference: A for a minimal rough animatic, not an author-approved edit.
 
 ## Confirmed direction
 
@@ -33,9 +33,13 @@
 
 Read `stories/001-human-at-the-door/README.md` and `stories/001-human-at-the-door/SOURCE_MAP_v01.md`.
 
-**B03.05 closed:** TR-002 approved as meaning. **B03.06 closed:** The author selected Option 2, **the room itself becomes the worlds** (D-015). **B03.08 advanced as a working test basis, D-017:** The author said "Proceed" after the proposed A04 Bible and one-morph prototype were presented. **B03.09 active:** [A05 EX-001 contract v0.1](stories/001-human-at-the-door/A05_EX001_SHOT_TRANSITION_CONTRACT_v01.md) proposes **desk edge -> possible customer conversation table**, with the human hand/notebook as the tether. This is a **studio-selected experimental proposal**, and two [exploratory image stills](stories/001-human-at-the-door/EX001_IMAGE_ANCHOR_REVIEW_v01.md) have now been generated. They do **not** qualify as matched start/end anchors because viewpoint, edge geometry and aspect ratio differ. [Motion proof v03 evidence](stories/001-human-at-the-door/A06_EX001_MOTION_EVIDENCE_v03.md) records a six-frame GIF (506×508, 3 seconds) from ImageGen. Human continuity and legible cafe emergence improved; the room mostly acquires another backdrop rather than turning into it. [Inter-frame Contract v0.1](stories/001-human-at-the-door/A05_EX001_INTERFRAME_CONTRACT_v01.md) now specifies which contours must transfer and how intervals should be authored. **Next:** matched native-portrait anchors with explicit desk-to-table contour, then controlled video-provider test.
+**B03.05 closed:** TR-002 approved as meaning. **B03.06 closed:** The author selected Option 2, **the room itself becomes the worlds** (D-015). **B03.08 advanced as a working test basis, D-017:** The author said "Proceed" after the proposed A04 Bible and one-morph prototype were presented. **B03.09 active:** [A05 EX-001 contract v0.1](stories/001-human-at-the-door/A05_EX001_SHOT_TRANSITION_CONTRACT_v01.md) proposes **desk edge -> possible customer conversation table**, with the human hand/notebook as the tether. This is a **studio-selected experimental proposal**, and two [exploratory image stills](stories/001-human-at-the-door/EX001_IMAGE_ANCHOR_REVIEW_v01.md) have now been generated. They do **not** qualify as matched start/end anchors because viewpoint, edge geometry and aspect ratio differ. [Motion proof v03 evidence](stories/001-human-at-the-door/A06_EX001_MOTION_EVIDENCE_v03.md) records a six-frame GIF (506×508, 3 seconds) from ImageGen. Human continuity and legible cafe emergence improved; the room mostly acquires another backdrop rather than turning into it. [Inter-frame Contract v0.1](stories/001-human-at-the-door/A05_EX001_INTERFRAME_CONTRACT_v01.md) now specifies which contours must transfer and how intervals should be authored. **Parallel production track:** EX-001 still needs matched native-portrait anchors with explicit desk-to-table contour and a controlled video-provider test. **Whole-film editorial track:** compare the two rhythm sketches and build comparable rough animatics before selecting pacing.
 
 Do **not** automatically promote the previous information-and-direction TR-001 to the essay's governing statement.
+
+## Current rhythm gate
+
+Two working editorial alternatives exist: [A03/A04 Rhythm Comparison v0.1](stories/001-human-at-the-door/A03_A04_EDITORIAL_RHYTHM_COMPARISON_v01.md). They preserve the same source and six recognition events while differing in where darkness, isolated marks, immersive transformations and retraction occur. **No selected whole-film rhythm, timed animatic, script or viewer data exists.**
 
 ## Open boundaries
 
