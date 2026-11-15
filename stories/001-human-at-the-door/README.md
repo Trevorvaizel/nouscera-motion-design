@@ -85,3 +85,8 @@ The full force audit has led to [two prospective audiovisual approaches](B03.11D
 ## B03.11E | Two real low-fidelity whole-passage animatics
 
 Following the [full experiment force audit](B03.11C_FULL_EXPERIMENT_FORCE_AUDIT_v01.md), two prospective designs were rendered as actual portrait MP4s in the conversation: **Competing Counsel** (46.1 seconds) and **The Weight of Advice** (46.3 seconds). Both have temporary original scripted voice and restrained black/white motion graphics; neither is an AI-generated continuous movie. Read [B03.11E production receipt](B03.11E_TWO_ROUGH_TREATMENTS_PRODUCTION_RECEIPT.md). The files are in the user's chat working package, **not on the public GitHub repository**. Their narratives are competing treatments, not one-variable image tests. **Neither has passed viewer comprehension tests or been approved as the film's script.**
+
+
+## B03.11F | What the author recognized, and what failed
+
+The author prefers Design B because **contrasting two situations** made the same-advice/different-context relationship memorable. However, **both videos' pressure material and endings failed**: the voice named situated pressures and the turn toward a smaller question, but the author could not feel or recognize those scenes. The studio recorded this direct response (not a cold-viewer test) and derived [two target scene-function contracts](B03.11F_AUTHOR_RECEPTION_SCENE_CONTRACTS_v01.md): consequential pressure P1/P2 and enacted inquiry shift R1/R2. None is selected as finished art; the existing successful conditional contrast should be retained.
