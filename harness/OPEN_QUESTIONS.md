@@ -22,6 +22,8 @@ A question is closed only when an artifact, decision, or test resolves it; mark 
 
 | OQ-013 | In the first Rhythm A rough animatic, are **the human stakes**, **black holds**, and **the placement-versus-certainty graphic** intelligible? | Rough-edit revision | First narrated/silent animatic exists, no audience review yet | Author reviews, mark weak beats and revise; then unprimed viewer check |
 
+| OQ-014 | Which **concrete sign vehicles and timings** best let viewers connect the existing spoken lines to their intended meaning without over-literalizing or forcing continuous scenery? | Rhythm A Animatic v0.2 | The [12-event source-anchored audit](../stories/001-human-at-the-door/A03_SPEECH_TO_SIGN_AUDIT_v01.md) proposes revisions; none audience-tested | Make a small comparison of isolated advice objects and a non-deterministic placement relation, then inspect unprimed interpretation |
+
 ## Do not confuse uncertainties
 
 An unresolved artistic choice is not the same as missing empirical evidence. A production risk is not the same as ambiguity in the author's claim. Keep each in the correct register.

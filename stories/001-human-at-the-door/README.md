@@ -55,3 +55,8 @@ The author selected **Rhythm A: Breath, Mark, World** (D-019). A **49.25-second,
 ## Audio-visual correspondence correction | D-020
 
 The author clarified that the film may show a **detailed single object on black**, a deliberately selective relationship, a complete localized scene, or an unrelated subsequent environment. Neither abstraction nor scenic immersion is the default. Each visual should be justified by what the narration makes relevant and what a viewer can infer. See [Audiovisual Semantic Correspondence v0.1](AUDIOVISUAL_SEMANTIC_CORRESPONDENCE_v01.md). Rhythm A remains the working edit, but we will review it at the level of **speech-to-sign alignment**, not merely the proportion of black frames versus rendered scenes.
+
+
+## Confirmed correction: speech-to-sign selection | D-021
+
+After explicitly confirming D-020's clarification, the author authorized development of the correction into our workflow. [A03 Speech-to-Sign Audit v0.1](A03_SPEECH_TO_SIGN_AUDIT_v01.md) now examines **12 actual speech events from the first 49.25-second temporary narration** against the original essay, proposing detailed isolated objects, selective immersive transformation, independent images, black holds, and contingent relationships where each can support viewer inference. The options are **working proposals**, not approved shots or completed Animatic v0.2. The six-artifact architecture stays unchanged.

@@ -133,3 +133,12 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Studio interpretation for testing:** Select visual signs through **speech event -> intended inference -> suitable visible referent/relationship -> timing -> likely viewer interpretation**. This method is a proposal, not an approved universal taxonomy.
 **Consequences:** Rhythm A (D-019) still holds as a preference for black/sparse/rich contrast, but its modes are not exclusive categories. The room-becomes-worlds treatment (D-015) governs one local technique, not an all-film spatial continuity mandate. Revisit the rough animatic at speech-event resolution before changing its visuals.
 **Reference:** `stories/001-human-at-the-door/AUDIOVISUAL_SEMANTIC_CORRESPONDENCE_v01.md`.
+
+
+### D-021 | 2026-11-15 | Author confirms meaning-led audiovisual correspondence
+
+**User confirmation:** “yes thats it .. so how do we proceed with this new correction?” This explicitly confirms the interpretation described in D-020: neither abstraction nor a continuous scene is required; isolated detailed objects, partial relationships, distinct scenes, holds and blackness are legitimate when they serve the spoken thought and the viewer's recognition.
+**Scope:** Approval of **creative direction**, not approval of the studio's proposed sign taxonomy, each animation shot, a final narration or a new edit.
+**Operational application:** Perform a **speech-event-to-sign audit inside A03**, considering listener inference, referent, context/detail scope, temporal relation and possible mistaken interpretations, then carry choices into A04 and A05 only where needed.
+**Concrete output:** `stories/001-human-at-the-door/A03_SPEECH_TO_SIGN_AUDIT_v01.md`, based on actual temporary spoken narration and the essay's “The fog” chapter (pp. 7–11).
+**Next:** Test specific revisions to the opening, advice objects and placement relation in a constrained animatic fragment before replacing the entire rough cut. Do not silently assume these proposed objects are author-approved.

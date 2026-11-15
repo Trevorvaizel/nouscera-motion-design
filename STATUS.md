@@ -3,8 +3,8 @@
 **As of:** 2026-11-15  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.11, Review the first timed Rhythm A rough animatic  
-**Status:** **Rhythm A selected by author (D-019)**; 49.25-second portrait rough animatic with temporary synthetic voice and silent version created. Technical output verified, author/audience interpretation not yet reviewed. EX-001 remains a separate incomplete morph test.
+**Current brick:** B03.11A, Re-map the actual narration to meaningful visual signs before Animatic 02  
+**Status:** **Rhythm A selected (D-019), meaning-led image selection confirmed (D-021)**. First 49.25-second rough cut exists; [12-event speech-to-sign audit](stories/001-human-at-the-door/A03_SPEECH_TO_SIGN_AUDIT_v01.md) is drafted from its actual narration and the essay. Revision options remain unapproved and untested.
 
 ## Film-level editorial clarification | 2026-11-15
 
@@ -12,7 +12,7 @@
 
 ## Clarification on audiovisual meaning | 2026-11-15
 
-**D-020:** The author clarified that detailed isolated objects can appear against black, independent reconstructed scenes can serve different thoughts without occupying one continuous spatial universe, and visual form should correspond to what narration is helping the listener understand. **This is not a binary between abstraction and cinematic scenes.** Read [the working audiovisual correspondence note](stories/001-human-at-the-door/AUDIOVISUAL_SEMANTIC_CORRESPONDENCE_v01.md). Rhythm A remains the selected editorial rhythm but should be audited at the speech-event level. No revised animatic has yet been generated from this clarification.
+**D-020:** The author clarified that detailed isolated objects can appear against black, independent reconstructed scenes can serve different thoughts without occupying one continuous spatial universe, and visual form should correspond to what narration is helping the listener understand. **This is not a binary between abstraction and cinematic scenes.** Read [the working audiovisual correspondence note](stories/001-human-at-the-door/AUDIOVISUAL_SEMANTIC_CORRESPONDENCE_v01.md). Rhythm A remains selected. The user's subsequent **explicit confirmation** is logged as D-021; [A03 Speech-to-Sign Audit v0.1](stories/001-human-at-the-door/A03_SPEECH_TO_SIGN_AUDIT_v01.md) now identifies specific mismatches in the actual spoken cut. **No revised animatic has yet been generated from this audit.**
 
 ## Confirmed direction
 
@@ -43,7 +43,7 @@ Do **not** automatically promote the previous information-and-direction TR-001 t
 
 ## Current rhythm gate
 
-**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Review and revise this first actual rough cut.
+**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Review the 12 speech events and produce a constrained **Animatic v0.2 micro-test** of detailed isolated objects and conditional placement, before remaking the complete rough cut.
 
 ## Open boundaries
 
