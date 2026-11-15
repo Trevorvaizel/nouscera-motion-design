@@ -18,6 +18,8 @@ A question is closed only when an artifact, decision, or test resolves it; mark 
 
 | OQ-011 | Can the actual desk contour **become** the conversation table contour rather than persist while a café backdrop appears? | EX-001 revised controlled test | GIF v03 **failed** the local contour-transfer and full-room conversion tests; see A06 v03 | Compose native 9:16 anchors and directed in-between topology, then test |
 
+| OQ-012 | Should Film 001 primarily use **A: Breath, Mark, World** or **B: The World, Then the Fracture**, or a justified revised rhythm? | Whole-film editorial structure | A03/A04 two-sketch comparison under D-018, not viewer tested | Author reviews two rhythm sketches; then develop comparable rough animatics and record selection after review |
+
 ## Do not confuse uncertainties
 
 An unresolved artistic choice is not the same as missing empirical evidence. A production risk is not the same as ambiguity in the author's claim. Keep each in the correct register.
