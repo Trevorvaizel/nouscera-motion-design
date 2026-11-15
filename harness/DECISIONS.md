@@ -161,3 +161,13 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Key diagnostic:** Before the three images were generated, the narration had already converted the essay's *potentially conflicting but individually plausible advice* into three apparently sequential instructions. Additionally, pressure from p.9 was weakly represented, object signs did not show their implied operations, and the end arrow risked pretending the placement question already had a determinate answer.
 **Working result:** [B03.11C full original-experiment audit](../stories/001-human-at-the-door/B03.11C_FULL_EXPERIMENT_FORCE_AUDIT_v01.md). This is a **source/artifact diagnosis, not approval of a new script or empirical reception evidence**.
 **Next gate:** Compare new *entire-passage* spoken-and-seen designs retaining the source's tensions, real human context, and open placement question. Avoid generating a more cinematic version of the same three-command recipe without resolving that semantic defect.
+
+
+### D-024 | 2026-11-15 | Derive competing whole-passage treatments and an explicit methodological learning loop
+
+**Author instruction:** Continue after diagnosing the full original experiment, emphasizing that with repeated evidence and failures the methodology should become easier and more accurate while remaining open to revision.
+**Scope:** Authorized **design derivation and prospective calibration**, not approval of any script, scene or visual treatment.
+**Working outputs:** [B03.11D competing audiovisual designs](../stories/001-human-at-the-door/B03.11D_COMPETING_AUDIOVISUAL_DESIGNS_v01.md) and [Scalpel Learning Loop](../methodology/SCALPEL_LEARNING_LOOP_v01.md).
+**Alternatives:** A, **Competing Counsel**, develops contradictions among potentially valid guidance. B, **The Weight of Advice**, shows how situated time, money, expectations and risk alter applicability. Both preserve the same qualified source recognition and open ending.
+**Learning rule:** Before generating, register force-coded predictions of wrong inference. After production and unprimed viewing, tag confirmed warnings, unobserved warnings, missed failures, false vetoes and confounds. Make only scoped, versioned revisions and transfer-test on another case. Do **not** claim predictive accuracy before evidence.
+**Status:** Concept-stage hypotheses; no user treatment selection, new media, reception evidence or final screenplay.
