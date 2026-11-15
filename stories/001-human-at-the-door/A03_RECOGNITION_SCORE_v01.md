@@ -242,3 +242,10 @@ Do not treat recall, likes, watch time and comprehension as the same outcome. Th
 ## Continuation note | D-016
 
 On 2026-11-11 the author responded **"proceed"** to the presented A03 working score and recommendation of a visible-human opening, embodied changing worlds and human return. We interpret this as authorization to use A03 as a **working basis for A04 derivation**, not a claim that all continuity mechanics are locked or proven. A04 v0.1 has been developed from this basis; the concrete anchor and first transformation remain choices for the ensuing production test.
+
+
+## Film-level editorial correction | D-018 (2026-11-15)
+
+The author clarified that the complete film should **not** appear as an unbroken sequence of AI-generated immersive environments. Intentional black screen, isolated construction of a single element, simplified relational graphics, selective scene/world transformations and absorption are all legitimate tools. **The six beats in this score remain recognition events, not six elaborate scenes.**
+
+For each beat, the next editorial pass must select a **visual mode**, detail density, and presence/length of any meaningful blank/hold, as a deliberate hypothesis. The [working editorial rhythm note](EDITORIAL_RHYTHM_NOTE_v01.md) proposes V0 black, V1 isolated element, V2 relational graphic, V3 immersive world, V4 retraction/residue. None of the assignments or timings is yet locked. EX-001 tests a local V3 metamorphosis, not the full-film rhythm. Preserve the approved TR-002 meaning across all modes, particularly after visuals retract.
