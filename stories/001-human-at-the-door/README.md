@@ -50,3 +50,8 @@ After D-018 clarified that the finished explainer should **not** be a nonstop AI
 ## Film 001 | First timed rough animatic
 
 The author selected **Rhythm A: Breath, Mark, World** (D-019). A **49.25-second, portrait, voice/silent rough editorial animatic** was rendered on 2026-11-15 using intentional black, sparse constructed graphics and one short immersive placeholder from EX-001 Look Study 02. See [the production and review receipt](RHYTHM_A_ANIMATIC_01_RECEIPT.md). The actual MP4s are available in the conversation, **not uploaded to the public repository**. No final narration, shot design, morph success or viewer evidence is claimed. Next: review the rough edit's human doorway, black pauses and placement relation.
+
+
+## Audio-visual correspondence correction | D-020
+
+The author clarified that the film may show a **detailed single object on black**, a deliberately selective relationship, a complete localized scene, or an unrelated subsequent environment. Neither abstraction nor scenic immersion is the default. Each visual should be justified by what the narration makes relevant and what a viewer can infer. See [Audiovisual Semantic Correspondence v0.1](AUDIOVISUAL_SEMANTIC_CORRESPONDENCE_v01.md). Rhythm A remains the working edit, but we will review it at the level of **speech-to-sign alignment**, not merely the proportion of black frames versus rendered scenes.
