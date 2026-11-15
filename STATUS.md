@@ -4,13 +4,17 @@
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
 **Current brick:** **B03.11K, Generate Continuity Pack v0.1 AI reference images (CP-01 through CP-06)**  
-**Status:** **B03.11J orientation completed.** The [Film 001 Master Experiment Map](stories/001-human-at-the-door/MASTER_EXPERIMENT_MAP_v01.md) now indexes source protection, author decisions, the 13-shot spine, bricks, force derivations, work gates and checklists. The [Continuity Pack Specification](stories/001-human-at-the-door/CONTINUITY_PACK_SPEC_v01.md) defines six related AI-first image references. **No continuity images have yet been generated or approved; no successful animated human-action or full-film reception test exists.**
+**Status:** B03.11J orientation complete. **B03.11K actual image generation begun:** CP-01 c01 rendered then rejected (wrong landscape format, literal question mark); CP-01 c02 rendered in approx. 9:16 and retained as a **working visual candidate**, **NOT** a finally approved character. [Evidence/inspection receipt](stories/001-human-at-the-door/B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md). CP-02 through CP-06 not yet generated. No successful animated human-action or full-film reception test exists.
 
 ## Current film handoff | Single entry point
 
 **READ FIRST:** [Master Experiment Map v0.1](stories/001-human-at-the-door/MASTER_EXPERIMENT_MAP_v01.md), then [Continuity Pack v0.1 specification](stories/001-human-at-the-door/CONTINUITY_PACK_SPEC_v01.md). The Master Map is the film-specific current gate, status and provenance index; this file retains historical updates.
 
-**NEXT, [B03.11K](https://github.com/Trevorvaizel/nouscera-motion-design/issues/11):** Generate six *linked* white-on-black engraved candidate stills, capture tool/model/input/selection lineage, inspect one contact sheet, and produce A06 continuity evidence. **No physical filming or arbitrary shot-choice assignment to the author.** Then author matched S08/S09/S11 action states and test actual AI movement. The full 13-shot sequence is a **working** design, not a locked 73-second film.
+**NEXT WITHIN ACTIVE [B03.11K](https://github.com/Trevorvaizel/nouscera-motion-design/issues/11):** Develop CP-02 from working CP-01 c02, then complete remaining five *linked* white-on-black engraved candidate stills, capture tool/model/input/selection lineage, inspect one contact sheet, and produce A06 continuity evidence. **No physical filming or arbitrary shot-choice assignment to the author.** Then author matched S08/S09/S11 action states and test actual AI movement. The full 13-shot sequence is a **working** design, not a locked 73-second film.
+
+## B03.11K | First actual visual generation
+
+[CP-01 c01/c02 receipt](stories/001-human-at-the-door/B03.11K_CP01_FIRST_VISUAL_CANDIDATE_RECEIPT.md): both candidates generated, first rejected, portrait second provisionally retained. Model version/seed not surfaced, output dimensions and hashes verified. No author aesthetic approval, no animation or continuity-across-images test yet. **CP-02 is the next asset**, with the same human, notebook and work surface. Generated binaries are in the conversation runtime, not this public repo.
 
 ## Film-level editorial clarification | 2026-11-15
 
