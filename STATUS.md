@@ -3,8 +3,8 @@
 **As of:** 2026-11-15  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.11E, Review two generated whole-passage rough animatics and collect reception evidence  
-**Status:** **Two actual low-fidelity whole-treatment animatics generated on 2026-11-15**, 46.1s (A: Competing Counsel) and 46.3s (B: The Weight of Advice), both portrait 540x960 with provisional synthetic narration and simple procedural linework. [Production receipt](stories/001-human-at-the-door/B03.11E_TWO_ROUGH_TREATMENTS_PRODUCTION_RECEIPT.md). **No viewer observations or author approval of either treatment.**
+**Current brick:** B03.11F, Test pressure and recognition as human events in Design B  
+**Status:** Two B03.11E rough animatics exist. **The author reports B4's contrast between two contexts successfully communicated that identical advice can mean something different; B3's situational pressures and B5/B6's shift toward a smaller question did NOT become felt or legible.** See [B03.11F reception and scene contracts](stories/001-human-at-the-door/B03.11F_AUTHOR_RECEPTION_SCENE_CONTRACTS_v01.md). This is author feedback, not a blind viewer study, and no replacement scenes are approved.
 
 ## Film-level editorial clarification | 2026-11-15
 
@@ -43,7 +43,7 @@ Do **not** automatically promote the previous information-and-direction TR-001 t
 
 ## Current rhythm gate
 
-**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Compare **Design A: Competing Counsel** and **Design B: The Weight of Advice** in the [B03.11D proposal](stories/001-human-at-the-door/B03.11D_COMPETING_AUDIOVISUAL_DESIGNS_v01.md), keeping the source qualifications and failures predicted in advance. Both low-fidelity studies now exist. Review each separately, compare actual interpretation with previously [registered force predictions](methodology/SCALPEL_LEARNING_LOOP_v01.md), and revise the smallest semantically consequential failure. No actual unprimed-viewer test has occurred.
+**Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Compare **Design A: Competing Counsel** and **Design B: The Weight of Advice** in the [B03.11D proposal](stories/001-human-at-the-door/B03.11D_COMPETING_AUDIOVISUAL_DESIGNS_v01.md), keeping the source qualifications and failures predicted in advance. The author has reviewed and identified a **working contrast** plus **two failed recognitional events**. Retain B4's contrast for follow-up; test **pressure as consequential human choice** and **placement as a change in the act of inquiry**. The provisional [scene contracts](stories/001-human-at-the-door/B03.11F_AUTHOR_RECEPTION_SCENE_CONTRACTS_v01.md) specify alternatives and prospective risks. **No unprimed viewer test.**
 
 ## EX-002 controlled audiovisual study | 2026-11-15
 
@@ -56,6 +56,10 @@ The author observed that a miniature building does not meaningfully explain *“
 ## B03.11D | Prospective diagnostic learning loop
 
 The studio has now compared two **competing complete advice-to-placement treatments** before generating new imagery. Design A foregrounds plural plausible counsel; Design B foregrounds how pressure changes applicability. Both now exist as **rough timed audiovisual artifacts**, but remain author-unselected and **reception-untested**. A prospective [scalpel learning protocol](methodology/SCALPEL_LEARNING_LOOP_v01.md) registers what each force predicts, what would disconfirm it, and how to record misses, false vetoes, corrections and later transfer tests, without claiming validated accuracy from one case. Actual 2026-11-15 [B03.11E production receipt](stories/001-human-at-the-door/B03.11E_TWO_ROUGH_TREATMENTS_PRODUCTION_RECEIPT.md) records file hashes, spoken timings, production method, and outstanding meaning risks.
+
+## B03.11F | Author recognition evidence and repairs
+
+The author identified why B is preferred: its contrast of two situations made the **same-advice/different-context** insight memorable. The author also reports that narrated pressures were **not felt in the depicted scene** and that both endings failed to depict discovery of a smaller question. The studio has recorded these as direct author observations, **not** validated effects on unfamiliar audiences. The [two replacement scene contracts](stories/001-human-at-the-door/B03.11F_AUTHOR_RECEPTION_SCENE_CONTRACTS_v01.md) target **consequential human choice** and **recognitional reframing**, while protecting the working context contrast. No replacement assets have been generated.
 
 ## Open boundaries
 
