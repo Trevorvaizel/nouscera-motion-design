@@ -3,8 +3,14 @@
 **As of:** 2026-11-15  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.11I, Derive and execute the complete 13-shot Film 001 AI-first production spine  
-**Status:** Two B03.11E 46s rough animatics exist. After the author explained why B's contrasting contexts were memorable but its pressures/recognition failed, the studio produced a **26s engraved, scored editorial look study** using a newly generated high-detail image, selective camera movement, black holds, temporary voice and original low-volume ambience. [B03.11G receipt and fidelity gates](stories/001-human-at-the-door/B03.11G_LAYERED_LOOK_STUDY_AND_FIDELITY_GATES_v01.md). **Human action/handwriting is still not truly animated; no reception test or completed film.**
+**Current brick:** **B03.11K, Generate Continuity Pack v0.1 AI reference images (CP-01 through CP-06)**  
+**Status:** **B03.11J orientation completed.** The [Film 001 Master Experiment Map](stories/001-human-at-the-door/MASTER_EXPERIMENT_MAP_v01.md) now indexes source protection, author decisions, the 13-shot spine, bricks, force derivations, work gates and checklists. The [Continuity Pack Specification](stories/001-human-at-the-door/CONTINUITY_PACK_SPEC_v01.md) defines six related AI-first image references. **No continuity images have yet been generated or approved; no successful animated human-action or full-film reception test exists.**
+
+## Current film handoff | Single entry point
+
+**READ FIRST:** [Master Experiment Map v0.1](stories/001-human-at-the-door/MASTER_EXPERIMENT_MAP_v01.md), then [Continuity Pack v0.1 specification](stories/001-human-at-the-door/CONTINUITY_PACK_SPEC_v01.md). The Master Map is the film-specific current gate, status and provenance index; this file retains historical updates.
+
+**NEXT, B03.11K:** Generate six *linked* white-on-black engraved candidate stills, capture tool/model/input/selection lineage, inspect one contact sheet, and produce A06 continuity evidence. **No physical filming or arbitrary shot-choice assignment to the author.** Then author matched S08/S09/S11 action states and test actual AI movement. The full 13-shot sequence is a **working** design, not a locked 73-second film.
 
 ## Film-level editorial clarification | 2026-11-15
 
@@ -33,7 +39,7 @@
 | 04, Film experiment | Not started; no approved narrative treatment, clips or viewer tests |
 | 05, Capability system | Not started |
 
-## Current handoff
+## Historical A05 handoff | Archived stage snapshot
 
 Read `stories/001-human-at-the-door/README.md` and `stories/001-human-at-the-door/SOURCE_MAP_v01.md`.
 
@@ -41,7 +47,7 @@ Read `stories/001-human-at-the-door/README.md` and `stories/001-human-at-the-doo
 
 Do **not** automatically promote the previous information-and-direction TR-001 to the essay's governing statement.
 
-## Current rhythm gate
+## Historical rhythm gate | Archived stage snapshot
 
 **Rhythm A selected** in D-019. The first rough timed animatic exists with a deliberately limited immersive placeholder (see [production receipt](stories/001-human-at-the-door/RHYTHM_A_ANIMATIC_01_RECEIPT.md)). No final edit, approved narration, viewer comprehension test or locked screen-time balance exists. **Next:** Compare **Design A: Competing Counsel** and **Design B: The Weight of Advice** in the [B03.11D proposal](stories/001-human-at-the-door/B03.11D_COMPETING_AUDIOVISUAL_DESIGNS_v01.md), keeping the source qualifications and failures predicted in advance. The [new 26-second layered look study](stories/001-human-at-the-door/B03.11G_LAYERED_LOOK_STUDY_AND_FIDELITY_GATES_v01.md) bridges the previous wireframes to richer engraved scene/sound, but camera reframing is not **actual human action**. **Next:** authored matched action anchors and a controlled performance-motion test for the pressure hesitation and smaller-question rewrite, then composite into Design B retaining the context contrast. **No unprimed viewer test.**
 
@@ -72,6 +78,10 @@ A practical [performed-action capture card](stories/001-human-at-the-door/B03.11
 ## B03.11I | Full Film 001 shot spine and ownership correction
 
 The author corrected the studio's repeated delegation of arbitrary individual shot choice and physical performance capture. **The studio owns the complete film derivation and sequential AI-first production.** After re-reading the primary 50-page PDF's actual pp.7-11 and A03/A04/B03.11F, a [13-shot, six-movement story-order spine](stories/001-human-at-the-door/SHOT_SPINE_13_SHOTS_v01.md) now covers the opening human question, credible competing advice, AI accumulation, the previously successful context contrast, the still-missing **performed pressure and inquiry change**, and open placement ending. **Approximate 73s is a layout allowance, not a runtime lock.** Production priority is a shared AI-generated engraved reference pack, then meaning-critical S08/S09/S11 matching anchors and motion tests, then the remaining shots and integrated edit. No physical filming required, no new video-model success claimed.
+
+## B03.11J | Film orientation and continuity specification
+
+Two auditable artifacts were created after explicit author agreement: the [Master Experiment Map](stories/001-human-at-the-door/MASTER_EXPERIMENT_MAP_v01.md) and [six-asset Continuity Pack production specification](stories/001-human-at-the-door/CONTINUITY_PACK_SPEC_v01.md). D-029 records the authorization of the **orientation method and artifacts**, not approval of all proposed shots/visual designs. [Brick receipt](harness/receipts/B03.11J-MASTER-MAP-AND-CONTINUITY-SPEC.md). B03.11K is the one current production task. Prior sections retain history but must **not** be treated as multiple simultaneous next steps.
 
 ## Open boundaries
 
