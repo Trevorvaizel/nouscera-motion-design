@@ -182,3 +182,14 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Initial technical observation:** Both videos technically render; however action scenes are schematic, human circumstance may remain underrepresented, and the placement visuals may not yet deliver the intended relational understanding. These are **editorial risks, not audience observations**.
 **Approval boundary:** Author selected neither new design nor its narration/illustrations. No external, unprimed reception result, successful AI motion model test or validated instrument improvement is claimed.
 **Next:** View each study independently and log meaning observations; use cold-viewer reconstructions if available; then update A06 with actual predicted/unpredicted results and revise a bounded failure.
+
+
+### D-026 | 2026-11-15 | Preserve working conditional contrast; diagnose failed pressure and placement scenes
+
+**Author observation:** “was that a different advice in one context means sth else in another.. the contrasting two situations made me remember it .. also they both fail at the ending .. when hey connect to asking a smaller question, or when saying these questions involve a situated life with pressures.. i think those were narrated but i couldnt feel those pressures or recognize the scenes”.
+**Established at author-review level:** B's **different contexts** successfully supported the author's recognition that an instruction can mean something different depending on the circumstances. Both rough cuts failed for the author when they **narrated pressures without making those pressures felt or recognizable visually**, and when they **announced the smaller-question/placement shift without making it perceptible**.
+**Interpretive diagnosis (not observed fact):** B3 is missing a consequential enacted choice; B5/B6 are missing a recognitional act of reframing inquiry. Compare new scene choices rather than adding generic labels, more hatching or AI scene duration by default.
+**Preservation instruction:** Keep B4's working contrast available; do not equate the user's preference with final approval of B's entire script or aesthetic.
+**Working proposals:** [B03.11F scene contracts](../stories/001-human-at-the-door/B03.11F_AUTHOR_RECEPTION_SCENE_CONTRACTS_v01.md) suggest pressure P1/P2 and recognition R1/R2 alternatives, with risks registered before any new generation.
+**Evidence limitation:** This is informed author reception, not unprimed viewer testing or proof that a specific force works universally.
+**Next:** Test the pressure and recognition **as human events**, protect p.9 source examples and p.10 open placement question, and record whether the new scenes yield the intended perception.
