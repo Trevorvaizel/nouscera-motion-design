@@ -105,3 +105,13 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Status:** A05 **working micro-test design, not a locked narrative scene**. No image or video is generated, no AI reliability is established, no audience evidence exists.
 **Next:** Review candidate start/end states and human tether; make deliberate illustrated anchors; verify provider input constraints and run a comparative short test with receipts.
 **Revision trigger:** Author correction, source meaning leakage, technical failure or viewer misinterpretation.
+
+
+### D-018 | 2026-11-15 | Clarify whole-film visual rhythm vs local AI morph experiment
+
+**Trigger:** After EX-001 v03, author clarified that the finished explainer is **not** envisioned as an uninterrupted AI movie. It will sometimes go completely black or construct only a simple element, with immersive transformed environments used selectively.
+**Decision scope:** **Confirmed creative intention about the range of editorial modes**, not approval of precise beat distribution, durations, final script or particular visual scenes.
+**Correction:** EX-001 is a targeted test of one room-to-world conversion, **not** the whole-film aesthetic or edit structure. Earlier A03/A04 work overemphasized immersive scene continuity in practice.
+**Working method:** A03 should consider periods of absence, isolated construction, simple relational graphics, immersive engraved worlds, and selective retraction as alternative solutions to each narrative job. A04 should protect blackness and visual restraint as first-class materials. AI video need not occupy every second.
+**Reference:** `stories/001-human-at-the-door/EDITORIAL_RHYTHM_NOTE_v01.md`.
+**Status:** Author's film-level intention confirmed; five-mode taxonomy and six-beat arrangement remain **studio hypotheses**.
