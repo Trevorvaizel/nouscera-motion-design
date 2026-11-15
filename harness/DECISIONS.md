@@ -152,3 +152,12 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Important limit:** A verb like "build" does not automatically mandate 3D or animation; the intended viewer inference and available context determine the testable candidates.
 **Next:** Select and compare a held prototype and a small enacted-build vignette on the same speech event, with wrong-domain and success-overclaim criteria stated before generation.
 **Status:** Diagnostic tool is a **working hypothesis**, not a validated instrument or author-approved canon.
+
+
+### D-023 | 2026-11-15 | Run the full original Film 001 experiment through force diagnostics
+
+**User instruction:** “no run the entire orgininal experiemt through this lense.” The request corrects the studio's attempt to isolate only “Build the smallest version.”
+**Work performed:** Reopened the actual _Human at the Door_ PDF, pp. 7–11, the 49.25s Rhythm A narration/beat map, and the 9s EX-002 A/B rendered-object/script record; ran all 12 spoken events and the full sequence through the Stage 02 force-derived semantic-fit gates.
+**Key diagnostic:** Before the three images were generated, the narration had already converted the essay's *potentially conflicting but individually plausible advice* into three apparently sequential instructions. Additionally, pressure from p.9 was weakly represented, object signs did not show their implied operations, and the end arrow risked pretending the placement question already had a determinate answer.
+**Working result:** [B03.11C full original-experiment audit](../stories/001-human-at-the-door/B03.11C_FULL_EXPERIMENT_FORCE_AUDIT_v01.md). This is a **source/artifact diagnosis, not approval of a new script or empirical reception evidence**.
+**Next gate:** Compare new *entire-passage* spoken-and-seen designs retaining the source's tensions, real human context, and open placement question. Avoid generating a more cinematic version of the same three-command recipe without resolving that semantic defect.
