@@ -100,3 +100,8 @@ The author flagged that wireframes omit expressive context and asked to recover 
 ## B03.11H | First true-performance execution card
 
 The next tangible user task is to record a **5–7-second portrait physical action** as movement reference for an illustration-to-video/ video-to-video animation, rather than attempt another still-camera-pan workaround. [Practical capture and provider brief](B03.11H_PERFORMED_ACTION_CAPTURE_CARD_v01.md) includes the hypothetical human-pressure gesture, motion/style workflow, fallback matched-image test and A06 pass/fail conditions. **No source video or model animation has been received or generated yet.**
+
+
+## Full Film 001 shot sequence derived | B03.11I
+
+The author corrected the focus on isolated P1/R1 shot choice. The studio reopened the actual source PDF pages 7-11, recognition score and art direction documents and derived the **complete [13-shot, six-movement story and production spine](SHOT_SPINE_13_SHOTS_v01.md)**. It distinguishes story playback from AI-first production dependencies: shared visual reference pack -> S08/S09/S11 pressure and recognition anchors -> true motion trials -> integrated S08-S13 passage -> remaining shots -> complete ~73-second illustrative draft -> reception tests. **No physical filming from the author is required.** The times, shots and draft narration are working proposals, not approved locked production canon.
