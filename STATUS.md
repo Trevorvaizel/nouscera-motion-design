@@ -3,7 +3,7 @@
 **As of:** 2026-11-15  
 **Project:** Nouscera Motion Design  
 **Current stage:** 03, Deriving the studio methodology  
-**Current brick:** B03.11G, Bridge into layered illustrated audiovisual work and design performed-action proof  
+**Current brick:** B03.11H, Capture first actual human gesture for illustrated motion test  
 **Status:** Two B03.11E 46s rough animatics exist. After the author explained why B's contrasting contexts were memorable but its pressures/recognition failed, the studio produced a **26s engraved, scored editorial look study** using a newly generated high-detail image, selective camera movement, black holds, temporary voice and original low-volume ambience. [B03.11G receipt and fidelity gates](stories/001-human-at-the-door/B03.11G_LAYERED_LOOK_STUDY_AND_FIDELITY_GATES_v01.md). **Human action/handwriting is still not truly animated; no reception test or completed film.**
 
 ## Film-level editorial clarification | 2026-11-15
@@ -64,6 +64,10 @@ The author identified why B is preferred: its contrast of two situations made th
 ## B03.11G | Layered film-illustration bridge
 
 The author described a **layering** problem and asked how the original plan connected the wireframe to a full cinematic video. The actual A04/A05 and Stage 02 gates have been reread; the documented plan is **source and recognition -> look/motion bible -> shot contracts -> illustration anchors -> short motion trials -> composite voice/sound/edit -> A06 and viewer test**, not mandatory conventional editable 3D or continuous AI video. A first **26s 540x960** look test was made with a new engraved person/workspace illustration, camera reframing, black holds and temporary audio. It raises illustrated and audiovisual fidelity but **does not show true hand hesitation, a visibly rewritten question or successful AI interframe motion**. See [fidelity receipt](stories/001-human-at-the-door/B03.11G_LAYERED_LOOK_STUDY_AND_FIDELITY_GATES_v01.md).
+
+## B03.11H | Concrete production action
+
+A practical [performed-action capture card](stories/001-human-at-the-door/B03.11H_PERFORMED_ACTION_CAPTURE_CARD_v01.md) specifies a stationary 5–7-second portrait recording of reaching toward a provisional action, noticing a competing obligation and hesitating. This is proposed performance input for a **real** AI animation test, not a final story or requirement to use conventional 3D. Official Runway Act-Two and Luma Modify documentation were checked for performance-based video workflows, with matched-start/end-frame interpolation as a fallback. **No user recording or dedicated video-model result exists yet.**
 
 ## Open boundaries
 
