@@ -1,4 +1,6 @@
 # Collaboration instructions for AI-assisted studio work
+> **Current handoff, 2026-11-17:** First read the [B03.11K continuity reconciliation](stories/001-human-at-the-door/B03.11K_CONTINUITY_RECONCILIATION_2026-11-17.md). B03.11K has progressed beyond the November 15 CP-02 retry instructions. The next actual gate is the remaining CP-06/pack review, followed by a controlled S09-to-S11 scribble + typography motion test in the existing layered Krita master. Historical entry text below describes the original brick start, not the current state.
+
 
 This repository is a **creative research harness**, not an invitation to generate a finished video whenever a prompt sounds exciting.
 
@@ -27,7 +29,7 @@ Never copy private KIRA source materials, personal/private chats, confidential w
 
 ## Next brick
 
-**Film 001 current:** [Master Experiment Map](stories/001-human-at-the-door/MASTER_EXPERIMENT_MAP_v01.md) -> [Continuity Pack Specification](stories/001-human-at-the-door/CONTINUITY_PACK_SPEC_v01.md). **B03.11K is next:** actually generate six coherent AI still references, compare them, record provenance and visual continuity findings. The source movement **The Fog, pp.7-11** was already selected and its A01 meaning approved. Do not reset to that resolved source-selection question.
+**Film 001 current:** [dated B03.11K reconciliation](stories/001-human-at-the-door/B03.11K_CONTINUITY_RECONCILIATION_2026-11-17.md) -> [Master Experiment Map](stories/001-human-at-the-door/MASTER_EXPERIMENT_MAP_v01.md) -> [working-master manifest](stories/001-human-at-the-door/LOCAL_WORKING_MASTER_MANIFEST_v01.md). **Next:** reconcile CP-06/pack's remaining approval and provenance boundary, then test an actual S09-to-S11 scribble plus typography movement. Do not regenerate previously approved CP-02. The source movement **The Fog, pp.7-11** and its A01 meaning remain approved.
 
 ## Definition of progress
 

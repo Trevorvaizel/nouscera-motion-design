@@ -10,6 +10,8 @@ source: "The Human at the Door, The fog, PDF pp. 7-11"
 ---
 
 # Film 001 | Continuity Pack v0.1 | Exact Asset Specification
+> **Execution note added 2026-11-17:** This is the **original November 15 specification**, not the current asset-approval ledger. Actual production diverged from its CP-06 “before bounded question” wording: the generated CP-06 candidate includes a proposed written question but has a viewer-facing perspective problem. See [the reconciliation receipt](B03.11K_CONTINUITY_RECONCILIATION_2026-11-17.md). Do not mark this spec retroactively complete or silently revise its original acceptance criteria.
+
 
 > **Companion:** [Master Experiment Map](MASTER_EXPERIMENT_MAP_v01.md). **Purpose:** produce a small, reusable **visual identity** that supports consistent future shot anchors, rather than six independent attractive pictures. This document specifies the next six AI-generated reference stills and their derivation trails. **No images are marked complete yet.**
 

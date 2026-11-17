@@ -4,12 +4,14 @@ version: "0.1"
 date: "2026-11-15"
 status: "Living orientation and control artifact; film-wide shot spine working, no finished film"
 control_scope: "The Human at the Door, first adaptation unit, PDF pp. 7-11"
-current_brick: "B03.11J: orientation artifacts"
-next_brick: "B03.11K: AI-first continuity reference production"
+current_brick: "B03.11K: continuity pack reconciliation and CP-06 review"
+next_brick: "One controlled S09-to-S11 scribble and typography motion test after CP-06 review"
 ownership: "Studio derives and executes; author reviews consequential meaning and art-direction results"
 ---
 
 # Film 001 | THE FOG | Master Experiment Map v0.1
+> **CURRENT OVERRIDE, 2026-11-17:** The 2026-11-15 history below correctly records early failed CP-02 attempts, but its “none CP-02..06” handoff has been superseded. See [B03.11K continuity reconciliation](B03.11K_CONTINUITY_RECONCILIATION_2026-11-17.md) and [the local working-master manifest](LOCAL_WORKING_MASTER_MANIFEST_v01.md). The next gate is evidence/approval reconciliation and a directed **S09 to S11 scribble/typography motion test**, not regenerating CP-02. Preserve the original six-image specification as historical scope; CP-06 still needs review.
+
 
 > **READ THIS FIRST each session.** This map answers **where we are, what is established, what remains uncertain, which evidence and forces led here, and what the next controlled production step is**. It is the index and status surface, **not** a replacement for primary source, source-grounded A01, signed decisions, individual shot contracts, or A06 receipts.
 

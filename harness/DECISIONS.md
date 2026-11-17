@@ -223,3 +223,25 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Governance direction approved:** The studio must expose a visible source -> force/question -> shot/asset -> generation -> evidence -> revision trail; keep playback order and production order separate; maintain one current/next step with updates after each brick. The studio owns routine AI-first production.
 **Not implied:** Author approval of each of 13 proposed shots, exact 73s film runtime, particular actor identity or biography, six nonexistent continuity images, final screenplay, provider motion results or research force validation.
 **Next brick:** **B03.11K**, generate CP-01 to CP-06 as a coherent reference family using AI images, with asset manifest, side-by-side review and a new A06 continuity receipt. No physical filming or arbitrary user shot-selection required.
+
+
+### D-030 | 2026-11-15 to 2026-11-17 | Accept continuity anchors without conflating static and final approval
+
+**Author actions:** Explicit CP-02 approval; CP-03 and CP-04 accepted for progression; CP-05 S09 static hesitation framing accepted; CP-06 was submitted for review, not explicitly locked.
+**Decision:** Preserve the selected recurring Black/African character, hand/pen/notebook, 9:16 composition and black/white engraving as the continuity source. Reference-preserving composites supersede the *method* of generic new scene rerolls, not the history of rejected tries.
+**Evidence:** [B03.11K reconciliation receipt](../stories/001-human-at-the-door/B03.11K_CONTINUITY_RECONCILIATION_2026-11-17.md).
+**Boundary:** No verified actor motion; CP-06 page lettering has incorrect writer-facing orientation; hypothetical financial obligation must not be mistaken for sourced biography. Earlier CP-01 c02 candidate/source identity is still pending hash cross-reference.
+
+### D-031 | 2026-11-17 | Choose expressive scribble plus typography to carry a smaller inquiry
+
+**Author direction:** The author proposed that the person could scribble while words appear as typography, a small screen patch, a writer's perspective or typography alone; then agreed to explore variants and selected a generated **scribble + white typography** visual (“perfect”).
+**Decision:** Physical pen marks need not carry all readable meaning. Separate a **diegetic gesture** from a **non-diegetic expressive typography** layer. Author-selected visual direction is not automatic approval of a new character generated in the reference image.
+**Scope:** Locally selected expressive treatment, not screenplay approval, physical writing orientation approval, or finished motion.
+**Next:** Test legible typography reveal in a protected CP-05 layer composition, compare with physical scribble action and source meaning.
+
+### D-032 | 2026-11-17 | One editable film master; GitHub remains the continuity layer
+
+**Author agreement:** “i absolutely agree”, following a correction that generative image tests had produced separate flattened files rather than continuing in the same editable project. The author subsequently required reconciliation with this original GitHub repository before further animation.
+**Decision:** Keep a single native layered **working master**, preserve approved source pixels, separate graphics/effects/scribble, and use versioned take files for experiments. Align [master manifest](../stories/001-human-at-the-door/LOCAL_WORKING_MASTER_MANIFEST_v01.md), asset statuses, author decisions and a dated production receipt in this repository.
+**Boundary:** Neither the newly generated reference nor the master itself has proved actor motion. Public GitHub stores metadata and decisions; large generated media custody and rights review remain open.
+

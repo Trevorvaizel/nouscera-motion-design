@@ -1,4 +1,6 @@
 # Film 001 | The Human at the Door
+> **LIVE 2026-11-17:** [Continuity reconciliation](B03.11K_CONTINUITY_RECONCILIATION_2026-11-17.md) and [local working master](LOCAL_WORKING_MASTER_MANIFEST_v01.md) supersede the CP-01/CP-02-only state described in historical paragraphs below. This does not lock CP-06 or establish real animated human movement.
+
 
 **START HERE:** [Master Experiment Map v0.1](MASTER_EXPERIMENT_MAP_v01.md) tracks the current brick, 13-shot order, source/force derivations, experiment receipts and checklists. **NEXT:** [Continuity Pack v0.1 Specification](CONTINUITY_PACK_SPEC_v01.md), six linked AI reference stills to generate under B03.11K. Historical sections below document earlier branches, **not separate current instructions**.
 

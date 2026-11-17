@@ -1,4 +1,8 @@
 # Studio status
+> **LIVE STATE: 2026-11-17.** B03.11K has advanced beyond the 2026-11-15 snapshots. CP-02 was subsequently approved; CP-03 and CP-04 were accepted for progression; CP-05 is an approved **static** hesitation anchor; CP-06 remains a creative-review candidate. A separate scribble-plus-typography treatment was selected, and one layered local Krita working master now exists. There is **no verified moving hand, final 13-shot cut, approved CP-06 action, or cold-viewer result**. Read [the 2026-11-17 reconciliation receipt](stories/001-human-at-the-door/B03.11K_CONTINUITY_RECONCILIATION_2026-11-17.md) before acting on older “CP-02 next” instructions.
+
+**Immediate action:** finish B03.11K evidence and CP-06 review, then produce **one actual S09-to-S11 scribble + typography action test** using the protected local working master. Issue #11 stays open. 2026-11-15 sections below remain chronological history.
+
 
 **As of:** 2026-11-15  
 **Project:** Nouscera Motion Design  

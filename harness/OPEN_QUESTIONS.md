@@ -43,3 +43,15 @@ A question is closed only when an artifact, decision, or test resolves it; mark 
 ## Do not confuse uncertainties
 
 An unresolved artistic choice is not the same as missing empirical evidence. A production risk is not the same as ambiguity in the author's claim. Keep each in the correct register.
+
+
+## November 17 reconciliation for the active production questions
+
+**OQ-022 status correction:** Six CP-labelled visual candidates have now been made, but they are **not six equally approved reference masters**. CP-02 was approved; CP-03/04 accepted for progression; CP-05 approved as static; CP-06 needs revised orientation/semantic review. The earlier row's “none generated” statement is a 2026-11-15 historical snapshot. See [dated reconciliation](../stories/001-human-at-the-door/B03.11K_CONTINUITY_RECONCILIATION_2026-11-17.md). Do not close issue #11 solely because images exist.
+
+| ID | Current question | Blocking | Next evidence |
+|---|---|---|---|
+| **OQ-023** | Can the S09-to-S11 scribble and expressive typography communicate a changed inquiry while preserving CP-05's face and engraved line language? | **Next directed motion proof** | Short actual animated gesture plus independently timed typography, preservation comparison and author review |
+| **OQ-024** | Can CP-06's page orientation and its relationship to the original “before inquiry” spec be reconciled without claiming new authorship as source truth? | **CP-06 approval** | Corrected candidate/scene-function review; exact phrase remains proposed |
+| **OQ-025** | Where do approved generated image/video assets live as restorable, versioned copies outside the conversation? | **Archive reliability** | Rights/publication decision and verified external backup or Git LFS/object-storage policy, without leaking private source text |
+
