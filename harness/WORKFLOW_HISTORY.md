@@ -75,3 +75,28 @@ Do not overwrite the previous workflow rationale when a new one supersedes it.
 **Status:** Adopted operating orientation. The two artifacts are created; B03.11K image generation remains to be executed. Earlier W-005 historical statement “no passage selected” is **now obsolete**, not a current source decision.
 
 **Failure guard:** If the map and STATUS disagree, reconcile and cite the actual latest decision. Do not close a brick merely because a specification was written when its deliverable is actual visual output. Keep an author-visible film, asset and source lineage alongside its documentation.
+
+
+## W-007 | 2026-11-17 | Layer-preserving local AI edits replace broad re-rendering
+
+**From:** New-image prompts tried to preserve a specific approved face, workspace, engraved texture, props and camera angle simultaneously. The model often returned visual imitations instead.
+**To:** Maintain an immutable selected CP-05 source layer, protected composites, small masks and independent graphical inserts. Use Krita layers and ComfyUI for constrained generation, then verify the exact changed pixels and record what the model actually changed.
+**Evidence:** Local FLUX.2 4B FP8 inference successful; masked trial changed 63 accepted pixels inside a 36 x 25 region and none outside. A separate deterministic trial changed 77 pixels. Original engraving remained exact in protected regions.
+**Limit:** These results demonstrate local controlled compositing, not successful scene-wide identity preservation or human motion.
+**Status:** Adopted working production method for continuity-sensitive film shots.
+
+## W-008 | 2026-11-17 | Separate enacted gesture from expressive semantic typography
+
+**From:** Try to communicate a smaller question using near-invisible ink on a perspective-distorted notebook page. CP-06 lettering oriented toward the viewer rather than the character.
+**To:** Let a believable scribble or hesitation carry physical action while separately controlled typography carries readable meaning in negative black space, or use an actual perspective insert if appropriate.
+**Reason:** Semantic clarity and physical plausibility need not be forced into one 36 x 25 region.
+**Author status:** Scribble plus typography selected as visual direction. The exact proposed wording and animation remain working.
+**Failure guard:** Pure type or camera motion cannot be passed off as actual actor performance.
+
+## W-009 | 2026-11-17 | Continuous editable master plus versioned tests and repository continuity
+
+**From:** Each generated alternative risked becoming an isolated new “master” and leaving old repository handoffs stale.
+**To:** Preserve an immutable approved CP-05 source in one native layered Krita master, maintain distinct typography/scribble/effects layers, preserve experimental versions and keep repository status, decisions, receipts and asset lineage reconciled.
+**Evidence:** Native KRA master and preview generated locally and verified for pixel-exact preservation of its source; [working master manifest](../stories/001-human-at-the-door/LOCAL_WORKING_MASTER_MANIFEST_v01.md).
+**Boundary:** The working master's existence is not evidence of completed actor motion, CP-06 final approval or externally archived media.
+
