@@ -1,0 +1,13 @@
+{
+  "experiment": "MCI09 integrated v02",
+  "revision": 10,
+  "preview_id": "bfa4e925-3e75-49ca-a125-e80d4cf0baab",
+  "review_comment_id": "e4c0b0f9-1d79-4306-acd8-8ed47aefbf83",
+  "video_sha256": "9490f502cbfc324e08fdba017911c23a437ea755a3b123fbfd2187a33759ddbe",
+  "blend_sha256": "37e1b8b1d229bd1883a8aa1130d62bd476b6644c23869d38ffc0aecfdceb6e0c",
+  "motion_candidates": 10,
+  "creative_approval": false,
+  "readiness": "blocked",
+  "native_blender_render": true,
+  "frames": 48
+}

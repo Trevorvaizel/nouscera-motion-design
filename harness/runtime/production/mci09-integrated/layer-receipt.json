@@ -1,0 +1,833 @@
+{
+  "scene": "CP05",
+  "experiment": "MCI09 integrated v02",
+  "source_sha256": "354c4d5d7bba985a9ad9f009d7a3f9ded58e161ca0a51f13362fe7f9373d11e5",
+  "paper_sha256": "bf217f96a89ab1e88570cd5d2c53e25e6cbd2f4f7cf58b5116d7989af19c23be",
+  "reference_video_sha256": "055f8f2665f71c04d41246f2b70eb4af7ffc7b04b7b9d2f392622c61ff136e00",
+  "reference_manual_samples": [
+    [
+      0.0,
+      600.0,
+      1007.0
+    ],
+    [
+      4.0,
+      624.0,
+      998.0
+    ],
+    [
+      8.0,
+      618.0,
+      1000.0
+    ],
+    [
+      12.0,
+      601.0,
+      1015.0
+    ],
+    [
+      16.0,
+      600.0,
+      1016.0
+    ],
+    [
+      20.0,
+      588.0,
+      1026.0
+    ],
+    [
+      24.0,
+      573.0,
+      1029.0
+    ],
+    [
+      28.0,
+      565.0,
+      1023.0
+    ]
+  ],
+  "displacement_scale": 0.62,
+  "frames": 48,
+  "fps": 24,
+  "first_frame_exact": true,
+  "max_protected_changes": 0,
+  "tracks": [
+    {
+      "frame": 1,
+      "tip": [
+        607.0,
+        1000.0
+      ],
+      "grip": [
+        528.0,
+        936.0
+      ],
+      "pen_angle": 0.0,
+      "head_angle": -0.0,
+      "protected_pixels": 647007,
+      "protected_changes": 0,
+      "ink_pixels": 0
+    },
+    {
+      "frame": 2,
+      "tip": [
+        607.0,
+        1000.0
+      ],
+      "grip": [
+        528.0,
+        936.0
+      ],
+      "pen_angle": 0.0,
+      "head_angle": -0.0,
+      "protected_pixels": 647007,
+      "protected_changes": 0,
+      "ink_pixels": 0
+    },
+    {
+      "frame": 3,
+      "tip": [
+        607.0,
+        1000.0
+      ],
+      "grip": [
+        528.0,
+        936.0
+      ],
+      "pen_angle": 0.0,
+      "head_angle": -0.0,
+      "protected_pixels": 647007,
+      "protected_changes": 0,
+      "ink_pixels": 0
+    },
+    {
+      "frame": 4,
+      "tip": [
+        607.0,
+        1000.0
+      ],
+      "grip": [
+        528.0,
+        936.0
+      ],
+      "pen_angle": 0.0,
+      "head_angle": -0.0,
+      "protected_pixels": 647007,
+      "protected_changes": 0,
+      "ink_pixels": 0
+    },
+    {
+      "frame": 5,
+      "tip": [
+        607.0,
+        1000.0
+      ],
+      "grip": [
+        528.0,
+        936.0
+      ],
+      "pen_angle": 0.0,
+      "head_angle": -0.0,
+      "protected_pixels": 647007,
+      "protected_changes": 0,
+      "ink_pixels": 0
+    },
+    {
+      "frame": 6,
+      "tip": [
+        607.0,
+        1000.0
+      ],
+      "grip": [
+        528.0,
+        936.0
+      ],
+      "pen_angle": 0.0,
+      "head_angle": -0.0008051933340241439,
+      "protected_pixels": 646783,
+      "protected_changes": 0,
+      "ink_pixels": 0
+    },
+    {
+      "frame": 7,
+      "tip": [
+        607.0,
+        1000.0
+      ],
+      "grip": [
+        528.0,
+        936.0
+      ],
+      "pen_angle": 0.0,
+      "head_angle": -0.0016035170424255672,
+      "protected_pixels": 646724,
+      "protected_changes": 0,
+      "ink_pixels": 0
+    },
+    {
+      "frame": 8,
+      "tip": [
+        607.0,
+        1000.0
+      ],
+      "grip": [
+        528.0,
+        936.0
+      ],
+      "pen_angle": 0.0,
+      "head_angle": -0.0023881601088052,
+      "protected_pixels": 646652,
+      "protected_changes": 0,
+      "ink_pixels": 0
+    },
+    {
+      "frame": 9,
+      "tip": [
+        610.2550001144409,
+        998.779375076294
+      ],
+      "grip": [
+        531.4850742258346,
+        934.4964164052474
+      ],
+      "pen_angle": 0.003586974717326711,
+      "head_angle": -0.0031524282351780447,
+      "protected_pixels": 645192,
+      "protected_changes": 0,
+      "ink_pixels": 0
+    },
+    {
+      "frame": 10,
+      "tip": [
+        613.5100002288818,
+        997.5587501525879
+      ],
+      "grip": [
+        534.9667939587197,
+        932.9989735978106
+      ],
+      "pen_angle": 0.007106294359860216,
+      "head_angle": -0.003889800955363239,
+      "protected_pixels": 643892,
+      "protected_changes": 0,
+      "ink_pixels": 15
+    },
+    {
+      "frame": 11,
+      "tip": [
+        616.7650003433228,
+        996.3381249904633
+      ],
+      "grip": [
+        538.4407969932049,
+        931.512827694042
+      ],
+      "pen_angle": 0.010491579916762582,
+      "head_angle": -0.004593987265302461,
+      "protected_pixels": 642561,
+      "protected_changes": 0,
+      "ink_pixels": 24
+    },
+    {
+      "frame": 12,
+      "tip": [
+        620.0200004577637,
+        995.1175003051758
+      ],
+      "grip": [
+        541.9028188119964,
+        930.0428821217228
+      ],
+      "pen_angle": 0.013678980436856966,
+      "head_angle": -0.005258979295688411,
+      "protected_pixels": 641301,
+      "protected_changes": 0,
+      "ink_pixels": 35
+    },
+    {
+      "frame": 13,
+      "tip": [
+        621.53125,
+        994.5362501144409
+      ],
+      "grip": [
+        543.6050326425184,
+        929.2330752425058
+      ],
+      "pen_angle": 0.016608377341793424,
+      "head_angle": -0.005879103568987421,
+      "protected_pixels": 640616,
+      "protected_changes": 0,
+      "ink_pixels": 39
+    },
+    {
+      "frame": 14,
+      "tip": [
+        620.7174997329712,
+        994.8074998855591
+      ],
+      "grip": [
+        542.9623911647312,
+        929.3006827476365
+      ],
+      "pen_angle": 0.01922451834173976,
+      "head_angle": -0.0064490694035493614,
+      "protected_pixels": 640778,
+      "protected_changes": 0,
+      "ink_pixels": 39
+    },
+    {
+      "frame": 15,
+      "tip": [
+        619.9037504196167,
+        995.0787501335144
+      ],
+      "grip": [
+        542.2964614769043,
+        929.3968751377262
+      ],
+      "pen_angle": 0.021478059566451792,
+      "head_angle": -0.006964014051838046,
+      "protected_pixels": 640938,
+      "protected_changes": 0,
+      "ink_pixels": 39
+    },
+    {
+      "frame": 16,
+      "tip": [
+        619.0900001525879,
+        995.3499999046326
+      ],
+      "grip": [
+        541.6042525093837,
+        929.5247850384911
+      ],
+      "pen_angle": 0.023326496255756272,
+      "head_angle": -0.007419544187678644,
+      "protected_pixels": 641124,
+      "protected_changes": 0,
+      "ink_pixels": 39
+    },
+    {
+      "frame": 17,
+      "tip": [
+        618.2762498855591,
+        995.6212496757507
+      ],
+      "grip": [
+        540.8832917910037,
+        929.6869639256618
+      ],
+      "pen_angle": 0.02473496445539634,
+      "head_angle": -0.007811773388567565,
+      "protected_pixels": 641306,
+      "protected_changes": 0,
+      "ink_pixels": 39
+    },
+    {
+      "frame": 18,
+      "tip": [
+        616.1837501525879,
+        997.4037499427795
+      ],
+      "grip": [
+        538.8529321367707,
+        931.3965943836694
+      ],
+      "pen_angle": 0.025676898597198284,
+      "head_angle": -0.008137355293258946,
+      "protected_pixels": 642147,
+      "protected_changes": 0,
+      "ink_pixels": 41
+    },
+    {
+      "frame": 19,
+      "tip": [
+        613.8781247138977,
+        999.4381248950958
+      ],
+      "grip": [
+        536.577521910898,
+        933.3955870403702
+      ],
+      "pen_angle": 0.026134532560730298,
+      "head_angle": -0.008393512151738907,
+      "protected_pixels": 643096,
+      "protected_changes": 0,
+      "ink_pixels": 46
+    },
+    {
+      "frame": 20,
+      "tip": [
+        611.5724997520447,
+        1001.4724999666214
+      ],
+      "grip": [
+        534.2695658412413,
+        935.4326906938657
+      ],
+      "pen_angle": 0.026099234765769325,
+      "head_angle": -0.008578058524009259,
+      "protected_pixels": 644018,
+      "protected_changes": 0,
+      "ink_pixels": 52
+    },
+    {
+      "frame": 21,
+      "tip": [
+        609.2668750286102,
+        1003.506875038147
+      ],
+      "grip": [
+        531.9291116649339,
+        937.5078571825455
+      ],
+      "pen_angle": 0.025571670975290107,
+      "head_angle": -0.008689419925491012,
+      "protected_pixels": 644737,
+      "protected_changes": 0,
+      "ink_pixels": 58
+    },
+    {
+      "frame": 22,
+      "tip": [
+        607.5812500119209,
+        1004.9987502098083
+      ],
+      "grip": [
+        530.1768750584698,
+        939.0778677971347
+      ],
+      "pen_angle": 0.024561791738297256,
+      "head_angle": -0.008726646259971648,
+      "protected_pixels": 645062,
+      "protected_changes": 0,
+      "ink_pixels": 63
+    },
+    {
+      "frame": 23,
+      "tip": [
+        607.4456250071526,
+        1005.1343750953674
+      ],
+      "grip": [
+        529.9442229267618,
+        939.3275921959307
+      ],
+      "pen_angle": 0.023088644709345126,
+      "head_angle": -0.008689419925491012,
+      "protected_pixels": 645100,
+      "protected_changes": 0,
+      "ink_pixels": 64
+    },
+    {
+      "frame": 24,
+      "tip": [
+        607.3100000023842,
+        1005.2699999809265
+      ],
+      "grip": [
+        529.6831384062098,
+        939.6112583030024
+      ],
+      "pen_angle": 0.02118001538464692,
+      "head_angle": -0.008578058524009259,
+      "protected_pixels": 645137,
+      "protected_changes": 0,
+      "ink_pixels": 64
+    },
+    {
+      "frame": 25,
+      "tip": [
+        607.1743749976158,
+        1005.4056248664856
+      ],
+      "grip": [
+        529.3961725571116,
+        939.9262294422459
+      ],
+      "pen_angle": 0.018871903030963914,
+      "head_angle": -0.008393512151738907,
+      "protected_pixels": 645198,
+      "protected_changes": 0,
+      "ink_pixels": 64
+    },
+    {
+      "frame": 26,
+      "tip": [
+        607.038750000298,
+        1005.5412497520447
+      ],
+      "grip": [
+        529.0863826447364,
+        940.2692923456395
+      ],
+      "pen_angle": 0.016207841691947226,
+      "head_angle": -0.008137355293258946,
+      "protected_pixels": 645233,
+      "protected_changes": 0,
+      "ink_pixels": 64
+    },
+    {
+      "frame": 27,
+      "tip": [
+        605.8374999761581,
+        1006.548749923706
+      ],
+      "grip": [
+        527.6916344365343,
+        941.5085800356819
+      ],
+      "pen_angle": 0.01323807907864824,
+      "head_angle": -0.007811773388567565,
+      "protected_pixels": 645206,
+      "protected_changes": 0,
+      "ink_pixels": 70
+    },
+    {
+      "frame": 28,
+      "tip": [
+        604.210000038147,
+        1007.9049997329712
+      ],
+      "grip": [
+        525.8551462543428,
+        943.1167532023028
+      ],
+      "pen_angle": 0.010018628831405774,
+      "head_angle": -0.007419544187678644,
+      "protected_pixels": 644932,
+      "protected_changes": 0,
+      "ink_pixels": 73
+    },
+    {
+      "frame": 29,
+      "tip": [
+        602.5824999809265,
+        1009.2612495422363
+      ],
+      "grip": [
+        524.0072765413174,
+        944.7404446695791
+      ],
+      "pen_angle": 0.00661021402870102,
+      "head_angle": -0.006964014051838047,
+      "protected_pixels": 644596,
+      "protected_changes": 0,
+      "ink_pixels": 79
+    },
+    {
+      "frame": 30,
+      "tip": [
+        600.954999923706,
+        1010.6174993515015
+      ],
+      "grip": [
+        522.1523094251116,
+        946.374710104904
+      ],
+      "pen_angle": 0.00307712186979674,
+      "head_angle": -0.0064490694035493614,
+      "protected_pixels": 644248,
+      "protected_changes": 0,
+      "ink_pixels": 84
+    },
+    {
+      "frame": 31,
+      "tip": [
+        599.2693748474121,
+        1011.8381252288818
+      ],
+      "grip": [
+        520.2364887174973,
+        947.878740382122
+      ],
+      "pen_angle": -0.0005140088666429146,
+      "head_angle": -0.0058791035689874215,
+      "protected_pixels": 643938,
+      "protected_changes": 0,
+      "ink_pixels": 88
+    },
+    {
+      "frame": 32,
+      "tip": [
+        597.2349996566772,
+        1012.2449998855591
+      ],
+      "grip": [
+        517.9735544468834,
+        948.569075838437
+      ],
+      "pen_angle": -0.004095444717821985,
+      "head_angle": -0.005258979295688412,
+      "protected_pixels": 643922,
+      "protected_changes": 0,
+      "ink_pixels": 94
+    },
+    {
+      "frame": 33,
+      "tip": [
+        595.2006254196167,
+        1012.6518745422363
+      ],
+      "grip": [
+        515.7165347461935,
+        949.2540880681091
+      ],
+      "pen_angle": -0.007599635079269186,
+      "head_angle": -0.004593987265302465,
+      "protected_pixels": 643706,
+      "protected_changes": 0,
+      "ink_pixels": 100
+    },
+    {
+      "frame": 34,
+      "tip": [
+        593.1662502288818,
+        1013.0587501525879
+      ],
+      "grip": [
+        513.4695383273502,
+        949.9284554274383
+      ],
+      "pen_angle": -0.010960486298345127,
+      "head_angle": -0.00388980095536324,
+      "protected_pixels": 643494,
+      "protected_changes": 0,
+      "ink_pixels": 106
+    },
+    {
+      "frame": 35,
+      "tip": [
+        591.131875038147,
+        1013.4656257629395
+      ],
+      "grip": [
+        511.23643924644887,
+        950.5870177976334
+      ],
+      "pen_angle": -0.01411460828771599,
+      "head_angle": -0.0031524282351780477,
+      "protected_pixels": 643508,
+      "protected_changes": 0,
+      "ink_pixels": 112
+    },
+    {
+      "frame": 36,
+      "tip": [
+        589.6399993896484,
+        1013.1750001907349
+      ],
+      "grip": [
+        509.5633097643879,
+        950.5273842851021
+      ],
+      "pen_angle": -0.017002510146019438,
+      "head_angle": -0.0023881601088052017,
+      "protected_pixels": 643420,
+      "protected_changes": 0,
+      "ink_pixels": 118
+    },
+    {
+      "frame": 37,
+      "tip": [
+        588.5550003051758,
+        1012.361249923706
+      ],
+      "grip": [
+        508.3177450153788,
+        949.9194140797789
+      ],
+      "pen_angle": -0.01956972223473943,
+      "head_angle": -0.0016035170424255674,
+      "protected_pixels": 643749,
+      "protected_changes": 0,
+      "ink_pixels": 121
+    },
+    {
+      "frame": 38,
+      "tip": [
+        587.4699993133545,
+        1011.5475006103516
+      ],
+      "grip": [
+        507.0956844918127,
+        949.2821850890465
+      ],
+      "pen_angle": -0.021767823547440238,
+      "head_angle": -0.0008051933340241465,
+      "protected_pixels": 643752,
+      "protected_changes": 0,
+      "ink_pixels": 124
+    },
+    {
+      "frame": 39,
+      "tip": [
+        586.3850002288818,
+        1010.7337503433228
+      ],
+      "grip": [
+        505.8995126658306,
+        948.6122058379104
+      ],
+      "pen_angle": -0.02355535499382067,
+      "head_angle": -1.0687059409565499e-18,
+      "protected_pixels": 644056,
+      "protected_changes": 0,
+      "ink_pixels": 127
+    },
+    {
+      "frame": 40,
+      "tip": [
+        585.2999992370605,
+        1009.920000076294
+      ],
+      "grip": [
+        504.73113976979397,
+        947.9066234213831
+      ],
+      "pen_angle": -0.0248986013728463,
+      "head_angle": -1.0687059409565499e-18,
+      "protected_pixels": 644185,
+      "protected_changes": 0,
+      "ink_pixels": 130
+    },
+    {
+      "frame": 41,
+      "tip": [
+        585.2999992370605,
+        1009.920000076294
+      ],
+      "grip": [
+        504.73113976979397,
+        947.9066234213831
+      ],
+      "pen_angle": -0.0248986013728463,
+      "head_angle": -1.0687059409565499e-18,
+      "protected_pixels": 644185,
+      "protected_changes": 0,
+      "ink_pixels": 130
+    },
+    {
+      "frame": 42,
+      "tip": [
+        585.2999992370605,
+        1009.920000076294
+      ],
+      "grip": [
+        504.73113976979397,
+        947.9066234213831
+      ],
+      "pen_angle": -0.0248986013728463,
+      "head_angle": -1.0687059409565499e-18,
+      "protected_pixels": 644185,
+      "protected_changes": 0,
+      "ink_pixels": 130
+    },
+    {
+      "frame": 43,
+      "tip": [
+        585.2999992370605,
+        1009.920000076294
+      ],
+      "grip": [
+        504.73113976979397,
+        947.9066234213831
+      ],
+      "pen_angle": -0.0248986013728463,
+      "head_angle": -1.0687059409565499e-18,
+      "protected_pixels": 644185,
+      "protected_changes": 0,
+      "ink_pixels": 130
+    },
+    {
+      "frame": 44,
+      "tip": [
+        585.2999992370605,
+        1009.920000076294
+      ],
+      "grip": [
+        504.73113976979397,
+        947.9066234213831
+      ],
+      "pen_angle": -0.0248986013728463,
+      "head_angle": -1.0687059409565499e-18,
+      "protected_pixels": 644185,
+      "protected_changes": 0,
+      "ink_pixels": 130
+    },
+    {
+      "frame": 45,
+      "tip": [
+        585.2999992370605,
+        1009.920000076294
+      ],
+      "grip": [
+        504.73113976979397,
+        947.9066234213831
+      ],
+      "pen_angle": -0.0248986013728463,
+      "head_angle": -1.0687059409565499e-18,
+      "protected_pixels": 644185,
+      "protected_changes": 0,
+      "ink_pixels": 130
+    },
+    {
+      "frame": 46,
+      "tip": [
+        585.2999992370605,
+        1009.920000076294
+      ],
+      "grip": [
+        504.73113976979397,
+        947.9066234213831
+      ],
+      "pen_angle": -0.0248986013728463,
+      "head_angle": -1.0687059409565499e-18,
+      "protected_pixels": 644185,
+      "protected_changes": 0,
+      "ink_pixels": 130
+    },
+    {
+      "frame": 47,
+      "tip": [
+        585.2999992370605,
+        1009.920000076294
+      ],
+      "grip": [
+        504.73113976979397,
+        947.9066234213831
+      ],
+      "pen_angle": -0.0248986013728463,
+      "head_angle": -1.0687059409565499e-18,
+      "protected_pixels": 644185,
+      "protected_changes": 0,
+      "ink_pixels": 130
+    },
+    {
+      "frame": 48,
+      "tip": [
+        585.2999992370605,
+        1009.920000076294
+      ],
+      "grip": [
+        504.73113976979397,
+        947.9066234213831
+      ],
+      "pen_angle": -0.0248986013728463,
+      "head_angle": -1.0687059409565499e-18,
+      "protected_pixels": 644185,
+      "protected_changes": 0,
+      "ink_pixels": 130
+    }
+  ],
+  "creative_approval": false,
+  "readiness": "blocked; experimental preview only",
+  "limitations": [
+    "Manually sampled approximate nib path, scaled for constrained reveal; no automatic contact validation",
+    "Nearby source garment texture and nearest-source edge extrapolation, not full hidden-surface reconstruction",
+    "Independent estimated shadow and planar head nod; no validated gaze/cloth simulation",
+    "Source-lock initial still transitions to composed layers",
+    "Raster-generated per-frame layers, native Blender VSE composition to follow"
+  ]
+}
