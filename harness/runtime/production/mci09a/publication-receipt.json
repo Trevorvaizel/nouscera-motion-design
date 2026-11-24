@@ -1,0 +1,40 @@
+{
+  "scene": "CP05",
+  "experiment": "MCI09-A",
+  "trials": [
+    {
+      "trial": 1,
+      "preview_id": "a2d8656a-2d94-4716-80a4-e99751901afa",
+      "board_sha256": "2819392fe0b5ab87511962024919ee5eb75adf3bfb659cade0a558fec570cb69",
+      "review": "internal_rejection"
+    },
+    {
+      "trial": 2,
+      "preview_id": "9b33b361-7b9a-4b58-ace9-42c8f7f6ebbc",
+      "board_sha256": "ef6f2bbeff49aba498d2da971809185628533804dc93ffb2335dc2f7493b32c0",
+      "review": "internal_rejection"
+    },
+    {
+      "trial": 3,
+      "preview_id": "7ab0db93-1e7a-4268-9b6b-6ed43541cc97",
+      "board_sha256": "28a90d6855a76a211db25ff37b5cf786d4368c4dd2b31bb4dca2a5ef7d244c27",
+      "review": "candidate"
+    }
+  ],
+  "native_review_comment_id": "b23b5ed1-8760-41fd-943b-888871154d91",
+  "native_verification": {
+    "source_unchanged": true,
+    "native_document": true,
+    "layer_count": 5,
+    "locked_original": true,
+    "native_opaque_pixels": 65671,
+    "native_projection_max_abs_delta_opaque": 0,
+    "native_projection_mean_abs_delta_opaque": 0.0,
+    "kra_sha256": "c8b6878cf65bb716b8af3e1866707ccbc6a06219e383f41fa2661ffc883cbc9f",
+    "review_status": "pending author review",
+    "creative_approval": false
+  },
+  "preparation_status": "blocked",
+  "motion_candidates": 9,
+  "creative_approval": false
+}
