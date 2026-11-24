@@ -1,0 +1,23 @@
+{
+  "revision": 12,
+  "preview_id": "caf0fc20-7135-4506-9197-7efd2a17dc5c",
+  "review_comment_id": "99e0ed9a-d0cb-4ffc-b862-484952ba32c6",
+  "motion_candidates": 12,
+  "experiment": "MCI09 V12 local sleeve seam repair",
+  "native_blender_render": true,
+  "frames": 48,
+  "fps": 24,
+  "resolution": [
+    720,
+    1280
+  ],
+  "video_sha256": "d80bc8357cd4346d312e426dd9e4c9faeac7d49ed19879780b0f2ee2a1d0ba06",
+  "blend_sha256": "7d091e9091df7a2252987196a740b840d3f8714fef27655e9d6485bb60b1ddf0",
+  "changed_pixels_outside_patch_all_frames": 0,
+  "changed_pixels_inside_patch_all_frames": 557562,
+  "patch_support_pixels": 26280,
+  "first_frame_exact_to_v11": true,
+  "creative_approval": false,
+  "gate": "blocked; author review pending",
+  "method": "Feathered original source texture anchored at sleeve seam; V11 layers unchanged. Not cloth simulation."
+}
