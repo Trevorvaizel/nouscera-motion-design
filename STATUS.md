@@ -1,3 +1,7 @@
+## WH-002 current operational handoff | 2026-11-24
+
+The observable technical-replay vertical slice is running and verified. Read [WH-002 current state](harness/runtime/observable/current.json), [runtime entry](harness/runtime/observable/README.md) and [actual receipt](harness/receipts/WH-002-OBSERVABLE-WORKFLOW-2026-11-24.md) first. The WH-001 replay contract and its current.json are frozen for replay identity, not superseded by undocumented changes. The author-facing graph is intentionally waiting at technical review. No new animation or creative approval. CP05 hidden-surface readiness remains blocked. Preserve WH-001, existing masters and the local private evidence.
+
 # Active status
 
 **WH-001 CURRENT HANDOFF | 2026-11-24:** The active milestone is workflow/harness reliability, not another creative test. The active state and versioned execution contract are under harness/runtime. The November 17 entries below are historical. CP-05 is static-approved only; no motion or film is approved. The prepared-scene preview showed promising movement but hidden notebook reconstruction remains inadequate. Do not generate a new take until the harness and scene readiness gates are satisfied. No new downloads or n8n installation. Preserve source masters, prior versions and author approval boundaries.

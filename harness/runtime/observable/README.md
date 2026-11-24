@@ -1,0 +1,18 @@
+# WH-002 | Observable intelligent workflow
+
+This is a functioning local vertical slice over WH-001, not a new creative production engine. The graph is actual LangGraph with SQLite checkpoint persistence. The local browser console reads state and events from real executions, exposes registered artifacts, prompts, declared model rationale, verification and review. It provides a bounded start action for the existing technical replay only.
+
+## Entering the milestone
+Read [current.json](current.json), [WH-002 receipt](../../receipts/WH-002-OBSERVABLE-WORKFLOW-2026-11-24.md), then the WH-001 contract in ../workflows. Do not change WH-001 current.json, runner or verifier simply to mark WH-002 complete; their hashes bind earlier receipts. This is a stacked branch on WH-001. Author remains creative authority; no new creative animation permitted while readiness remains blocked.
+
+## Reopening locally
+On the existing authorized workstation, use the local launch script Open-NOUSCERA.cmd in the private wh002 directory or start console_server.py with the isolated virtual environment. Console binds to 127.0.0.1:8765; never expose it publicly. Choose local-demo-01 to inspect the successful run waiting for review, demo-01 for the recorded Codex failure, and the engineering test run for a completed technical receipt. A separate run may be started through the explicit technical replay button. The API does not accept arbitrary commands, file paths or prompts. Review decisions are technical acknowledgments or repair requests, not creative approval.
+
+Runtime installation: Python 3.12, requirements.txt pinned core, full local pip freeze stored in the private directory. Local inference uses an existing GGUF model through a pinned llama.cpp release on authenticated loopback 8766. The model identity and package hash are recorded in the private provider registry. No API keys, models, raw local paths, source art or media are committed. Model server can be shut down when no new replay is needed; console still reads existing checkpoints. Local UI does not require LangSmith account. LangSmith Studio configuration is retained as a candidate only; development server failed in formatter initialization. No tracing or public tunnel enabled.
+
+## Actual operation graph
+context -> preflight -> model -> validate -> replay -> verify -> review -> receipt.
+A missing or invalid provider response routes to review without running replay. Model policy is separate from the provider. Review uses a LangGraph interrupt and resumes by thread id. WH-001 runner executes the known existing operation, preserves source hashes and independently verifies the output. SQLite plus per-run JSON and event records preserve state across process restarts. The local console polls the actual records, not canned statuses. Its artifact view is linked lineage, not a general asset-management system.
+
+## Tests and boundaries
+Run `python -m unittest discover -s harness/runtime/observable/tests -v` in the isolated environment, plus the existing WH-001 tests. The real model answered two separate bounded routing tasks, not an arbitrary production task. Both replays passed. Provider failure and review resume were exercised. This does not prove native Blender rendering, visually validated hidden paper, production-scene transfer or arbitrary interruption recovery. If a live subprocess crashes, inspect both graph and WH-001 locks, reconcile prior effects and preserve outputs; do not blindly restart. No automatic recovery from an interrupted external subprocess has been certified. Technical review UI is local machine access control, not an enterprise authenticated identity system.

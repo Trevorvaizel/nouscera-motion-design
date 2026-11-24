@@ -1,0 +1,12 @@
+{
+  "dependencies": [
+    "langgraph"
+  ],
+  "graphs": {
+    "nouscera": "./graph_runtime.py:graph"
+  },
+  "env": {
+    "LANGSMITH_TRACING": "false",
+    "LANGCHAIN_TRACING_V2": "false"
+  }
+}
