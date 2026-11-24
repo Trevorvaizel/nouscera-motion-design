@@ -1,0 +1,22 @@
+{
+  "unchanged_layers": [
+    "stationary_plate",
+    "pen",
+    "ink",
+    "head"
+  ],
+  "v10_projected_arm_alpha_area": {
+    "minimum_change_pct": -3.625475607888795,
+    "maximum_change_pct": 2.4676124621501705,
+    "peak_to_peak_pct": 6.0930880700389665
+  },
+  "v11_projected_arm_alpha_area": {
+    "minimum_change_pct": -0.046317624862146634,
+    "maximum_change_pct": 0.07178392532303235,
+    "peak_to_peak_pct": 0.11810155018516545
+  },
+  "forearm_length_range_px": 1.1368683772161603e-13,
+  "hand_transform_scale": 1.0,
+  "note": "2D alpha area is a proxy for apparent mass, not physical 3D volume. Cuff blend remains deformable. Shadow analytic approximation.",
+  "creative_approval": false
+}
