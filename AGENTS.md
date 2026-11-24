@@ -48,3 +48,6 @@ Never copy private KIRA source materials, personal/private chats, confidential w
 ## Definition of progress
 
 An output counts as progress when it preserves intended meaning, resolves a concrete uncertainty, improves a specific handoff, or produces interpretable experimental evidence.
+
+## Coordinator authority | 2026-11-24
+Follow [the coordination contract](harness/runtime/workbench/COORDINATION.md). ChatGPT remains the author-invoked cross-application coordinator; local reasoning models and workflow hosts act as bounded delegated capabilities. The demonstrated Desktop Commander to n8n connection is the preferred route for registered operations. Do not transfer creative authority or infer unattended access.
