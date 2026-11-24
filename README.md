@@ -1,3 +1,7 @@
+## WH-002C | Shared observability handoff (2026-11-24)
+
+Current single workbench entry: http://127.0.0.1:8770/. Read [current state](harness/runtime/workbench/surface/current.json), [surface instructions](harness/runtime/workbench/surface/README.md), [actual receipt](harness/receipts/WH-002C-SHARED-OBSERVABILITY-2026-11-24.md). Actual staged preparation audit and registered coordinator/native launch verified; author utility review and actual hidden-surface reconstruction remain open. Do not equate successful audit with creative readiness. ChatGPT remains coordinator.
+
 ## WH-002B | Current workbench handoff (2026-11-24)
 
 Read [current workbench state](harness/runtime/workbench/current.json), [workbench instructions](harness/runtime/workbench/README.md), and [actual receipt](harness/receipts/WH-002B-VISUAL-AGENT-WORKBENCH-2026-11-24.md). Native n8n hosted chat routes real local model decisions to registered operations; all four route tests passed. Existing WH-001/002 remain unchanged. No creative approval; hidden surfaces still block new animation. Author usability review remains open.

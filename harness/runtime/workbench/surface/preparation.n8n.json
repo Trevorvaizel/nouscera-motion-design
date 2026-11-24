@@ -1,0 +1,272 @@
+{
+  "id": "NousceraPrepAudit01",
+  "name": "NOUSCERA | CP05 preparation audit",
+  "active": false,
+  "nodes": [
+    {
+      "id": "bfcdb74b-c28c-4fd8-8ca9-230ba65fc771",
+      "name": "Coordinator delegates preparation audit",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        0,
+        0
+      ],
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "nouscera-preparation-audit-v1",
+        "authentication": "headerAuth",
+        "responseMode": "lastNode",
+        "options": {}
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "NousceraLocalBridge",
+          "name": "NOUSCERA local bridge"
+        }
+      },
+      "webhookId": "nouscera-preparation-audit-v1"
+    },
+    {
+      "id": "e2036738-7458-4d3d-a59e-09178124f000",
+      "name": "Verify protected source",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        260,
+        0
+      ],
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:8770/api/stage",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ run_id: $json.body.run_id, stage: 'source' }) }}",
+        "options": {
+          "timeout": 90000
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "NousceraLocalBridge",
+          "name": "NOUSCERA local bridge"
+        }
+      }
+    },
+    {
+      "id": "e2036738-7458-4d3d-a59e-09178124f001",
+      "name": "Inspect Krita master",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        520,
+        0
+      ],
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:8770/api/stage",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ run_id: $json.run_id, stage: 'krita' }) }}",
+        "options": {
+          "timeout": 90000
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "NousceraLocalBridge",
+          "name": "NOUSCERA local bridge"
+        }
+      }
+    },
+    {
+      "id": "e2036738-7458-4d3d-a59e-09178124f002",
+      "name": "Inspect semantic entities",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        780,
+        0
+      ],
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:8770/api/stage",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ run_id: $json.run_id, stage: 'layers' }) }}",
+        "options": {
+          "timeout": 90000
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "NousceraLocalBridge",
+          "name": "NOUSCERA local bridge"
+        }
+      }
+    },
+    {
+      "id": "e2036738-7458-4d3d-a59e-09178124f003",
+      "name": "Build review evidence",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1040,
+        0
+      ],
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:8770/api/stage",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ run_id: $json.run_id, stage: 'board' }) }}",
+        "options": {
+          "timeout": 90000
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "NousceraLocalBridge",
+          "name": "NOUSCERA local bridge"
+        }
+      }
+    },
+    {
+      "id": "e2036738-7458-4d3d-a59e-09178124f004",
+      "name": "Evaluate readiness",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1300,
+        0
+      ],
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:8770/api/stage",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ run_id: $json.run_id, stage: 'gate' }) }}",
+        "options": {
+          "timeout": 90000
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "NousceraLocalBridge",
+          "name": "NOUSCERA local bridge"
+        }
+      }
+    },
+    {
+      "id": "e2036738-7458-4d3d-a59e-09178124f005",
+      "name": "Persist decision and handoff",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1560,
+        0
+      ],
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:8770/api/stage",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ run_id: $json.run_id, stage: 'receipt' }) }}",
+        "options": {
+          "timeout": 90000
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "NousceraLocalBridge",
+          "name": "NOUSCERA local bridge"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Coordinator delegates preparation audit": {
+      "main": [
+        [
+          {
+            "node": "Verify protected source",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Verify protected source": {
+      "main": [
+        [
+          {
+            "node": "Inspect Krita master",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Inspect Krita master": {
+      "main": [
+        [
+          {
+            "node": "Inspect semantic entities",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Inspect semantic entities": {
+      "main": [
+        [
+          {
+            "node": "Build review evidence",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Build review evidence": {
+      "main": [
+        [
+          {
+            "node": "Evaluate readiness",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Evaluate readiness": {
+      "main": [
+        [
+          {
+            "node": "Persist decision and handoff",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true
+  },
+  "pinData": {}
+}

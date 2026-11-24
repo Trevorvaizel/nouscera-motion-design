@@ -1,0 +1,19 @@
+{
+  "milestone": "WH-002C",
+  "status": "integrated_observability_vertical_slice_verified_author_utility_review_open",
+  "entry": "http://127.0.0.1:8770/",
+  "scene": "CP05",
+  "actual_run": "f44861c25e3d4ce9",
+  "native_n8n_execution_id": "6",
+  "creative_gate": "blocked",
+  "creative_approval": false,
+  "scope": "existing method discovery, live staged preparation audit, model history, native inspection copies, inline artifact access and review note",
+  "limits": [
+    "not universal automatic tracing of arbitrary ChatGPT/Desktop Commander operations",
+    "no actual hidden-surface reconstruction or animation",
+    "review note is durable but not automatic delivery into ChatGPT",
+    "native opening process verified; GUI file load not independently confirmed",
+    "historical graph recovered, not full historical event trace"
+  ],
+  "next": "Author assesses shared workbench utility. Register actual Krita/ComfyUI repair operation and its intermediate artifacts before proceeding to animation."
+}
