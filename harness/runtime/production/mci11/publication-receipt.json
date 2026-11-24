@@ -1,0 +1,43 @@
+{
+  "experiment": "MCI11 integrated native connected armature",
+  "frames": 48,
+  "fps": 24,
+  "resolution": [
+    720,
+    1280
+  ],
+  "video_sha256": "b63dc4b6584ec746be7838805821d2f0786920c6b2331e60ff5404e6c742ace5",
+  "master_sha256": "7a67bd7026121a24231e5d286869563c51459d6b418d7f389fe85b01aa7543be",
+  "rig_master_sha256": "07af2e188938b7cf9348321036e4bfd104b5d50d6e9292b8f7d3cf6f2610e786",
+  "maximum_nib_target_error_px": 0.00016858739404357613,
+  "maximum_joint_gap_px": 0.0,
+  "plate": {
+    "source_sha256": "354c4d5d7bba985a9ad9f009d7a3f9ded58e161ca0a51f13362fe7f9373d11e5",
+    "plate_sha256": "3d579527f7f7848c6d015af7b616dabe244a86075da6e5e5ed75e68fcbd5a072",
+    "original_footprint_pixels": 162858,
+    "swept_reveal_pixels": 28224,
+    "changed_outside_repair": 0,
+    "material_pixels": {
+      "1": 29131,
+      "2": 4529,
+      "3": 117419,
+      "4": 24549
+    },
+    "method": "Actual native alpha sweep, source material samples and existing unapproved Krita paper candidate. No broad MAT and no original-image preservation overlay.",
+    "creative_approval": false,
+    "plate_status": "approximate experimental plate; hidden materials inferred"
+  },
+  "creative_approval": false,
+  "readiness": "blocked; integrated experimental preview",
+  "limitations": [
+    "Sampled stills show softer moving engraving, visible narrow shoulder boundary and bright desk sliver below elbow. Hidden surfaces approximate.",
+    "Pen angle follows connected rig; no independent head motion. Existing ink and shadow sequences reused.",
+    "No source overlay or corrective sleeve patch. Native rig render is a separate scene retained in integrated master, VSE uses rendered foreground; rerender after rig edits. External sequences must be retained.",
+    "No native ComfyUI invocation in this pass; bounded source sampling used for temporary reveal plate; native Krita paper from MCI09A reused, unapproved.",
+    "Nib target error verifies projected rig landmark, not physical contact. Full playback author review pending."
+  ],
+  "revision": 13,
+  "preview_id": "1f80f961-d5bb-4273-924b-c1712c5c3356",
+  "review_comment_id": "8e2893f6-7b89-4d6a-b5d6-f6eeb20b3174",
+  "motion_candidates": 13
+}
