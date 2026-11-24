@@ -9,6 +9,12 @@ next_brick: "One controlled S09-to-S11 scribble and typography motion test after
 ownership: "Studio derives and executes; author reviews consequential meaning and art-direction results"
 ---
 
+# Current experiment override
+
+**WH-001 CURRENT HANDOFF | 2026-11-24:** The active milestone is workflow/harness reliability, not another creative test. The active state and versioned execution contract are under harness/runtime. The November 17 entries below are historical. CP-05 is static-approved only; no motion or film is approved. The prepared-scene preview showed promising movement but hidden notebook reconstruction remains inadequate. Do not generate a new take until the harness and scene readiness gates are satisfied. No new downloads or n8n installation. Preserve source masters, prior versions and author approval boundaries.
+
+See [current operational state](../../harness/runtime/current.json). Existing S09 experiments are technical evidence with unresolved visual quality; CP-06 and final narrative cut remain unapproved.
+
 # Film 001 | THE FOG | Master Experiment Map v0.1
 > **CURRENT OVERRIDE, 2026-11-17:** The 2026-11-15 history below correctly records early failed CP-02 attempts, but its “none CP-02..06” handoff has been superseded. See [B03.11K continuity reconciliation](B03.11K_CONTINUITY_RECONCILIATION_2026-11-17.md) and [the local working-master manifest](LOCAL_WORKING_MASTER_MANIFEST_v01.md). The next gate is evidence/approval reconciliation and a directed **S09 to S11 scribble/typography motion test**, not regenerating CP-02. Preserve the original six-image specification as historical scope; CP-06 still needs review.
 

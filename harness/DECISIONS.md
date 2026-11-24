@@ -245,3 +245,13 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Decision:** Keep a single native layered **working master**, preserve approved source pixels, separate graphics/effects/scribble, and use versioned take files for experiments. Align [master manifest](../stories/001-human-at-the-door/LOCAL_WORKING_MASTER_MANIFEST_v01.md), asset statuses, author decisions and a dated production receipt in this repository.
 **Boundary:** Neither the newly generated reference nor the master itself has proved actor motion. Public GitHub stores metadata and decisions; large generated media custody and rights review remain open.
 
+### D-033 | 2026-11-24 | Separate scene physics and keep exploration bounded
+**Basis:** Repeated failures of raw generation, local masking and broad pixel warp. Prepared-scene prototype improved perceived texture and motion, but hidden notebook surface and acting remain inadequate.
+**Decision scope:** Preserve all existing tools and candidate routes; prepare entities and hidden surfaces before motion; no new model decision without demonstrated capability gap. No final shot approval.
+**Status:** Working research direction, subject to evidence. D-028's AI-first route remains historical context, not exclusive current routing.
+
+### D-034 | 2026-11-24 | Authorize WH-001 workflow/harness engineering before next creative test
+**Authority:** Author explicitly delegated construction of a reliable workflow and harness, with safeguards against context loss, before further testing.
+**Operational decision:** Build on existing repo; register actual workflow lineage, executable contracts, validation, state/checkpoints and bounded model handoff. Keep private assets local; use branch and reviewable change. No orchestration platform or new weights required.
+**Revision trigger:** Reconcile against executed evidence; do not promote mere specifications to reliability or complete creative work. Cross-scene production and model substitution as workers require actual tests.
+**Approval boundary:** Authorization to build and verify engineering infrastructure is not approval of any animation.

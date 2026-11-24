@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-11-24",
+  "active_milestone": "WH-001",
+  "active_mode": "harness_reliability",
+  "creative_gate": "BLOCKED_PENDING_HARNESS_AND_ASSET_READINESS",
+  "active_workflow": "scene-readiness@0.1.0",
+  "approved_static": "CP05 only within its prior approved scope",
+  "approved_animation": false,
+  "approved_film": false,
+  "latest_visual": "CP05_prepared_scene_motion_v02.mp4",
+  "latest_master": "Film001_CP05_PREPARED_SCENE_MASTER_v01.blend",
+  "author_feedback": "Promising prepared-scene motion; hidden notebook surface needs intentional clean reconstruction with Krita/ComfyUI; no shot approval.",
+  "known_failures": [
+    "raw I2V camera and identity drift",
+    "mask-only animation disconnected body motion",
+    "continuous warp bends rigid pen and moves notebook",
+    "approximate hidden paper leaves contact seam",
+    "planar gaze and shadow approximation",
+    "Blender master native-render parity unverified"
+  ],
+  "current_instructions": [
+    "Preserve immutable source and prior versions.",
+    "Do not run a new creative test during WH-001.",
+    "Do not install n8n or download models.",
+    "Treat successful execution, technical verification and author approval separately.",
+    "Do not infer hidden surface quality from protected-pixel equality.",
+    "Krita/ComfyUI clean-plate preparation must be explicit and verified before the next creative generation.",
+    "Use local registry for actual executable assets; never publish private paths, media, secrets or source files.",
+    "Review branch and latest receipt, not outdated historical handoffs."
+  ],
+  "next_after_gate": "Use explicit scene readiness contract for deliberate notebook clean-plate reconstruction and validate asset before animation; human creative review remains required.",
+  "history": [
+    "PR #14 technical I2V smoke",
+    "PR #15 TTS smoke",
+    "PR #16 first acted motion, draft",
+    "Nov 24 MCI01-08 and prepared scene local experiments"
+  ]
+}

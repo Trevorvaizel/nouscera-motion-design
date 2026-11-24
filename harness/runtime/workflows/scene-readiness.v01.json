@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "scene-readiness",
+  "version": "0.1.0",
+  "mode": "replay_only",
+  "status": "experimental_method_replay",
+  "objective": "Reproduce the existing prepared-scene preview in an isolated run without changing any source or creating a new creative candidate.",
+  "inputs": [
+    {
+      "id": "cp05_source",
+      "required": true
+    },
+    {
+      "id": "tracks_v02",
+      "required": true
+    },
+    {
+      "id": "prepared_scene_code",
+      "required": true
+    },
+    {
+      "id": "baseline_video",
+      "required": true
+    },
+    {
+      "id": "baseline_metrics",
+      "required": true
+    },
+    {
+      "id": "kra_master",
+      "required": true
+    },
+    {
+      "id": "prepared_blender_master",
+      "required": true
+    }
+  ],
+  "stages": [
+    {
+      "id": "preflight",
+      "operation": "check_registry_hashes",
+      "outputs": [
+        "preflight.json"
+      ]
+    },
+    {
+      "id": "replay",
+      "operation": "run_frozen_adapter_in_scratch",
+      "outputs": [
+        "scratch/reviews/CP05_prepared_scene_motion_v02.mp4",
+        "scratch/reviews/CP05_prepared_scene_metrics_v02.json",
+        "scratch/reviews/CP05_prepared_scene_tracks_v02.json",
+        "scratch/lossless"
+      ]
+    },
+    {
+      "id": "verify",
+      "operation": "independent_frame_audit",
+      "outputs": [
+        "verification.json"
+      ]
+    },
+    {
+      "id": "receipt",
+      "operation": "record_lineage",
+      "outputs": [
+        "receipt.json"
+      ]
+    }
+  ],
+  "asset_contract": {
+    "required_entities": [
+      "fixed_environment",
+      "stationary_notebook",
+      "writing_limb",
+      "rigid_pen",
+      "head",
+      "ink"
+    ],
+    "required_next_creative_gates": [
+      "authoritative layered source",
+      "explicit semantic separation",
+      "clean hidden surfaces independently inspected",
+      "rigid prop and fixed surface constraints",
+      "independent technical checks",
+      "author visual review"
+    ],
+    "clean_plate_status": "UNVALIDATED_FOR_NEXT_CREATIVE_TEST",
+    "native_blender_parity": "UNVERIFIED"
+  },
+  "acceptance": {
+    "expected_frames": 72,
+    "fps": 24,
+    "width": 720,
+    "height": 1280,
+    "protected_rois": [
+      {
+        "name": "shelf",
+        "xyxy": [
+          155,
+          80,
+          240,
+          145
+        ]
+      },
+      {
+        "name": "rent_card",
+        "xyxy": [
+          40,
+          1080,
+          185,
+          1130
+        ]
+      },
+      {
+        "name": "notebook_fixed_lower",
+        "xyxy": [
+          445,
+          1060,
+          640,
+          1090
+        ]
+      },
+      {
+        "name": "notebook_fixed_right",
+        "xyxy": [
+          650,
+          1025,
+          710,
+          1050
+        ]
+      }
+    ],
+    "require_exact_decoded_replay": true,
+    "require_immutable_inputs": true,
+    "author_approval": false
+  },
+  "failure_policy": {
+    "on_error": "stop_and_record",
+    "resume": "resume from last durable completed stage; incomplete replay is quarantined and rerun in a fresh attempt",
+    "no_overwrite": true
+  },
+  "non_goals": [
+    "new animation",
+    "native Blender parity",
+    "actual second-scene production validation",
+    "model substitution as creative worker",
+    "orchestration platform installation"
+  ]
+}
