@@ -1,0 +1,9 @@
+{
+  "review_comment_id": "fd8324dc-e2ce-4a1f-a2c7-0e24be524b56",
+  "scope": "V11/V12 isolated layer audit",
+  "motion_candidates": 12,
+  "creative_approval": false,
+  "readiness": "blocked",
+  "findings": "MCI09 V11/V12 systemic compositing diagnosis\nAuthor reports persistent duplicate/overlay appearance, including head, and recurring faults. Isolated layer audit confirms nearest-source extrapolated plate contains radial streaks behind head and horizontal streaks behind sleeve; hand region contains copied garment contours. Head cutout includes neck but supporting hand remains fixed. V12 stationary original sleeve matte conceals defect over moving limb rather than correcting underlying plate. Do not infer literal duplicate full head. V11 pen/ink and projected mass results remain useful component evidence, not complete-shot approval. Halt local patch cycle. Proposed next: clean semantic reconstruction and explicit occlusion/ownership tests at extreme poses before any new animation. No candidate approved.",
+  "next": "Reconstruct and validate scene ownership before further motion; do not add more concealment patches."
+}
