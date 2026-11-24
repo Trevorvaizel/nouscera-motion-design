@@ -114,3 +114,6 @@ Do not overwrite the previous workflow rationale when a new one supersedes it.
 
 ## W-012 | 2026-11-24 | Observable graph over the frozen replay
 WH-002 adds actual LangGraph routing, persisted SQLite state, independently validated local model inspection, local browser graph and artifact inspection, and a technical review interrupt. Existing WH-001 operations and source identity stay unchanged. Codex usage failure routes to diagnostic review, actual existing DeepSeek local model routes permitted replay. Two real replays verified; separate engineering review receipt. LangSmith Studio startup failed; local interface is the working candidate. No creative approval, no general autonomous production claim.
+
+## W-013 | 2026-11-24 | Native visual workbench over existing methods
+Agent selection now occurs against task-scoped context and the registered operation catalogue; native n8n conditional routes execute actual operations and return direct review links. Technical diagnostics remain subordinate. Existing replay and readiness gates preserved. Initial overblocking corrected and 4 actual native chat routes verified.
