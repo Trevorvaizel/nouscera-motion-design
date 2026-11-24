@@ -16,3 +16,6 @@ exports/
 *.flac
 *.zip
 # Deliberate visual assets require rights and provenance review before publishing
+
+# Native LangGraph Studio local run state (private)
+.langgraph_api/

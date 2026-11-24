@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "scene": "CP05",
+  "objective": "Convincing restrained writing movement, preserving the engraving and physical relationships.",
+  "nodes": [
+    {
+      "id": "source",
+      "title": "Protected illustration",
+      "state": "source locked",
+      "why": "Preserve composition and engraving; static source approved within prior scope.",
+      "artifacts": [
+        "cp05_source",
+        "kra_master"
+      ]
+    },
+    {
+      "id": "i2v",
+      "title": "Generative motion",
+      "state": "experiment",
+      "why": "Investigated image-to-video; camera/texture instability and localized motion limitations. Raw job completion is not artistic approval.",
+      "artifacts": [
+        "masked",
+        "comfy_graph",
+        "vae_metrics",
+        "steps_metrics"
+      ]
+    },
+    {
+      "id": "warp",
+      "title": "Controlled deformation",
+      "state": "author reviewed",
+      "why": "Author liked texture and natural moving part; pen folded with fabric and gaze remained unconvincing. Separate rigid prop from deformable material.",
+      "artifacts": [
+        "warp",
+        "author_review"
+      ]
+    },
+    {
+      "id": "rigid",
+      "title": "Rigid pen + acting",
+      "state": "experiment",
+      "why": "Pen independently keyed, head and ink approximated. Notebook still moved with the hand, requiring semantic separation.",
+      "artifacts": [
+        "rigid"
+      ]
+    },
+    {
+      "id": "decompose",
+      "title": "Prepared scene",
+      "state": "candidate",
+      "why": "Fixed environment and notebook, rigid pen, deformable arm, articulated head and progressive ink. Existing hidden surface reconstruction is approximate; not a native Blender render.",
+      "artifacts": [
+        "atlas",
+        "prepared01",
+        "baseline_video",
+        "paper",
+        "limb",
+        "plate",
+        "prepared_blender_master"
+      ]
+    },
+    {
+      "id": "hidden",
+      "title": "Hidden surface readiness",
+      "state": "blocked",
+      "why": "Paper under hand, shirt behind pen and head/sleeve reveals require bound visual review. Intentional Krita/ComfyUI preparation is next; no new animation.",
+      "artifacts": [
+        "paper",
+        "gate_manifest",
+        "gate_report"
+      ]
+    },
+    {
+      "id": "native",
+      "title": "Native Blender motion",
+      "state": "pending",
+      "why": "Native render parity remains unverified; requires prepared assets before creative test.",
+      "artifacts": [
+        "prepared_blender_master"
+      ]
+    }
+  ],
+  "edges": [
+    [
+      "source",
+      "i2v"
+    ],
+    [
+      "source",
+      "warp"
+    ],
+    [
+      "i2v",
+      "warp"
+    ],
+    [
+      "warp",
+      "rigid"
+    ],
+    [
+      "rigid",
+      "decompose"
+    ],
+    [
+      "decompose",
+      "hidden"
+    ],
+    [
+      "hidden",
+      "native"
+    ]
+  ],
+  "provenance": "Recovered historical map from MCI08 interim record, MCI07 author review, WH-001 receipt and current gate manifest. Not a complete event-by-event historical trace."
+}
