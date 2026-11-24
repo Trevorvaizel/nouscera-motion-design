@@ -1,0 +1,220 @@
+{
+  "id": "NousceraNativeMAT01",
+  "name": "NOUSCERA | MCI10 native hidden-surface method",
+  "active": false,
+  "nodes": [
+    {
+      "id": "2e333912-ef9c-4e10-84b4-d9d211550000",
+      "name": "Coordinator request",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        0,
+        0
+      ],
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "nouscera-mci10-native-inpaint-v1",
+        "authentication": "headerAuth",
+        "responseMode": "lastNode",
+        "options": {}
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "NousceraLocalBridge",
+          "name": "NOUSCERA local bridge"
+        }
+      },
+      "webhookId": "nouscera-mci10-native-inpaint-v1"
+    },
+    {
+      "id": "2e333912-ef9c-4e10-84b4-d9d211550001",
+      "name": "Match problem to registered method",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        265,
+        0
+      ],
+      "parameters": {
+        "jsCode": "const b=$json.body;if(b?.objective!=='reconstruct_hidden_surface'||b?.scene!=='CP05'||b?.method!=='MCI10-native-MAT-v01')throw Error('No registered method for this problem. Stop for coordinator review; do not substitute a tool.');return [{json:{objective:b.objective,method:b.method,creative_approval:false}}];"
+      }
+    },
+    {
+      "id": "2e333912-ef9c-4e10-84b4-d9d211550002",
+      "name": "Inspect native inpaint capabilities",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        530,
+        0
+      ],
+      "parameters": {
+        "url": "http://127.0.0.1:8188/object_info/INPAINT_InpaintWithModel",
+        "options": {
+          "timeout": 15000
+        }
+      }
+    },
+    {
+      "id": "2e333912-ef9c-4e10-84b4-d9d211550003",
+      "name": "Require real inpainting node",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        795,
+        0
+      ],
+      "parameters": {
+        "jsCode": "if(!$json.INPAINT_InpaintWithModel?.input?.required?.mask)throw Error('Native inpaint node missing. Repair capability; no fallback.');return [{json:{verified:true}}];"
+      }
+    },
+    {
+      "id": "2e333912-ef9c-4e10-84b4-d9d211550004",
+      "name": "Inspect available models",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1060,
+        0
+      ],
+      "parameters": {
+        "url": "http://127.0.0.1:8188/object_info/INPAINT_LoadInpaintModel",
+        "options": {
+          "timeout": 15000
+        }
+      }
+    },
+    {
+      "id": "2e333912-ef9c-4e10-84b4-d9d211550005",
+      "name": "Require registered model and graph",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1325,
+        0
+      ],
+      "parameters": {
+        "jsCode": "const names=$json.INPAINT_LoadInpaintModel?.input?.required?.model_name?.[1]?.options||[];if(!names.includes('MAT_Places512_G_fp16.safetensors'))throw Error('Registered model missing. No substitution.');return [{json:{prompt:{\"1\":{\"class_type\":\"LoadImage\",\"inputs\":{\"image\":\"NOUSCERA/MCI10_native_source_crop.png\"}},\"2\":{\"class_type\":\"LoadImageMask\",\"inputs\":{\"image\":\"NOUSCERA/MCI10_native_removal_mask.png\",\"channel\":\"red\"}},\"3\":{\"class_type\":\"INPAINT_LoadInpaintModel\",\"inputs\":{\"model_name\":\"MAT_Places512_G_fp16.safetensors\"}},\"4\":{\"class_type\":\"INPAINT_InpaintWithModel\",\"inputs\":{\"image\":[\"1\",0],\"mask\":[\"2\",0],\"inpaint_model\":[\"3\",0],\"seed\":1010}},\"5\":{\"class_type\":\"SaveImage\",\"inputs\":{\"images\":[\"4\",0],\"filename_prefix\":\"NOUSCERA/MCI10_native_ownership_v01\"}}},client_id:'nouscera-native-mci10'}}];"
+      }
+    },
+    {
+      "id": "2e333912-ef9c-4e10-84b4-d9d211550006",
+      "name": "Submit native ComfyUI graph",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1590,
+        0
+      ],
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:8188/prompt",
+        "sendBody": true,
+        "contentType": "json",
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify($json) }}",
+        "options": {
+          "timeout": 30000
+        }
+      }
+    },
+    {
+      "id": "2e333912-ef9c-4e10-84b4-d9d211550007",
+      "name": "Require actual queued prompt",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1855,
+        0
+      ],
+      "parameters": {
+        "jsCode": "if(!$json.prompt_id||Object.keys($json.node_errors||{}).length)throw Error('ComfyUI rejected graph');return [{json:{prompt_id:$json.prompt_id,method:'MCI10-native-MAT-v01',state:'queued_not_validated',creative_approval:false,n8n_execution_id:$execution.id}}];"
+      }
+    }
+  ],
+  "connections": {
+    "Coordinator request": {
+      "main": [
+        [
+          {
+            "node": "Match problem to registered method",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Match problem to registered method": {
+      "main": [
+        [
+          {
+            "node": "Inspect native inpaint capabilities",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Inspect native inpaint capabilities": {
+      "main": [
+        [
+          {
+            "node": "Require real inpainting node",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Require real inpainting node": {
+      "main": [
+        [
+          {
+            "node": "Inspect available models",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Inspect available models": {
+      "main": [
+        [
+          {
+            "node": "Require registered model and graph",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Require registered model and graph": {
+      "main": [
+        [
+          {
+            "node": "Submit native ComfyUI graph",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Submit native ComfyUI graph": {
+      "main": [
+        [
+          {
+            "node": "Require actual queued prompt",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true
+  },
+  "pinData": {}
+}

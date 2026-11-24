@@ -1,0 +1,36 @@
+{
+  "wrong_objective_http": 500,
+  "submission": {
+    "prompt_id": "8d2d1288-c28f-425d-a263-8c2b7b5007a7",
+    "method": "MCI10-native-MAT-v01",
+    "state": "queued_not_validated",
+    "creative_approval": false,
+    "n8n_execution_id": "20"
+  },
+  "comfy_status": "success",
+  "output": {
+    "filename": "MCI10_native_ownership_v01_00001_.png",
+    "subfolder": "NOUSCERA",
+    "type": "output",
+    "metadata": {
+      "kind": "image",
+      "width": 512,
+      "height": 512
+    },
+    "id": "bad4e869-a75b-48a8-b51b-0f0da4c6017c"
+  },
+  "output_sha256": "454f2952756a2e867de65db210eb452b248eb3b951d06b7d4beec18035f86500",
+  "creative_approval": false,
+  "scene_readiness": "blocked",
+  "outside_mask_changed_pixels": 0,
+  "input_source_sha256": "d48a70c2f419801cc23fdd58dbf2b5dceb97af5b509c2e8a9b4367e4d7ecbbe4",
+  "input_mask_sha256": "676ebef331befd06bec0c422689461f3664a4cdb27f2c8438a28502eee43f790",
+  "asset_review": "internal_rejection",
+  "findings": [
+    "Invented skin/cuff stump and residual shadow behind writing arm",
+    "Broad object removal combines distinct material and occlusion questions",
+    "Use separately bounded shirt, cuff, desk and paper operations; do not promote a rejected model result"
+  ],
+  "head_and_shoulder_motion": "suspended until ownership proven",
+  "kitsu_comment_id": "385268c7-4e5b-44eb-831d-8464c6c207af"
+}
