@@ -1,0 +1,96 @@
+{
+  "material_inputs": {
+    "crop": [
+      120,
+      690,
+      632,
+      1202
+    ],
+    "source_sha256": "354c4d5d7bba985a9ad9f009d7a3f9ded58e161ca0a51f13362fe7f9373d11e5",
+    "input_sha256": {
+      "MCI10_material_garment_source_v01.png": "a00a5938564d37c36e4137aa283fb1f7dab722c85551333132da56e0e7480f87",
+      "MCI10_material_garment_mask_v01.png": "8a1ccd989e6aba16dbecbc5d747fc3e5463c3fd085f50cd81c6c44cea52de0e0"
+    },
+    "garment_pixels": 45404,
+    "desk_pixels": 2354,
+    "paper_pixels": 24549,
+    "overlap_pixels": 0,
+    "unassigned_removal_pixels": 0,
+    "tabletop_edge": "inferred from visible right edge; approximate",
+    "desk_method": "source wood-grain samples, not generative",
+    "paper_method": "native Krita MCI09A v03"
+  },
+  "native_method": {
+    "submission": {
+      "prompt_id": "55a14d54-b9cd-4db4-9d66-a01e67e62032",
+      "method": "MCI10-garment-MAT-v01",
+      "state": "queued_not_validated",
+      "creative_approval": false,
+      "n8n_execution_id": "21"
+    },
+    "native_status": "success",
+    "output": {
+      "filename": "MCI10_material_garment_v01_00001_.png",
+      "subfolder": "NOUSCERA",
+      "type": "output",
+      "metadata": {
+        "kind": "image",
+        "width": 512,
+        "height": 512
+      },
+      "id": "d72ea774-c714-4ca9-8616-ac7fbb0e6624"
+    },
+    "output_sha256": "8eefb26512b81c0addfa4bbf40c9444fafc771e49ee1c96af044ea7e4e53de41",
+    "input_hashes_verified_before_and_after": true,
+    "input_sha256": {
+      "MCI10_material_garment_source_v01.png": "a00a5938564d37c36e4137aa283fb1f7dab722c85551333132da56e0e7480f87",
+      "MCI10_material_garment_mask_v01.png": "8a1ccd989e6aba16dbecbc5d747fc3e5463c3fd085f50cd81c6c44cea52de0e0"
+    },
+    "creative_approval": false
+  },
+  "poses": {
+    "poses": [
+      {
+        "reference_frame": 1,
+        "alpha_area": 51087.00784313725,
+        "tip": [
+          607.0,
+          1000.0
+        ]
+      },
+      {
+        "reference_frame": 13,
+        "alpha_area": 51087.6,
+        "tip": [
+          621.53125,
+          994.5362501144409
+        ]
+      },
+      {
+        "reference_frame": 40,
+        "alpha_area": 51087.086274509806,
+        "tip": [
+          585.2999992370605,
+          1009.920000076294
+        ]
+      }
+    ],
+    "projected_area_peak_to_peak_pct": 0.001159114396685137,
+    "no_source_overlay": true,
+    "head_stationary": true,
+    "creative_approval": false,
+    "motion_generated": false,
+    "status": "still candidate only"
+  },
+  "native_krita_sha256": "7a2dfd4cacf2729b6536fe8afe962389886037a57f3537075434828c305d212c",
+  "assessment": {
+    "garment": "rejected: invented circular cuff form, visible stray bright texture behind writing hand",
+    "desk": "source-grain approximation; inferred tabletop boundary, not independently accepted",
+    "paper": "existing V03, not newly approved",
+    "deformation": "near-constant global projected area across three samples, local bulging remains visible",
+    "status": "blocked; no motion generated",
+    "creative_approval": false
+  },
+  "kitsu_comment_id": "a9d869fa-90fb-46fb-8177-6bd9a6aacbda",
+  "motion_candidates": 12
+}
