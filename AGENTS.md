@@ -1,3 +1,7 @@
+## WH-002B | Current workbench handoff (2026-11-24)
+
+Read [current workbench state](harness/runtime/workbench/current.json), [workbench instructions](harness/runtime/workbench/README.md), and [actual receipt](harness/receipts/WH-002B-VISUAL-AGENT-WORKBENCH-2026-11-24.md). Native n8n hosted chat routes real local model decisions to registered operations; all four route tests passed. Existing WH-001/002 remain unchanged. No creative approval; hidden surfaces still block new animation. Author usability review remains open.
+
 ## WH-002 current operational handoff | 2026-11-24
 
 The observable technical-replay vertical slice is running and verified. Read [WH-002 current state](harness/runtime/observable/current.json), [runtime entry](harness/runtime/observable/README.md) and [actual receipt](harness/receipts/WH-002-OBSERVABLE-WORKFLOW-2026-11-24.md) first. The WH-001 replay contract and its current.json are frozen for replay identity, not superseded by undocumented changes. The author-facing graph is intentionally waiting at technical review. No new animation or creative approval. CP05 hidden-surface readiness remains blocked. Preserve WH-001, existing masters and the local private evidence.
@@ -44,3 +48,6 @@ Never copy private KIRA source materials, personal/private chats, confidential w
 ## Definition of progress
 
 An output counts as progress when it preserves intended meaning, resolves a concrete uncertainty, improves a specific handoff, or produces interpretable experimental evidence.
+
+## Coordinator authority | 2026-11-24
+Follow [the coordination contract](harness/runtime/workbench/COORDINATION.md). ChatGPT remains the author-invoked cross-application coordinator; local reasoning models and workflow hosts act as bounded delegated capabilities. The demonstrated Desktop Commander to n8n connection is the preferred route for registered operations. Do not transfer creative authority or infer unattended access.

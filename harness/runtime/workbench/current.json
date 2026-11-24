@@ -1,0 +1,12 @@
+{
+  "milestone": "WH-002B",
+  "status": "native_n8n_bounded_workbench_verified_author_review_pending",
+  "scene": "CP05",
+  "creative_gate": "blocked_hidden_surfaces",
+  "creative_approval": false,
+  "native_chat": "http://127.0.0.1:5678/webhook/nouscera-creative-workbench/chat",
+  "native_editor": "http://127.0.0.1:5678/workflow/NousceraWorkbench01",
+  "comparison": "http://127.0.0.1:8770/compare",
+  "diagnostics": "http://127.0.0.1:8765/",
+  "next": "Author evaluates utility. Register actual purposefully prepared Krita/ComfyUI clean-plate workflow before animation. Do not generalize bounded routing to full creative autonomy."
+}

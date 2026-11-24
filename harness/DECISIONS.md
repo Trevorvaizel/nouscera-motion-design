@@ -258,3 +258,6 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 
 ### D-035 | 2026-11-24 | Operational legibility and bounded intelligence
 **Decision:** Use LangGraph for observable stateful execution over WH-001, local browser console where Studio is not working, and the existing local reasoning model where cloud access is blocked. Keep deterministic gate independent of model. User authorized engineering milestone; review of console remains pending. Do not infer creative transfer or approval from technical replay. **Status:** implemented vertical slice with two verified actual replays; bounded decision and technical review exercised. Revisit tool architecture only against demonstrated gaps.
+
+### D-036 | 2026-11-24 | Adopt existing visual workflow host for bounded review
+n8n chosen as a local compatibility trial, not final architecture. Preserve registered methods and separate deterministic gates; no new creative animation. Direct artifact access without path copying. Use explicit inspection copies for native masters. Author utility review remains open.
