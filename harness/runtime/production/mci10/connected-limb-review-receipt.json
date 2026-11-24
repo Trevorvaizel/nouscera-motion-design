@@ -1,0 +1,83 @@
+{
+  "native_blender_armature": true,
+  "poses": [
+    {
+      "reference_frame": 1,
+      "target_tip": [
+        607.0,
+        1000.0
+      ],
+      "elbow": [
+        122.0,
+        956.0
+      ],
+      "elbow_displacement_px": 0.0,
+      "upper_rotation_deg": 0.0,
+      "forearm_rotation_deg": 0.0,
+      "tip_error_px": 7.539457464619588e-05,
+      "joint_gap_px": 0.0,
+      "bone_lengths_px": [
+        451.32028538500236,
+        486.9917863783742
+      ],
+      "render_sha256": "6b53451f0a7b81f2810b40a8916b9faaa7093b6501e60d4a125b8c75be02b84a",
+      "isolated_render_alpha_area": 154533.52549019607
+    },
+    {
+      "reference_frame": 13,
+      "target_tip": [
+        621.53125,
+        994.5362548828125
+      ],
+      "elbow": [
+        136.0420379638672,
+        956.3106079101562
+      ],
+      "elbow_displacement_px": 14.045472946039903,
+      "upper_rotation_deg": -1.783165538651056,
+      "forearm_rotation_deg": -0.6818045117808637,
+      "tip_error_px": 0.0001348699152348609,
+      "joint_gap_px": 0.0,
+      "bone_lengths_px": [
+        451.32028538500236,
+        486.9917863783742
+      ],
+      "render_sha256": "c1220f6479179a3d03e0d3ca15ef63675fc1ee78903d14092bbe4208239e83a7",
+      "isolated_render_alpha_area": 154811.83921568628
+    },
+    {
+      "reference_frame": 40,
+      "target_tip": [
+        585.2999877929688,
+        1009.9199829101562
+      ],
+      "elbow": [
+        101.44276428222656,
+        954.7548828125
+      ],
+      "elbow_displacement_px": 20.594908639733443,
+      "upper_rotation_deg": 2.6147810785255814,
+      "forearm_rotation_deg": 1.3204932102091733,
+      "tip_error_px": 2.384185791015625e-05,
+      "joint_gap_px": 0.0,
+      "bone_lengths_px": [
+        451.32028538500236,
+        486.9917863783742
+      ],
+      "render_sha256": "a4e6994656a9207654a17c25b2a77681b0c00f598e6eab17a32478934c80e328",
+      "isolated_render_alpha_area": 154145.7725490196
+    }
+  ],
+  "master_sha256": "d497150e85b98d032e9c16a7a1709163a994136a7c9a301be6f65b1a0004dec7",
+  "creative_approval": false,
+  "motion_generated": false,
+  "limitations": [
+    "Approximate planar shoulder/elbow/nib landmarks, not validated 3D anatomy",
+    "Original cutout edge contamination remains",
+    "No clean background or ink/contact shadow test; isolated rig only",
+    "Pen orientation is derived from coupled distal transform, not identical to V11"
+  ],
+  "assessment": "Isolated native rendered stills show continuous sleeve/cuff and no exaggerated wrist curvature or exposed cuff gap. Source cutout has residual bright edge fragments near fingers; integrated clean plate and writing contact not tested. Prefer this connected anatomical method over pinned cuff; no creative approval.",
+  "kitsu_comment_id": "68e9424b-11cc-4f7d-a29c-6f2683ee2827",
+  "motion_candidates": 12
+}
