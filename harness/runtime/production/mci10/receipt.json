@@ -1,0 +1,43 @@
+{
+  "review_comment_id": "77801b64-e53c-420b-a3db-ca03b4ccaa68",
+  "status": "blocked",
+  "creative_approval": false,
+  "motion_generated": false,
+  "pose_test": {
+    "poses": [
+      {
+        "reference_frame": 1,
+        "tip": [
+          607.0,
+          1000.0
+        ],
+        "source_mae": 0.7557486979166667,
+        "forearm_area": 51087.00784313725
+      },
+      {
+        "reference_frame": 13,
+        "tip": [
+          621.53125,
+          994.5362501144409
+        ],
+        "source_mae": 3.1205790653935184,
+        "forearm_area": 52729.05098039216
+      },
+      {
+        "reference_frame": 40,
+        "tip": [
+          585.2999992370605,
+          1009.920000076294
+        ],
+        "source_mae": 2.949402126736111,
+        "forearm_area": 48623.850980392155
+      }
+    ],
+    "no_source_overlay": true,
+    "head_stationary": true,
+    "status": "visual review required",
+    "creative_approval": false
+  },
+  "native_krita": true,
+  "mat_native_graph": false
+}
