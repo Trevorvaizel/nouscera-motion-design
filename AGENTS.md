@@ -1,3 +1,9 @@
+# Active operational entry point
+
+**WH-001 CURRENT HANDOFF | 2026-11-24:** The active milestone is workflow/harness reliability, not another creative test. The active state and versioned execution contract are under harness/runtime. The November 17 entries below are historical. CP-05 is static-approved only; no motion or film is approved. The prepared-scene preview showed promising movement but hidden notebook reconstruction remains inadequate. Do not generate a new take until the harness and scene readiness gates are satisfied. No new downloads or n8n installation. Preserve source masters, prior versions and author approval boundaries.
+
+**Required on entry:** run `python harness/runtime/runner.py bootstrap`; use its state, contract and catalogue. Read [runtime instructions](harness/runtime/README.md) and [scene readiness](harness/runtime/SCENE_READINESS.md). Check the latest WH-001 receipt and local registry when authorized. Do not treat stale historical 'next brick' statements or AI-first preference as current routing rules. A model invocation must carry the relevant context and task contract. If evidence conflicts, stop and reconcile rather than guessing. Local media, paths and credentials are not public Git artifacts.
+
 # Collaboration instructions for AI-assisted studio work
 > **Current handoff, 2026-11-17:** First read the [B03.11K continuity reconciliation](stories/001-human-at-the-door/B03.11K_CONTINUITY_RECONCILIATION_2026-11-17.md). B03.11K has progressed beyond the November 15 CP-02 retry instructions. The next actual gate is the remaining CP-06/pack review, followed by a controlled S09-to-S11 scribble + typography motion test in the existing layered Krita master. Historical entry text below describes the original brick start, not the current state.
 

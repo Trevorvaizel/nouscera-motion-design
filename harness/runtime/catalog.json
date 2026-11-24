@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "operations": [
+    {
+      "id": "source-krita",
+      "kind": "native_master",
+      "status": "historical_source_verified",
+      "registry": "kra_master"
+    },
+    {
+      "id": "local-image-reconstruction",
+      "kind": "ComfyUI FLUX + Krita",
+      "status": "prior bounded FLUX smoke; scene-specific clean-plate graph not established",
+      "gate": "requires explicit asset contract and reconstruction check"
+    },
+    {
+      "id": "i2v-hunyuan",
+      "kind": "ComfyUI",
+      "status": "actual UI/API graphs inventoried; technical execution complete, artistic verdict pending"
+    },
+    {
+      "id": "prepared-scene-replay",
+      "kind": "Python/OpenCV",
+      "status": "replay adapter",
+      "registry": "prepared_scene_code"
+    },
+    {
+      "id": "blender-scene-assembly",
+      "kind": "Blender",
+      "status": "actual script and packed master registered; native render parity unverified",
+      "registry": "prepared_blender_code"
+    },
+    {
+      "id": "weftcut-edit",
+      "kind": "WeftCut MCP",
+      "status": "prior technical smoke and edit receipts; local operations inventoried"
+    },
+    {
+      "id": "qwen-voice",
+      "kind": "Qwen3-TTS",
+      "status": "prior technical smoke; local operations inventoried"
+    },
+    {
+      "id": "verify",
+      "kind": "Python",
+      "status": "independent replay audit"
+    }
+  ],
+  "local_registry": "TREVOR private registry runtime-registry-v01.json; location supplied by operator, not tracked publicly",
+  "publication": "Only generic runtime, contracts and sanitized receipts belong in public repo."
+}

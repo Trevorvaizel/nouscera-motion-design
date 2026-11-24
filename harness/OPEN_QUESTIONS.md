@@ -55,3 +55,10 @@ An unresolved artistic choice is not the same as missing empirical evidence. A p
 | **OQ-024** | Can CP-06's page orientation and its relationship to the original “before inquiry” spec be reconciled without claiming new authorship as source truth? | **CP-06 approval** | Corrected candidate/scene-function review; exact phrase remains proposed |
 | **OQ-025** | Where do approved generated image/video assets live as restorable, versioned copies outside the conversation? | **Archive reliability** | Rights/publication decision and verified external backup or Git LFS/object-storage policy, without leaking private source text |
 
+## November 24 | WH-001 current blockers
+- OQ-026: Can an independent fresh model load the current packet and obey the correct gate? Test with a bounded task, not assumed.
+- OQ-027: Can prepared asset workflow transfer to a different actual scene? Synthetic mechanism test is not artistic transfer.
+- OQ-028: Can hidden notebook paper be reconstructed intentionally in Krita/ComfyUI and pass visual readiness? The current local manifest remains blocked.
+- OQ-029: Does native Blender rendering match the prepared scene and preserve the same motion semantics? Not yet demonstrated.
+- OQ-030: How do we preserve private runtime artifacts beyond TREVOR? Hash registry and local snapshots are not an off-device backup.
+- OQ-023/024 remain open; no final shot or final screenplay approval.

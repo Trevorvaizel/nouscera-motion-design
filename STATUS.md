@@ -1,3 +1,9 @@
+# Active status
+
+**WH-001 CURRENT HANDOFF | 2026-11-24:** The active milestone is workflow/harness reliability, not another creative test. The active state and versioned execution contract are under harness/runtime. The November 17 entries below are historical. CP-05 is static-approved only; no motion or film is approved. The prepared-scene preview showed promising movement but hidden notebook reconstruction remains inadequate. Do not generate a new take until the harness and scene readiness gates are satisfied. No new downloads or n8n installation. Preserve source masters, prior versions and author approval boundaries.
+
+See [active state](harness/runtime/current.json), [contract](harness/runtime/workflows/scene-readiness.v01.json) and [runtime](harness/runtime/README.md). Earlier draft PRs 14-16 remain evidence, not promotion.
+
 # Studio status
 > **LIVE STATE: 2026-11-17.** B03.11K has advanced beyond the 2026-11-15 snapshots. CP-02 was subsequently approved; CP-03 and CP-04 were accepted for progression; CP-05 is an approved **static** hesitation anchor; CP-06 remains a creative-review candidate. A separate scribble-plus-typography treatment was selected, and one layered local Krita working master now exists. There is **no verified moving hand, final 13-shot cut, approved CP-06 action, or cold-viewer result**. Read [the 2026-11-17 reconciliation receipt](stories/001-human-at-the-door/B03.11K_CONTINUITY_RECONCILIATION_2026-11-17.md) before acting on older “CP-02 next” instructions.
 

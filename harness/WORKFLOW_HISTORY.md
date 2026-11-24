@@ -100,3 +100,14 @@ Do not overwrite the previous workflow rationale when a new one supersedes it.
 **Evidence:** Native KRA master and preview generated locally and verified for pixel-exact preservation of its source; [working master manifest](../stories/001-human-at-the-door/LOCAL_WORKING_MASTER_MANIFEST_v01.md).
 **Boundary:** The working master's existence is not evidence of completed actor motion, CP-06 final approval or externally archived media.
 
+## W-010 | 2026-11-24 | Prepare distinct physical entities before acting
+**From:** Full-frame I2V drift; local mask freezes coupled motion; broad image warp bends the pen and moves the book.
+**To:** Candidate prepared scene with fixed objects, separately rigid prop, deformable limb, head and ink, explicit hidden surfaces and an independent review gate. Use Krita and ComfyUI deliberately for clean-plate reconstruction; Blender controls structure. Retain generative route for appropriate tasks.
+**Evidence:** MCI01-08 and CP05 prepared-scene prototypes; positive component-level author feedback, unresolved hidden notebook surface, gaze and contact. No motion approved.
+**Limit:** The actual review video is an external raster render, not a verified native Blender render. CP05-specific adapter is not a transferable full animation engine.
+
+## W-011 | 2026-11-24 | Versioned executable workflow and state
+**From:** Research instructions, code, media and project state diverged between local work and repository.
+**To:** WH-001 uses a canonical context packet, versioned contract, private hash registry, replay runner, durable stage checkpoint, independent verification and failure-aware receipt. Scene readiness is an explicit separate gate. Promote only within tested scope.
+**Reason:** Preserve reasoning and actual operations rather than requiring the author to supervise recurring technical errors.
+**Status:** Author authorized engineering milestone before next creative test. Candidate runtime under branch review; no creative approvals inferred.
