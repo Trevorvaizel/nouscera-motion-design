@@ -1,0 +1,108 @@
+{
+  "v01": {
+    "experiment": "MCI10 wrist geometry isolation",
+    "poses": [
+      {
+        "rigid_domain_max_jacobian_error": 0.0,
+        "transition_min_jacobian": 1.0,
+        "transition_max_jacobian": 1.0,
+        "projected_area": 51087.0078125,
+        "reference_frame": 1,
+        "tip": [
+          607.0,
+          1000.0
+        ],
+        "rigid_start_x": 310,
+        "cuff_transition_x": [
+          205,
+          310
+        ]
+      },
+      {
+        "rigid_domain_max_jacobian_error": 0.0022101614893136334,
+        "transition_min_jacobian": 0.7637728603734402,
+        "transition_max_jacobian": 0.9924769019905184,
+        "projected_area": 52977.203125,
+        "reference_frame": 13,
+        "tip": [
+          621.53125,
+          994.5362501144409
+        ],
+        "rigid_start_x": 310,
+        "cuff_transition_x": [
+          205,
+          310
+        ]
+      },
+      {
+        "rigid_domain_max_jacobian_error": 0.0031767722112718833,
+        "transition_min_jacobian": 1.0112485513647278,
+        "transition_max_jacobian": 1.342833297391469,
+        "projected_area": 48446.234375,
+        "reference_frame": 40,
+        "tip": [
+          585.2999992370605,
+          1009.920000076294
+        ],
+        "rigid_start_x": 310,
+        "cuff_transition_x": [
+          205,
+          310
+        ]
+      }
+    ],
+    "projected_area_range_pct": 8.869121414645388,
+    "pen_ink_shadow_plate_unchanged": true,
+    "source_overlay": false,
+    "plate_status": "previously rejected; diagnostic use only",
+    "creative_approval": false,
+    "motion_generated": false
+  },
+  "v02": {
+    "poses": [
+      {
+        "reference_frame": 1,
+        "underlying_arm_alpha_area": 54513.41568627451,
+        "visible_arm_alpha_area": 50925.490196078434,
+        "tip": [
+          607.0,
+          1000.0
+        ],
+        "rigid_scale": 1.0
+      },
+      {
+        "reference_frame": 13,
+        "underlying_arm_alpha_area": 54514.03921568627,
+        "visible_arm_alpha_area": 51489.59247981546,
+        "tip": [
+          621.53125,
+          994.5362501144409
+        ],
+        "rigid_scale": 1.0
+      },
+      {
+        "reference_frame": 40,
+        "underlying_arm_alpha_area": 54513.98823529412,
+        "visible_arm_alpha_area": 48977.73081122645,
+        "tip": [
+          585.2999992370605,
+          1009.920000076294
+        ],
+        "rigid_scale": 1.0
+      }
+    ],
+    "underlying_rigid_area_range_pct": 0.0011438091044477365,
+    "visible_area_range_pct": 4.932425115433522,
+    "creative_approval": false,
+    "motion_generated": false,
+    "limitations": [
+      "Cuff boundary traced from visible source; proximal skin extension sampled, not recovered",
+      "Previous rejected garment plate retained; no new plate approval",
+      "Rigid planar slide is a diagnostic approximation, not an articulated 3D arm"
+    ]
+  },
+  "native_kra_sha256": "e1e2485e586c1bd5baef5f82568c12321dce5594a4ae5f5569514bb6980de3bd",
+  "assessment": "V01 removes exaggerated distal curvature in sampled stills, but proximal compression remains; V02 rigid slide preserves underlying shape but creates exposed gap and cuff artifact. Neither accepted for animation. Existing rejected plate held constant for diagnostic isolation.",
+  "creative_approval": false,
+  "kitsu_comment_id": "f40af245-d280-426e-83d5-e614ef612075"
+}
