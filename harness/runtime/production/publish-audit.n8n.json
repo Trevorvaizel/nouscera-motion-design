@@ -1,0 +1,515 @@
+{
+  "id": "NousceraKitsuAudit01",
+  "name": "NOUSCERA | Publish verified CP05 audit to Kitsu",
+  "active": false,
+  "nodes": [
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c000",
+      "name": "Coordinator submits completed audit",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        0,
+        0
+      ],
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "nouscera-kitsu-publish-audit-v1",
+        "authentication": "headerAuth",
+        "responseMode": "lastNode",
+        "options": {}
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "NousceraLocalBridge",
+          "name": "NOUSCERA local bridge"
+        }
+      },
+      "webhookId": "nouscera-kitsu-publish-audit-v1"
+    },
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c001",
+      "name": "Read actual audit registry",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        260,
+        0
+      ],
+      "parameters": {
+        "url": "http://127.0.0.1:8770/api/surface",
+        "options": {
+          "timeout": 30000
+        }
+      }
+    },
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c002",
+      "name": "Validate evidence and creative boundary",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        520,
+        0
+      ],
+      "parameters": {
+        "jsCode": "const id=$('Coordinator submits completed audit').first().json.body.run_id; if(typeof id!=='string'||! /^[a-f0-9]{16}$/.test(id))throw Error('Invalid run ID'); const run=$json.runs.find(x=>x.run_id===id); if(!run||run.status!=='complete'||run.completed.join(',')!=='source,krita,layers,board,gate,receipt'||run.creative_approval!==false)throw Error('Incomplete or unauthorized run');const a=run.results;if(a.gate.scene_id!=='CP05'||a.gate.status!=='blocked'||a.gate.errors.length||a.receipt.readiness!=='blocked'||a.receipt.creative_approval!==false)throw Error('Only blocked CP05 audits are registered');if(a.board.sha256!=='a10960beeea47ac49dc097505ee30dad673c498e568baa91e598d5c6766f066a')throw Error('Changed board requires separate version review');return [{json:{run_id:id,marker:'NOUSCERA preparation audit '+id,blockers:a.gate.blockers,board_sha256:a.board.sha256,receipt:a.receipt,task_id:'645ce68b-2537-46e9-9ba9-c54ac81ca6c9',blocked_status:'213345eb-accb-405e-b48e-76234e772a4f',existing_preview_id:'60eddeb4-58c8-4296-97fa-fe563ce9f838'}}];"
+      }
+    },
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c003",
+      "name": "Read Kitsu preparation task",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        780,
+        0
+      ],
+      "parameters": {
+        "url": "http://127.0.0.1:8080/api/data/tasks/645ce68b-2537-46e9-9ba9-c54ac81ca6c9",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": {
+          "timeout": 30000
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "NousceraKitsuBot01",
+          "name": "NOUSCERA Kitsu workflow bot"
+        }
+      }
+    },
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c004",
+      "name": "Require unchanged blocked task",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1040,
+        0
+      ],
+      "parameters": {
+        "jsCode": "const v=$('Validate evidence and creative boundary').first().json;if($json.id!==v.task_id||$json.task_status_id!==v.blocked_status||$json.entity_id!=='f689d460-5490-4767-8489-756e48afad6b')throw Error('Task changed: author review required');return [{json:v}];"
+      }
+    },
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c005",
+      "name": "Read Kitsu existing previews",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1300,
+        0
+      ],
+      "parameters": {
+        "url": "http://127.0.0.1:8080/api/data/tasks/645ce68b-2537-46e9-9ba9-c54ac81ca6c9/previews",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": {
+          "timeout": 30000,
+          "response": {
+            "response": {
+              "fullResponse": true,
+              "responseFormat": "json"
+            }
+          }
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "NousceraKitsuBot01",
+          "name": "NOUSCERA Kitsu workflow bot"
+        }
+      }
+    },
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c006",
+      "name": "Require registered evidence version",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1560,
+        0
+      ],
+      "parameters": {
+        "jsCode": "const v=$('Validate evidence and creative boundary').first().json;const list=$json.body;if(!Array.isArray(list)||!list.some(x=>x.id===v.existing_preview_id))throw Error('Registered board version absent');return [{json:v}];"
+      }
+    },
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c007",
+      "name": "Read Kitsu review comments",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1820,
+        0
+      ],
+      "parameters": {
+        "url": "http://127.0.0.1:8080/api/data/tasks/645ce68b-2537-46e9-9ba9-c54ac81ca6c9/comments",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": {
+          "timeout": 30000,
+          "response": {
+            "response": {
+              "fullResponse": true,
+              "responseFormat": "json"
+            }
+          }
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "NousceraKitsuBot01",
+          "name": "NOUSCERA Kitsu workflow bot"
+        }
+      }
+    },
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c008",
+      "name": "Check audit publication identity",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        2080,
+        0
+      ],
+      "parameters": {
+        "jsCode": "const v=$('Validate evidence and creative boundary').first().json;const list=$json.body;if(!Array.isArray(list))throw Error('Missing comments list');const hits=list.filter(x=>typeof x.text==='string'&&x.text.includes(v.marker));if(hits.length>1)throw Error('Duplicate audit comments already exist');return [{json:{...v,already_published:hits.length===1,comment_id:hits[0]?.id||null}}];"
+      }
+    },
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c009",
+      "name": "Already published?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        2340,
+        0
+      ],
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "0c0fc8a9-23c3-4007-8b06-8169a8801f00",
+              "leftValue": "={{ $json.already_published }}",
+              "rightValue": "",
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      }
+    },
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c010",
+      "name": "Fetch actual receipt attachment",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        2600,
+        0
+      ],
+      "parameters": {
+        "url": "={{ 'http://127.0.0.1:8770/media?id=runreceipt-' + $('Validate evidence and creative boundary').first().json.run_id }}",
+        "options": {
+          "timeout": 30000,
+          "response": {
+            "response": {
+              "responseFormat": "file",
+              "outputPropertyName": "data"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c011",
+      "name": "Name receipt and build review comment",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        2860,
+        0
+      ],
+      "parameters": {
+        "jsCode": "const v=$('Validate evidence and creative boundary').first().json;const item=$input.first();if(!item.binary?.data)throw Error('Receipt file missing');item.binary.data.fileName='CP05-preparation-audit-'+v.run_id+'.json';item.binary.data.mimeType='application/json';item.json={...v,comment:v.marker+'\\nTechnical audit only; no creative approval. Readiness remains BLOCKED.\\n'+v.blockers.join('\\n')+'\\nExisting diagnostic board version reused (unchanged SHA256 '+v.board_sha256+'). Native n8n execution: '+$execution.id+'.\\nThe audit receipt is attached. No new motion or repair performed.'};return [item];"
+      }
+    },
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c012",
+      "name": "Publish audit evidence in Kitsu",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        3120,
+        0
+      ],
+      "parameters": {
+        "url": "http://127.0.0.1:8080/api/actions/tasks/645ce68b-2537-46e9-9ba9-c54ac81ca6c9/comment",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": {
+          "timeout": 30000
+        },
+        "method": "POST",
+        "sendBody": true,
+        "contentType": "multipart-form-data",
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "task_status_id",
+              "value": "213345eb-accb-405e-b48e-76234e772a4f"
+            },
+            {
+              "name": "comment",
+              "value": "={{ $json.comment }}"
+            },
+            {
+              "name": "checklist",
+              "value": "[]"
+            },
+            {
+              "name": "links",
+              "value": "[]"
+            },
+            {
+              "parameterType": "formBinaryData",
+              "name": "file",
+              "inputDataFieldName": "data"
+            }
+          ]
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "NousceraKitsuBot01",
+          "name": "NOUSCERA Kitsu workflow bot"
+        }
+      }
+    },
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c013",
+      "name": "Read back Kitsu comments",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        3380,
+        0
+      ],
+      "parameters": {
+        "url": "http://127.0.0.1:8080/api/data/tasks/645ce68b-2537-46e9-9ba9-c54ac81ca6c9/comments",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": {
+          "timeout": 30000,
+          "response": {
+            "response": {
+              "fullResponse": true,
+              "responseFormat": "json"
+            }
+          }
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "NousceraKitsuBot01",
+          "name": "NOUSCERA Kitsu workflow bot"
+        }
+      }
+    },
+    {
+      "id": "54f0c84a-cda5-483f-973d-30afdbb4c014",
+      "name": "Verify actual publication",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        3640,
+        0
+      ],
+      "parameters": {
+        "jsCode": "const v=$('Validate evidence and creative boundary').first().json;const prior=$('Check audit publication identity').first().json;const list=$json.body;const hits=list.filter(x=>typeof x.text==='string'&&x.text.includes(v.marker));if(hits.length!==1)throw Error('Audit publication missing or duplicated');const c=hits[0];if(c.task_status_id!==v.blocked_status||!c.attachment_files?.length)throw Error('Publication missing blocked status or receipt attachment');return [{json:{run_id:v.run_id,comment_id:c.id,attachment_count:c.attachment_files.length,existing_preview_id:v.existing_preview_id,publication:prior.already_published?'reused':'created',creative_approval:false,readiness:'blocked',n8n_execution_id:$execution.id,task_url:'http://127.0.0.1:8080/productions/c5bd5a65-21b0-4e1a-8459-b6b87344cfd7/shots/tasks/645ce68b-2537-46e9-9ba9-c54ac81ca6c9/'}}];"
+      }
+    }
+  ],
+  "connections": {
+    "Coordinator submits completed audit": {
+      "main": [
+        [
+          {
+            "node": "Read actual audit registry",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read actual audit registry": {
+      "main": [
+        [
+          {
+            "node": "Validate evidence and creative boundary",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Validate evidence and creative boundary": {
+      "main": [
+        [
+          {
+            "node": "Read Kitsu preparation task",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read Kitsu preparation task": {
+      "main": [
+        [
+          {
+            "node": "Require unchanged blocked task",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Require unchanged blocked task": {
+      "main": [
+        [
+          {
+            "node": "Read Kitsu existing previews",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read Kitsu existing previews": {
+      "main": [
+        [
+          {
+            "node": "Require registered evidence version",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Require registered evidence version": {
+      "main": [
+        [
+          {
+            "node": "Read Kitsu review comments",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read Kitsu review comments": {
+      "main": [
+        [
+          {
+            "node": "Check audit publication identity",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check audit publication identity": {
+      "main": [
+        [
+          {
+            "node": "Already published?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Already published?": {
+      "main": [
+        [
+          {
+            "node": "Read back Kitsu comments",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Fetch actual receipt attachment",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch actual receipt attachment": {
+      "main": [
+        [
+          {
+            "node": "Name receipt and build review comment",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Name receipt and build review comment": {
+      "main": [
+        [
+          {
+            "node": "Publish audit evidence in Kitsu",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Publish audit evidence in Kitsu": {
+      "main": [
+        [
+          {
+            "node": "Read back Kitsu comments",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read back Kitsu comments": {
+      "main": [
+        [
+          {
+            "node": "Verify actual publication",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true
+  },
+  "pinData": {}
+}

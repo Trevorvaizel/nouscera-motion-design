@@ -1,0 +1,137 @@
+{
+  "milestone": "Native production reliability pilot",
+  "scene": "CP05",
+  "status": "verified_bounded_publication_recovery",
+  "creative_approval": false,
+  "creative_readiness": "blocked",
+  "stable_auth": {
+    "same_token_after_restart": true,
+    "task_id": "645ce68b-2537-46e9-9ba9-c54ac81ca6c9",
+    "readiness": "blocked",
+    "creative_approval": false
+  },
+  "concurrency": {
+    "attachment_sha256": "c18d6f90e5d10ba9f1847199931bf98c857ff9bbd8b25a565fb9ad33082f47f7",
+    "concurrent_requests": true,
+    "run_id": "8c7b7f510d449568",
+    "first": {
+      "run_id": "8c7b7f510d449568",
+      "comment_id": "a45ee3d4-514c-42b4-b4cf-32c1ecdb0e94",
+      "attachment_count": 1,
+      "existing_preview_id": "60eddeb4-58c8-4296-97fa-fe563ce9f838",
+      "publication": "created",
+      "creative_approval": false,
+      "readiness": "blocked",
+      "n8n_execution_id": "15",
+      "task_url": "http://127.0.0.1:8080/productions/c5bd5a65-21b0-4e1a-8459-b6b87344cfd7/shots/tasks/645ce68b-2537-46e9-9ba9-c54ac81ca6c9/"
+    },
+    "retry": {
+      "run_id": "8c7b7f510d449568",
+      "comment_id": "a45ee3d4-514c-42b4-b4cf-32c1ecdb0e94",
+      "attachment_count": 1,
+      "existing_preview_id": "60eddeb4-58c8-4296-97fa-fe563ce9f838",
+      "publication": "reused",
+      "creative_approval": false,
+      "readiness": "blocked",
+      "n8n_execution_id": "16",
+      "task_url": "http://127.0.0.1:8080/productions/c5bd5a65-21b0-4e1a-8459-b6b87344cfd7/shots/tasks/645ce68b-2537-46e9-9ba9-c54ac81ca6c9/"
+    },
+    "comment_id": "a45ee3d4-514c-42b4-b4cf-32c1ecdb0e94",
+    "attachment_count": 1,
+    "preparation_preview_count": 1,
+    "motion_preview_count": 5,
+    "creative_approval": false,
+    "independent_readback": "pass"
+  },
+  "outage": {
+    "run_id": "8c7b7f510d449568",
+    "outage_http": 500,
+    "recovery": {
+      "run_id": "8c7b7f510d449568",
+      "comment_id": "a45ee3d4-514c-42b4-b4cf-32c1ecdb0e94",
+      "attachment_count": 1,
+      "existing_preview_id": "60eddeb4-58c8-4296-97fa-fe563ce9f838",
+      "publication": "reused",
+      "creative_approval": false,
+      "readiness": "blocked",
+      "n8n_execution_id": "18",
+      "task_url": "http://127.0.0.1:8080/productions/c5bd5a65-21b0-4e1a-8459-b6b87344cfd7/shots/tasks/645ce68b-2537-46e9-9ba9-c54ac81ca6c9/"
+    },
+    "scope": "Controlled unavailable destination on existing publication, not interrupted in-flight upload."
+  },
+  "expo": {
+    "task_id": "1c59cfac-b30c-4f71-979d-3f8d43b2326f",
+    "session": "authenticated",
+    "project_id": "c5bd5a65-21b0-4e1a-8459-b6b87344cfd7",
+    "shot_id": "f689d460-5490-4767-8489-756e48afad6b",
+    "has_task": true,
+    "task_type": "NOUSCERA Motion Investigation",
+    "creative_approval": false
+  },
+  "actual_n8n_executions": [
+    {
+      "id": 8,
+      "status": "success",
+      "workflow": "NousceraPrepAudit01"
+    },
+    {
+      "id": 9,
+      "status": "error",
+      "workflow": "NousceraKitsuAudit01"
+    },
+    {
+      "id": 10,
+      "status": "success",
+      "workflow": "NousceraKitsuAudit01"
+    },
+    {
+      "id": 11,
+      "status": "success",
+      "workflow": "NousceraKitsuAudit01"
+    },
+    {
+      "id": 12,
+      "status": "success",
+      "workflow": "NousceraKitsuAudit01"
+    },
+    {
+      "id": 13,
+      "status": "success",
+      "workflow": "NousceraKitsuAudit01"
+    },
+    {
+      "id": 14,
+      "status": "success",
+      "workflow": "NousceraPrepAudit01"
+    },
+    {
+      "id": 15,
+      "status": "success",
+      "workflow": "NousceraKitsuAudit01"
+    },
+    {
+      "id": 16,
+      "status": "success",
+      "workflow": "NousceraKitsuAudit01"
+    },
+    {
+      "id": 17,
+      "status": "error",
+      "workflow": "NousceraKitsuAudit01"
+    },
+    {
+      "id": 18,
+      "status": "success",
+      "workflow": "NousceraKitsuAudit01"
+    }
+  ],
+  "production_concurrency_limit": 1,
+  "limits": [
+    "Single local native n8n instance; no guarantee for concurrent external Kitsu writers or multi-instance deployments.",
+    "Controlled destination outage on an already-published audit; not arbitrary mid-upload crash.",
+    "Publisher only accepts completed blocked CP05 audit and exact registered unchanged board. New board requires new version review.",
+    "Coordinator invokes preparation then publisher separately. No autonomous general creative workflow.",
+    "Native UI author login not independently confirmed.",
+    "AYON deferred as overlapping optional integration. No new creative motion."
+  ]
+}
