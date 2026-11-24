@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-11-24",
+  "milestone": "WH-002",
+  "mode": "observable_technical_replay",
+  "status": "working_vertical_slice_verified_author_review_pending",
+  "base": "WH-001 replay contract unchanged",
+  "console": "http://127.0.0.1:8765/",
+  "demo_thread": "local-demo-01",
+  "model": "DeepSeek-R1-0528-Qwen3-8B Q8_0 local, no new model weights",
+  "evidence": {
+    "two_real_model_routes": "pass",
+    "two_real_replays": "72 decoded frames exact each",
+    "diagnostic_provider_failure": "blocked, persisted, recovered",
+    "technical_review_api": "verified on separate engineering test",
+    "local_unit_tests": "15 passed",
+    "studio": "local dev startup failed; local console implemented"
+  },
+  "creative_approval": false,
+  "creative_gate": "blocked_hidden_surface_readiness",
+  "next": "Author inspects operational console; then reconcile branch review and build actual clean-plate preparation and native Blender verification as WH-003. No new motion test before readiness.",
+  "limits": [
+    "bounded CP05 replay only",
+    "local SQLite not multi-workstation orchestration",
+    "artifact lineage displayed as linked parent records",
+    "no full model substitution as creative worker",
+    "no native Blender parity",
+    "no off-device private backup",
+    "no arbitrary agent tool execution"
+  ]
+}

@@ -255,3 +255,6 @@ If an earlier decision changes, **add a superseding entry**, rather than silentl
 **Operational decision:** Build on existing repo; register actual workflow lineage, executable contracts, validation, state/checkpoints and bounded model handoff. Keep private assets local; use branch and reviewable change. No orchestration platform or new weights required.
 **Revision trigger:** Reconcile against executed evidence; do not promote mere specifications to reliability or complete creative work. Cross-scene production and model substitution as workers require actual tests.
 **Approval boundary:** Authorization to build and verify engineering infrastructure is not approval of any animation.
+
+### D-035 | 2026-11-24 | Operational legibility and bounded intelligence
+**Decision:** Use LangGraph for observable stateful execution over WH-001, local browser console where Studio is not working, and the existing local reasoning model where cloud access is blocked. Keep deterministic gate independent of model. User authorized engineering milestone; review of console remains pending. Do not infer creative transfer or approval from technical replay. **Status:** implemented vertical slice with two verified actual replays; bounded decision and technical review exercised. Revisit tool architecture only against demonstrated gaps.

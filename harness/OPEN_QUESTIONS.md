@@ -62,3 +62,6 @@ An unresolved artistic choice is not the same as missing empirical evidence. A p
 - OQ-029: Does native Blender rendering match the prepared scene and preserve the same motion semantics? Not yet demonstrated.
 - OQ-030: How do we preserve private runtime artifacts beyond TREVOR? Hash registry and local snapshots are not an off-device backup.
 - OQ-023/024 remain open; no final shot or final screenplay approval.
+
+## WH-002 update
+OQ-026: bounded independent model context comprehension and routing verified with existing DeepSeek in two actual invocations; not a general cross-model creative-worker proof. OQ-027 through OQ-030 remain open. Studio local startup failure and external-process crash recovery remain separate engineering questions. WH-003 requires purposeful Krita/ComfyUI clean plates and native Blender evidence before further creative promotion.
