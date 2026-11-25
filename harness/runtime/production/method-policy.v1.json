@@ -1,0 +1,172 @@
+{
+  "version": "1.0.0",
+  "reference": {
+    "scene": "CP05",
+    "revision": 13,
+    "preview_id": "1f80f961-d5bb-4273-924b-c1712c5c3356",
+    "source_sha256": "354c4d5d7bba985a9ad9f009d7a3f9ded58e161ca0a51f13362fe7f9373d11e5",
+    "approval": "mci11/author-approval.json",
+    "readiness": "blocked"
+  },
+  "methods": [
+    {
+      "id": "review_approved_reference",
+      "objective": "review_approved_animation",
+      "fault": "none",
+      "tool": "Kitsu / Media Player",
+      "status": "reference_only",
+      "evidence": [
+        "mci11/author-approval.json"
+      ],
+      "requires": [
+        "Verify approved manifest and preview ID; open direct playback; no overwrite"
+      ]
+    },
+    {
+      "id": "ownership_audit",
+      "objective": "diagnose_scene",
+      "fault": "duplicate_or_overlay",
+      "tool": "Krita / Blender isolated layers",
+      "status": "diagnostic_only",
+      "evidence": [
+        "mci09-diagnosis/receipt.json"
+      ],
+      "requires": [
+        "Inspect stationary plate, source and moving cutouts, occlusion, and reveal sweep",
+        "Do not add preservation or concealment overlay"
+      ]
+    },
+    {
+      "id": "connected_anatomy",
+      "objective": "prepare_motion",
+      "fault": "wrist_or_cuff_distortion",
+      "tool": "Blender native armature",
+      "status": "reference_method_transfer_unproven",
+      "evidence": [
+        "mci10/wrist-review-receipt.json",
+        "mci10/connected-limb-review-receipt.json",
+        "mci11/publication-receipt.json",
+        "mci11/author-approval.json"
+      ],
+      "requires": [
+        "Define connected landmarks, pen attachment and allowable joint movement",
+        "Inspect rest and extreme poses, check local silhouette and joint continuity",
+        "Derive reveal sweep before plate repair",
+        "Do not pin cuff or prescribe incompatible trajectory"
+      ]
+    },
+    {
+      "id": "material_ownership",
+      "objective": "prepare_surface",
+      "fault": "hidden_material",
+      "tool": "Krita; bounded source sampling; ComfyUI only for narrowly specified texture hypothesis",
+      "status": "diagnostic_only",
+      "evidence": [
+        "mci09a/publication-receipt.json",
+        "mci10/native-method-receipt.json",
+        "mci10/material-review-receipt.json"
+      ],
+      "requires": [
+        "Use actual reveal map; disjoint material ownership; verify source and mask",
+        "Reject invented anatomy, duplicated edges, texture repetition",
+        "New inpaint graph requires separate registration and visual review; prior MAT routes rejected"
+      ]
+    },
+    {
+      "id": "independent_light",
+      "objective": "prepare_surface",
+      "fault": "shadow_drags_texture",
+      "tool": "Blender separate attenuation layer",
+      "status": "reference_method_transfer_unproven",
+      "evidence": [
+        "mci09-v11/v11_comparison_receipt.json",
+        "mci11/publication-receipt.json"
+      ],
+      "requires": [
+        "Shadow is light attenuation, not displaced source paper texture",
+        "Verify stationary paper and review edge/contact in playback"
+      ]
+    },
+    {
+      "id": "rigid_tool_and_trace",
+      "objective": "prepare_motion",
+      "fault": "pen_or_ink",
+      "tool": "Blender coupled prop and inscription layer; ComfyUI reference only",
+      "status": "reference_method_transfer_unproven",
+      "evidence": [
+        "mci09-integrated/layer-receipt.json",
+        "mci09-v11/v11_comparison_receipt.json",
+        "mci11/publication-receipt.json"
+      ],
+      "requires": [
+        "Retain rigid pen geometry and grip",
+        "Align nib path and inscription timing; independently review contact"
+      ]
+    },
+    {
+      "id": "coherent_head",
+      "objective": "prepare_motion",
+      "fault": "head_overlay_or_gaze",
+      "tool": "Krita / Blender anatomical preparation",
+      "status": "unproven_research_only",
+      "evidence": [
+        "mci09-diagnosis/receipt.json",
+        "mci11/publication-receipt.json"
+      ],
+      "requires": [
+        "Keep head, neck and supporting hand coherent; stationary head valid for reference",
+        "Do not isolate head motion without ownership and acting test"
+      ]
+    },
+    {
+      "id": "integrated_preview",
+      "objective": "render_experimental_preview",
+      "fault": "none",
+      "tool": "Blender native armature and VSE; Kitsu",
+      "status": "requires_coordinator_preflight",
+      "evidence": [
+        "mci11/publication-receipt.json",
+        "mci11/author-approval.json"
+      ],
+      "requires": [
+        "Explicit author authorization for isolated experiment; new version folder",
+        "Verify source/dependencies, native capability, pose and reveal evidence",
+        "Disclose remaining gate blockers; never mark a preview approved",
+        "Render actual frames, decode MP4, publish new candidate, request human judgment"
+      ]
+    },
+    {
+      "id": "transfer_validation",
+      "objective": "transfer_to_new_scene",
+      "fault": "none",
+      "tool": "ChatGPT / Krita / Blender / n8n",
+      "status": "unproven_research_only",
+      "evidence": [
+        "mci11/author-approval.json",
+        "reliability-receipt.json"
+      ],
+      "requires": [
+        "Recover scene purpose, action, source and constraints",
+        "Register new scene-specific method; test smallest meaningful slice",
+        "Never inherit CP05 approval or hardcoded coordinates"
+      ]
+    }
+  ],
+  "retired_methods": [
+    "MCI10-native-MAT-v01",
+    "MCI10-garment-MAT-v01",
+    "NousceraNativeMAT01",
+    "NousceraMaterialMAT01",
+    "full_image_preservation_overlay",
+    "stationary_sleeve_concealment",
+    "pinned_cuff_area_compensation"
+  ],
+  "rules": [
+    "Author approval binds exact clip and version, not method or film",
+    "No silent fallback if application capability absent",
+    "Execution success is not asset validity",
+    "Global area and pixel preservation are proxies, not visual acceptance",
+    "Native application first; code for coordination, geometry, integrity and missing bounded capabilities",
+    "No creative mutation or approval from decision gate"
+  ]
+}

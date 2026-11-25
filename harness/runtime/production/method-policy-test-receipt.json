@@ -1,0 +1,367 @@
+{
+  "policy_version": "1.0.0",
+  "policy_sha256": "b4f8044e4809db677fbdddeb68eef4df2fde7bddd288f198fb2b85bb5d4757bd",
+  "native_workflow": "NousceraMethodDecision01",
+  "cases": [
+    {
+      "case": "review_approved_reference",
+      "http": 200,
+      "result": {
+        "policy_version": "1.0.0",
+        "scene": "CP05",
+        "objective": "review_approved_animation",
+        "fault": "none",
+        "method": "review_approved_reference",
+        "tool": "Kitsu / Media Player",
+        "disposition": "reference_only",
+        "evidence": [
+          "mci11/author-approval.json"
+        ],
+        "required_checks": [
+          "Verify approved manifest and preview ID; open direct playback; no overwrite"
+        ],
+        "approval_reference": {
+          "scene": "CP05",
+          "revision": 13,
+          "preview_id": "1f80f961-d5bb-4273-924b-c1712c5c3356",
+          "source_sha256": "354c4d5d7bba985a9ad9f009d7a3f9ded58e161ca0a51f13362fe7f9373d11e5",
+          "approval": "mci11/author-approval.json",
+          "readiness": "blocked"
+        },
+        "creative_approval_granted": false,
+        "execution_authorized": false,
+        "readiness_promoted": false,
+        "reason": "Decision packet only; coordinator verifies evidence and invokes separately registered method",
+        "n8n_execution_id": "22"
+      }
+    },
+    {
+      "case": "ownership_audit",
+      "http": 200,
+      "result": {
+        "policy_version": "1.0.0",
+        "scene": "CP05",
+        "objective": "diagnose_scene",
+        "fault": "duplicate_or_overlay",
+        "method": "ownership_audit",
+        "tool": "Krita / Blender isolated layers",
+        "disposition": "diagnostic_only",
+        "evidence": [
+          "mci09-diagnosis/receipt.json"
+        ],
+        "required_checks": [
+          "Inspect stationary plate, source and moving cutouts, occlusion, and reveal sweep",
+          "Do not add preservation or concealment overlay"
+        ],
+        "approval_reference": {
+          "scene": "CP05",
+          "revision": 13,
+          "preview_id": "1f80f961-d5bb-4273-924b-c1712c5c3356",
+          "source_sha256": "354c4d5d7bba985a9ad9f009d7a3f9ded58e161ca0a51f13362fe7f9373d11e5",
+          "approval": "mci11/author-approval.json",
+          "readiness": "blocked"
+        },
+        "creative_approval_granted": false,
+        "execution_authorized": false,
+        "readiness_promoted": false,
+        "reason": "Decision packet only; coordinator verifies evidence and invokes separately registered method",
+        "n8n_execution_id": "23"
+      }
+    },
+    {
+      "case": "connected_anatomy",
+      "http": 200,
+      "result": {
+        "policy_version": "1.0.0",
+        "scene": "CP05",
+        "objective": "prepare_motion",
+        "fault": "wrist_or_cuff_distortion",
+        "method": "connected_anatomy",
+        "tool": "Blender native armature",
+        "disposition": "reference_method_transfer_unproven",
+        "evidence": [
+          "mci10/wrist-review-receipt.json",
+          "mci10/connected-limb-review-receipt.json",
+          "mci11/publication-receipt.json",
+          "mci11/author-approval.json"
+        ],
+        "required_checks": [
+          "Define connected landmarks, pen attachment and allowable joint movement",
+          "Inspect rest and extreme poses, check local silhouette and joint continuity",
+          "Derive reveal sweep before plate repair",
+          "Do not pin cuff or prescribe incompatible trajectory"
+        ],
+        "approval_reference": {
+          "scene": "CP05",
+          "revision": 13,
+          "preview_id": "1f80f961-d5bb-4273-924b-c1712c5c3356",
+          "source_sha256": "354c4d5d7bba985a9ad9f009d7a3f9ded58e161ca0a51f13362fe7f9373d11e5",
+          "approval": "mci11/author-approval.json",
+          "readiness": "blocked"
+        },
+        "creative_approval_granted": false,
+        "execution_authorized": false,
+        "readiness_promoted": false,
+        "reason": "Decision packet only; coordinator verifies evidence and invokes separately registered method",
+        "n8n_execution_id": "24"
+      }
+    },
+    {
+      "case": "material_ownership",
+      "http": 200,
+      "result": {
+        "policy_version": "1.0.0",
+        "scene": "CP05",
+        "objective": "prepare_surface",
+        "fault": "hidden_material",
+        "method": "material_ownership",
+        "tool": "Krita; bounded source sampling; ComfyUI only for narrowly specified texture hypothesis",
+        "disposition": "diagnostic_only",
+        "evidence": [
+          "mci09a/publication-receipt.json",
+          "mci10/native-method-receipt.json",
+          "mci10/material-review-receipt.json"
+        ],
+        "required_checks": [
+          "Use actual reveal map; disjoint material ownership; verify source and mask",
+          "Reject invented anatomy, duplicated edges, texture repetition",
+          "New inpaint graph requires separate registration and visual review; prior MAT routes rejected"
+        ],
+        "approval_reference": {
+          "scene": "CP05",
+          "revision": 13,
+          "preview_id": "1f80f961-d5bb-4273-924b-c1712c5c3356",
+          "source_sha256": "354c4d5d7bba985a9ad9f009d7a3f9ded58e161ca0a51f13362fe7f9373d11e5",
+          "approval": "mci11/author-approval.json",
+          "readiness": "blocked"
+        },
+        "creative_approval_granted": false,
+        "execution_authorized": false,
+        "readiness_promoted": false,
+        "reason": "Decision packet only; coordinator verifies evidence and invokes separately registered method",
+        "n8n_execution_id": "25"
+      }
+    },
+    {
+      "case": "independent_light",
+      "http": 200,
+      "result": {
+        "policy_version": "1.0.0",
+        "scene": "CP05",
+        "objective": "prepare_surface",
+        "fault": "shadow_drags_texture",
+        "method": "independent_light",
+        "tool": "Blender separate attenuation layer",
+        "disposition": "reference_method_transfer_unproven",
+        "evidence": [
+          "mci09-v11/v11_comparison_receipt.json",
+          "mci11/publication-receipt.json"
+        ],
+        "required_checks": [
+          "Shadow is light attenuation, not displaced source paper texture",
+          "Verify stationary paper and review edge/contact in playback"
+        ],
+        "approval_reference": {
+          "scene": "CP05",
+          "revision": 13,
+          "preview_id": "1f80f961-d5bb-4273-924b-c1712c5c3356",
+          "source_sha256": "354c4d5d7bba985a9ad9f009d7a3f9ded58e161ca0a51f13362fe7f9373d11e5",
+          "approval": "mci11/author-approval.json",
+          "readiness": "blocked"
+        },
+        "creative_approval_granted": false,
+        "execution_authorized": false,
+        "readiness_promoted": false,
+        "reason": "Decision packet only; coordinator verifies evidence and invokes separately registered method",
+        "n8n_execution_id": "26"
+      }
+    },
+    {
+      "case": "rigid_tool_and_trace",
+      "http": 200,
+      "result": {
+        "policy_version": "1.0.0",
+        "scene": "CP05",
+        "objective": "prepare_motion",
+        "fault": "pen_or_ink",
+        "method": "rigid_tool_and_trace",
+        "tool": "Blender coupled prop and inscription layer; ComfyUI reference only",
+        "disposition": "reference_method_transfer_unproven",
+        "evidence": [
+          "mci09-integrated/layer-receipt.json",
+          "mci09-v11/v11_comparison_receipt.json",
+          "mci11/publication-receipt.json"
+        ],
+        "required_checks": [
+          "Retain rigid pen geometry and grip",
+          "Align nib path and inscription timing; independently review contact"
+        ],
+        "approval_reference": {
+          "scene": "CP05",
+          "revision": 13,
+          "preview_id": "1f80f961-d5bb-4273-924b-c1712c5c3356",
+          "source_sha256": "354c4d5d7bba985a9ad9f009d7a3f9ded58e161ca0a51f13362fe7f9373d11e5",
+          "approval": "mci11/author-approval.json",
+          "readiness": "blocked"
+        },
+        "creative_approval_granted": false,
+        "execution_authorized": false,
+        "readiness_promoted": false,
+        "reason": "Decision packet only; coordinator verifies evidence and invokes separately registered method",
+        "n8n_execution_id": "27"
+      }
+    },
+    {
+      "case": "coherent_head",
+      "http": 200,
+      "result": {
+        "policy_version": "1.0.0",
+        "scene": "CP05",
+        "objective": "prepare_motion",
+        "fault": "head_overlay_or_gaze",
+        "method": "coherent_head",
+        "tool": "Krita / Blender anatomical preparation",
+        "disposition": "unproven_research_only",
+        "evidence": [
+          "mci09-diagnosis/receipt.json",
+          "mci11/publication-receipt.json"
+        ],
+        "required_checks": [
+          "Keep head, neck and supporting hand coherent; stationary head valid for reference",
+          "Do not isolate head motion without ownership and acting test"
+        ],
+        "approval_reference": {
+          "scene": "CP05",
+          "revision": 13,
+          "preview_id": "1f80f961-d5bb-4273-924b-c1712c5c3356",
+          "source_sha256": "354c4d5d7bba985a9ad9f009d7a3f9ded58e161ca0a51f13362fe7f9373d11e5",
+          "approval": "mci11/author-approval.json",
+          "readiness": "blocked"
+        },
+        "creative_approval_granted": false,
+        "execution_authorized": false,
+        "readiness_promoted": false,
+        "reason": "Decision packet only; coordinator verifies evidence and invokes separately registered method",
+        "n8n_execution_id": "28"
+      }
+    },
+    {
+      "case": "integrated_preview",
+      "http": 200,
+      "result": {
+        "policy_version": "1.0.0",
+        "scene": "CP05",
+        "objective": "render_experimental_preview",
+        "fault": "none",
+        "method": "integrated_preview",
+        "tool": "Blender native armature and VSE; Kitsu",
+        "disposition": "requires_coordinator_preflight",
+        "evidence": [
+          "mci11/publication-receipt.json",
+          "mci11/author-approval.json"
+        ],
+        "required_checks": [
+          "Explicit author authorization for isolated experiment; new version folder",
+          "Verify source/dependencies, native capability, pose and reveal evidence",
+          "Disclose remaining gate blockers; never mark a preview approved",
+          "Render actual frames, decode MP4, publish new candidate, request human judgment"
+        ],
+        "approval_reference": {
+          "scene": "CP05",
+          "revision": 13,
+          "preview_id": "1f80f961-d5bb-4273-924b-c1712c5c3356",
+          "source_sha256": "354c4d5d7bba985a9ad9f009d7a3f9ded58e161ca0a51f13362fe7f9373d11e5",
+          "approval": "mci11/author-approval.json",
+          "readiness": "blocked"
+        },
+        "creative_approval_granted": false,
+        "execution_authorized": false,
+        "readiness_promoted": false,
+        "reason": "Decision packet only; coordinator verifies evidence and invokes separately registered method",
+        "n8n_execution_id": "29"
+      }
+    },
+    {
+      "case": "transfer_validation",
+      "http": 200,
+      "result": {
+        "policy_version": "1.0.0",
+        "scene": "synthetic-transfer-check",
+        "objective": "transfer_to_new_scene",
+        "fault": "none",
+        "method": "transfer_validation",
+        "tool": "ChatGPT / Krita / Blender / n8n",
+        "disposition": "unproven_research_only",
+        "evidence": [
+          "mci11/author-approval.json",
+          "reliability-receipt.json"
+        ],
+        "required_checks": [
+          "Recover scene purpose, action, source and constraints",
+          "Register new scene-specific method; test smallest meaningful slice",
+          "Never inherit CP05 approval or hardcoded coordinates"
+        ],
+        "approval_reference": null,
+        "creative_approval_granted": false,
+        "execution_authorized": false,
+        "readiness_promoted": false,
+        "reason": "Decision packet only; coordinator verifies evidence and invokes separately registered method",
+        "n8n_execution_id": "30"
+      }
+    },
+    {
+      "case": "retired_mat",
+      "http": 500,
+      "rejected": true
+    },
+    {
+      "case": "retired_overlay",
+      "http": 500,
+      "rejected": true
+    },
+    {
+      "case": "wrong_method",
+      "http": 500,
+      "rejected": true
+    },
+    {
+      "case": "unknown_problem",
+      "http": 500,
+      "rejected": true
+    },
+    {
+      "case": "wrong_source",
+      "http": 500,
+      "rejected": true
+    },
+    {
+      "case": "unfamiliar_scene",
+      "http": 500,
+      "rejected": true
+    },
+    {
+      "case": "self_approval",
+      "http": 500,
+      "rejected": true
+    },
+    {
+      "case": "unauthenticated",
+      "http": 403,
+      "rejected": true
+    },
+    {
+      "case": "retired_webhook_nouscera-mci10-native-inpaint-v1",
+      "http": 404
+    },
+    {
+      "case": "retired_webhook_nouscera-mci10-garment-v1",
+      "http": 404
+    }
+  ],
+  "test_count": 19,
+  "approved_dependency_count": 197,
+  "historical_workflows_retired": true,
+  "other_native_workflows_active": true,
+  "creative_writes": false,
+  "scope": "Deterministic structured method decision; coordinator still verifies scene evidence and dispatches methods. No autonomous tool selection or execution claim."
+}

@@ -1,0 +1,25 @@
+{
+  "as_of": "2026-11-25",
+  "current_milestone": "operational intelligence v1 consolidated",
+  "approved_motion": {
+    "scene": "CP05",
+    "revision": 13,
+    "preview_id": "1f80f961-d5bb-4273-924b-c1712c5c3356",
+    "approval": "mci11/author-approval.json"
+  },
+  "preparation_gate": "blocked; unchanged",
+  "motion_version_count": 13,
+  "other_approved_motion_versions": 0,
+  "policy": "method-policy.v1.json",
+  "native_decision_workflow": "NousceraMethodDecision01",
+  "native_test_receipt": "method-policy-test-receipt.json",
+  "historical_inpaint_workflows": "unpublished, retained",
+  "kitsu_consolidation_comment_id": "20178068-9780-4319-92a6-7c230793a4d1",
+  "next": "Recover next author-directed creative objective, invoke method decision and verify transfer evidence before new work.",
+  "limitations": [
+    "Decision gate only; coordinator verifies evidence and dispatches",
+    "Not universal native-tool interlock",
+    "Unfamiliar-scene transfer unproven",
+    "No new animation or readiness approval"
+  ]
+}
