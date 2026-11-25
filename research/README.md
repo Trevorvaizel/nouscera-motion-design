@@ -9,3 +9,8 @@ The 13 provinces: P01 Cinematic Meaning; P02 Narrative and Rhetoric; P03 Multime
 These drafts represent a systematic first-pass study across fields, not an exhaustive review of original evidence. Some supporting sources are abstracts, secondary accounts, publisher summaries or vendor references. The 109-force desk audit is a provisional classification, not an empirical validation. See [knowledge policy](../harness/KNOWLEDGE_POLICY.md).
 
 The former full compendium and ZIP exports are intentionally not duplicated. Individual editable manuscripts plus Git history are the primary sources here. The KIRA source materials that inspired our *cartographic method* remain outside this public repo.
+
+
+## 2026-11-25 narrow publication and source-use amendment
+
+The author explicitly authorized public inclusion of the fourteen supplied KIRA cartographic manifestos only, under `research/kira-manifestos/`. This is a narrow exception to earlier exclusion language; all other private KIRA sources, transcripts and restricted assets remain excluded. Consult the actual applicable manifesto forces alongside the NOUSCERA research provinces before deriving artistic constraints. See `methodology/ARTISTIC_CONSTRAINT_CONTRACT_v01.md` for the proposed bridge; runtime enforcement is not yet demonstrated.

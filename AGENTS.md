@@ -34,3 +34,8 @@ Never copy private KIRA source materials, personal/private chats, confidential w
 ## Definition of progress
 
 An output counts as progress when it preserves intended meaning, resolves a concrete uncertainty, improves a specific handoff, or produces interpretable experimental evidence.
+
+
+## 2026-11-25 narrow publication and source-use amendment
+
+The author explicitly authorized public inclusion of the fourteen supplied KIRA cartographic manifestos only, under `research/kira-manifestos/`. This is a narrow exception to earlier exclusion language; all other private KIRA sources, transcripts and restricted assets remain excluded. Consult the actual applicable manifesto forces alongside the NOUSCERA research provinces before deriving artistic constraints. See `methodology/ARTISTIC_CONSTRAINT_CONTRACT_v01.md` for the proposed bridge; runtime enforcement is not yet demonstrated.
