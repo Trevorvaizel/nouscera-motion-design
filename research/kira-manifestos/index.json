@@ -1,0 +1,676 @@
+{
+  "version": "0.1",
+  "status": "source index, not validated production rules",
+  "sources": [
+    {
+      "path": "research/kira-manifestos/the-institutional-adoption-cartographers-manifesto.md",
+      "status": "candidate-canon",
+      "version": 4,
+      "forces": [
+        {
+          "heading": "FORCE I: The Counterfactual-Value Force",
+          "line": 151
+        },
+        {
+          "heading": "FORCE II: The Complement-Bottleneck Force",
+          "line": 169
+        },
+        {
+          "heading": "FORCE III: The Switching-Cost / Lock-In Force",
+          "line": 187
+        },
+        {
+          "heading": "FORCE IV: The Legitimacy-Decoupling Force",
+          "line": 205
+        },
+        {
+          "heading": "FORCE V: The Role-Displacement Force",
+          "line": 223
+        },
+        {
+          "heading": "FORCE VI: The Normalization-Labor Force",
+          "line": 241
+        },
+        {
+          "heading": "FORCE VII: The Threshold-Evidence Force",
+          "line": 259
+        },
+        {
+          "heading": "FORCE VIII: The Exit-Absence Force",
+          "line": 277
+        }
+      ]
+    },
+    {
+      "path": "research/kira-manifestos/the-mapmakers-manifesto.md",
+      "status": "candidate-canon",
+      "version": 4,
+      "forces": [
+        {
+          "heading": "FORCE I: Selective Legibility",
+          "line": 135
+        },
+        {
+          "heading": "FORCE II: The Projection Bargain",
+          "line": 144
+        },
+        {
+          "heading": "FORCE III: The Scale–Ontology Shift",
+          "line": 153
+        },
+        {
+          "heading": "FORCE IV: Symbolic Ordering",
+          "line": 162
+        },
+        {
+          "heading": "FORCE V: Boundary Production",
+          "line": 171
+        },
+        {
+          "heading": "FORCE VI: Topological Priority",
+          "line": 180
+        },
+        {
+          "heading": "FORCE VII: Crispness–Authority Leakage",
+          "line": 189
+        },
+        {
+          "heading": "FORCE VIII: Coverage Feedback",
+          "line": 198
+        },
+        {
+          "heading": "FORCE IX: Counter-Map Capture & Custody",
+          "line": 207
+        },
+        {
+          "heading": "FORCE X: Temporal Staleness",
+          "line": 216
+        }
+      ]
+    },
+    {
+      "path": "research/kira-manifestos/the-trust-authority-and-authorship-cartographers-manifesto.md",
+      "status": "candidate-canon",
+      "version": 4,
+      "forces": [
+        {
+          "heading": "FORCE I: Vulnerability–Dependence Coupling",
+          "line": 124
+        },
+        {
+          "heading": "FORCE II: Warrant–Reliance Calibration",
+          "line": 133
+        },
+        {
+          "heading": "FORCE III: Trustworthiness Decomposition",
+          "line": 142
+        },
+        {
+          "heading": "FORCE IV: Legitimacy–Compliance Gap",
+          "line": 151
+        },
+        {
+          "heading": "FORCE V: Epistemic Credit Allocation",
+          "line": 160
+        },
+        {
+          "heading": "FORCE VI: Fiduciary Alignment & Conflict",
+          "line": 169
+        },
+        {
+          "heading": "FORCE VII: Delegation Drift",
+          "line": 178
+        },
+        {
+          "heading": "FORCE VIII: Authorship Fragmentation",
+          "line": 187
+        },
+        {
+          "heading": "FORCE IX: Consent Scope Creep",
+          "line": 196
+        },
+        {
+          "heading": "FORCE X: Provenance–Truth Gap",
+          "line": 205
+        },
+        {
+          "heading": "FORCE XI: Anthropomorphic Authority & Sycophancy",
+          "line": 214
+        }
+      ]
+    },
+    {
+      "path": "research/kira-manifestos/the-embodied-and-ritual-cartographers-manifesto.md",
+      "status": "candidate-canon",
+      "version": 4,
+      "forces": [
+        {
+          "heading": "FORCE I: The Perception–Action Loop",
+          "line": 120
+        },
+        {
+          "heading": "FORCE II: Affordance Relativity",
+          "line": 129
+        },
+        {
+          "heading": "FORCE III: Coupling Dependence",
+          "line": 138
+        },
+        {
+          "heading": "FORCE IV: Material Recursion",
+          "line": 147
+        },
+        {
+          "heading": "FORCE V: Gesture–Thought Feedback",
+          "line": 156
+        },
+        {
+          "heading": "FORCE VI: The Anxiety–Ritualization Loop",
+          "line": 165
+        },
+        {
+          "heading": "FORCE VII: Ritual Form Stabilization",
+          "line": 174
+        },
+        {
+          "heading": "FORCE VIII: Causal Opacity Capture",
+          "line": 183
+        },
+        {
+          "heading": "FORCE IX: Synchrony Amplification",
+          "line": 192
+        },
+        {
+          "heading": "FORCE X: Canonical–Indexical Divergence",
+          "line": 201
+        }
+      ]
+    },
+    {
+      "path": "research/kira-manifestos/the-representation-cartographers-manifesto.md",
+      "status": "candidate-canon",
+      "version": 4,
+      "forces": [
+        {
+          "heading": "FORCE I: Selective Disclosure",
+          "line": 122
+        },
+        {
+          "heading": "FORCE II: Interpretant Formation",
+          "line": 131
+        },
+        {
+          "heading": "FORCE III: Inferential Channeling",
+          "line": 140
+        },
+        {
+          "heading": "FORCE IV: Ontological Commitment",
+          "line": 149
+        },
+        {
+          "heading": "FORCE V: Reification Drift",
+          "line": 158
+        },
+        {
+          "heading": "FORCE VI: Mobility Amplification",
+          "line": 167
+        },
+        {
+          "heading": "FORCE VII: Coordination Elasticity",
+          "line": 176
+        },
+        {
+          "heading": "FORCE VIII: Grounding Debt",
+          "line": 185
+        },
+        {
+          "heading": "FORCE IX: Authority Delegation",
+          "line": 194
+        },
+        {
+          "heading": "FORCE X: Representational Recursion",
+          "line": 203
+        }
+      ]
+    },
+    {
+      "path": "research/kira-manifestos/the-story-myth-and-narrative-transfer-cartographers-manifesto.md",
+      "status": "candidate-canon",
+      "version": 4,
+      "forces": [
+        {
+          "heading": "FORCE I: Event–Discourse Selection",
+          "line": 120
+        },
+        {
+          "heading": "FORCE II: Emplotment Causality",
+          "line": 129
+        },
+        {
+          "heading": "FORCE III: Voice–Focalization Positioning",
+          "line": 138
+        },
+        {
+          "heading": "FORCE IV: Coherence Premium",
+          "line": 147
+        },
+        {
+          "heading": "FORCE V: Transportation Shield",
+          "line": 156
+        },
+        {
+          "heading": "FORCE VI: Identification–Resistance Coupling",
+          "line": 165
+        },
+        {
+          "heading": "FORCE VII: Schema Reconstruction",
+          "line": 174
+        },
+        {
+          "heading": "FORCE VIII: Prestige–Content & Attractor Mutation",
+          "line": 183
+        },
+        {
+          "heading": "FORCE IX: Mythic Charter & Naturalization",
+          "line": 192
+        },
+        {
+          "heading": "FORCE X: Master-Narrative Gravity",
+          "line": 201
+        },
+        {
+          "heading": "FORCE XI: Synthetic Coherence Scaling",
+          "line": 210
+        }
+      ]
+    },
+    {
+      "path": "research/kira-manifestos/the-attention-and-perception-cartographers-manifesto.md",
+      "status": "candidate-canon",
+      "version": 4,
+      "forces": [
+        {
+          "heading": "FORCE I: Priority Convergence",
+          "line": 118
+        },
+        {
+          "heading": "FORCE II: The Objecthood Gate",
+          "line": 127
+        },
+        {
+          "heading": "FORCE III: Binding Demand",
+          "line": 136
+        },
+        {
+          "heading": "FORCE IV: Load–Selection Crossover",
+          "line": 145
+        },
+        {
+          "heading": "FORCE V: Search-Termination Threshold",
+          "line": 154
+        },
+        {
+          "heading": "FORCE VI: Gist–Focal Calibration",
+          "line": 163
+        },
+        {
+          "heading": "FORCE VII: Transient Dependence",
+          "line": 172
+        },
+        {
+          "heading": "FORCE VIII: Action-Scaled Affordance",
+          "line": 181
+        },
+        {
+          "heading": "FORCE IX: Arousal Priority Amplification",
+          "line": 190
+        },
+        {
+          "heading": "FORCE X: Receptor–Environment Fit",
+          "line": 199
+        }
+      ]
+    },
+    {
+      "path": "research/kira-manifestos/the-conversation-and-recognition-cartographers-manifesto.md",
+      "status": "candidate-canon",
+      "version": 1,
+      "forces": [
+        {
+          "heading": "FORCE I: The Grounding Requirement",
+          "line": 121
+        },
+        {
+          "heading": "FORCE II: Conditional Relevance",
+          "line": 130
+        },
+        {
+          "heading": "FORCE III: The Repair Preference",
+          "line": 139
+        },
+        {
+          "heading": "FORCE IV: Face Work",
+          "line": 148
+        },
+        {
+          "heading": "FORCE V: Frame Alignment",
+          "line": 157
+        },
+        {
+          "heading": "FORCE VI: The Recognition Event",
+          "line": 166
+        },
+        {
+          "heading": "FORCE VII: Espoused vs. Enacted",
+          "line": 175
+        },
+        {
+          "heading": "FORCE VIII: The Double Bind",
+          "line": 184
+        },
+        {
+          "heading": "FORCE IX: Empathy-as-Verified",
+          "line": 193
+        },
+        {
+          "heading": "FORCE X: Change-Talk Mobilization",
+          "line": 202
+        }
+      ]
+    },
+    {
+      "path": "research/kira-manifestos/the-artifact-and-interface-cartographers-manifesto.md",
+      "status": "candidate-canon",
+      "version": 4,
+      "forces": [
+        {
+          "heading": "FORCE I: Translation Distance",
+          "line": 121
+        },
+        {
+          "heading": "FORCE II: State Legibility",
+          "line": 130
+        },
+        {
+          "heading": "FORCE III: Consequence Coupling",
+          "line": 139
+        },
+        {
+          "heading": "FORCE IV: Recovery Horizon",
+          "line": 148
+        },
+        {
+          "heading": "FORCE V: Constraint Gradient",
+          "line": 157
+        },
+        {
+          "heading": "FORCE VI: Affordance–Receptor Fit",
+          "line": 166
+        },
+        {
+          "heading": "FORCE VII: Cognitive Distribution",
+          "line": 175
+        },
+        {
+          "heading": "FORCE VIII: Situated Drift",
+          "line": 184
+        },
+        {
+          "heading": "FORCE IX: Temporal Continuity",
+          "line": 193
+        },
+        {
+          "heading": "FORCE X: Safety Envelope",
+          "line": 202
+        },
+        {
+          "heading": "FORCE XI: Probabilistic Agency Gap",
+          "line": 211
+        }
+      ]
+    },
+    {
+      "path": "research/kira-manifestos/the-tools-and-images-cartographers-manifesto.md",
+      "status": "candidate-canon",
+      "version": 4,
+      "forces": [
+        {
+          "heading": "FORCE I: Technique Inheritance",
+          "line": 121
+        },
+        {
+          "heading": "FORCE II: Operational-Chain Occlusion",
+          "line": 130
+        },
+        {
+          "heading": "FORCE III: Delegated Relation",
+          "line": 139
+        },
+        {
+          "heading": "FORCE IV: Object-Career Drift",
+          "line": 148
+        },
+        {
+          "heading": "FORCE V: Situated-Plan Break",
+          "line": 157
+        },
+        {
+          "heading": "FORCE VI: Boundary Plasticity",
+          "line": 166
+        },
+        {
+          "heading": "FORCE VII: Standardization Torque",
+          "line": 175
+        },
+        {
+          "heading": "FORCE VIII: Inscription & Image Authority",
+          "line": 184
+        },
+        {
+          "heading": "FORCE IX: Inspectability–Custody Conversion",
+          "line": 193
+        },
+        {
+          "heading": "FORCE X: Retirement Sovereignty",
+          "line": 202
+        }
+      ]
+    },
+    {
+      "path": "research/kira-manifestos/the-cognitive-load-and-learning-sciences-cartographers-manifesto.md",
+      "status": "candidate-canon",
+      "version": 4,
+      "forces": [
+        {
+          "heading": "FORCE I: Schema-Relative Demand",
+          "line": 121
+        },
+        {
+          "heading": "FORCE II: Means–Ends Search Displacement",
+          "line": 130
+        },
+        {
+          "heading": "FORCE III: Guidance–Expertise Reversal",
+          "line": 139
+        },
+        {
+          "heading": "FORCE IV: Representation Coordination Cost",
+          "line": 148
+        },
+        {
+          "heading": "FORCE V: Retrieval Reconstruction",
+          "line": 157
+        },
+        {
+          "heading": "FORCE VI: Spacing–Difficulty Inversion",
+          "line": 166
+        },
+        {
+          "heading": "FORCE VII: Learning–Performance Dissociation",
+          "line": 175
+        },
+        {
+          "heading": "FORCE VIII: Transfer Cue Geometry",
+          "line": 184
+        },
+        {
+          "heading": "FORCE IX: Metacognitive Cue Capture",
+          "line": 193
+        },
+        {
+          "heading": "FORCE X: Affective-Control Bandwidth",
+          "line": 202
+        },
+        {
+          "heading": "FORCE XI: Offloading–Internalization Tension",
+          "line": 211
+        }
+      ]
+    },
+    {
+      "path": "research/kira-manifestos/the-ai-cognitive-surface-cartographers-manifesto.md",
+      "status": "candidate-canon",
+      "version": 4,
+      "forces": [
+        {
+          "heading": "FORCE I: Delegation-Boundary Drift",
+          "line": 121
+        },
+        {
+          "heading": "FORCE II: Offload–Load Conversion",
+          "line": 130
+        },
+        {
+          "heading": "FORCE III: Reliance-Calibration Gap",
+          "line": 139
+        },
+        {
+          "heading": "FORCE IV: Automation Irony",
+          "line": 148
+        },
+        {
+          "heading": "FORCE V: First-Draft Gravity",
+          "line": 157
+        },
+        {
+          "heading": "FORCE VI: Belief-Feedback Amplification",
+          "line": 166
+        },
+        {
+          "heading": "FORCE VII: Anthropomorphic Trust Transfer",
+          "line": 175
+        },
+        {
+          "heading": "FORCE VIII: Complementarity Jaggedness",
+          "line": 184
+        },
+        {
+          "heading": "FORCE IX: Assisted-Performance Mirage",
+          "line": 193
+        },
+        {
+          "heading": "FORCE X: Metacognitive Occlusion",
+          "line": 202
+        },
+        {
+          "heading": "FORCE XI: Provenance & Coverage Gradient",
+          "line": 211
+        }
+      ]
+    },
+    {
+      "path": "research/kira-manifestos/the-semiotic-cartographers-manifesto.md",
+      "status": "candidate-canon",
+      "version": 4,
+      "forces": [
+        {
+          "heading": "FORCE I: The Interpretant Gap",
+          "line": 122
+        },
+        {
+          "heading": "FORCE II: The Object-Resistance Force",
+          "line": 131
+        },
+        {
+          "heading": "FORCE III: The Difference-System Force",
+          "line": 140
+        },
+        {
+          "heading": "FORCE IV: The Myth-Naturalization Force",
+          "line": 149
+        },
+        {
+          "heading": "FORCE V: The Modal-Allocation Force",
+          "line": 158
+        },
+        {
+          "heading": "FORCE VI: The Material-Delegation Force",
+          "line": 167
+        },
+        {
+          "heading": "FORCE VII: The Code-Power Force",
+          "line": 176
+        },
+        {
+          "heading": "FORCE VIII: The Compression-Residue Force",
+          "line": 185
+        },
+        {
+          "heading": "FORCE IX: The Closure–Polysemy Tension",
+          "line": 194
+        }
+      ]
+    },
+    {
+      "path": "research/kira-manifestos/the-pedagogy-and-curriculum-cartographers-manifesto.md",
+      "status": "candidate-canon",
+      "version": 4,
+      "forces": [
+        {
+          "heading": "FORCE I: Curricular Selection–Exclusion",
+          "line": 124
+        },
+        {
+          "heading": "FORCE II: Sequence–Progression",
+          "line": 133
+        },
+        {
+          "heading": "FORCE III: Coherence–Contradiction",
+          "line": 142
+        },
+        {
+          "heading": "FORCE IV: Teacher Transformation",
+          "line": 151
+        },
+        {
+          "heading": "FORCE V: Guidance–Readiness Reversal",
+          "line": 160
+        },
+        {
+          "heading": "FORCE VI: Formative Uptake",
+          "line": 169
+        },
+        {
+          "heading": "FORCE VII: Assessment–Washback",
+          "line": 178
+        },
+        {
+          "heading": "FORCE VIII: Hidden Curriculum",
+          "line": 187
+        },
+        {
+          "heading": "FORCE IX: Language–Epistemic Authority",
+          "line": 196
+        },
+        {
+          "heading": "FORCE X: Barrier–Target",
+          "line": 205
+        },
+        {
+          "heading": "FORCE XI: Cognitive-Work Substitution",
+          "line": 214
+        }
+      ]
+    }
+  ]
+}
